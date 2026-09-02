@@ -117,7 +117,7 @@ print(f"Southern Co-op: {len(southern_df):,} rows")
 print(f"Co-operative Group API: {len(coop_group_df):,} rows")
 
 # Now lets save the raw data to CSV files
-southern_df.to_csv("Data\Raw/southern_coop_raw.csv", index=False)
+southern_df.to_csv("Data\Raw/southern_coop_raw.csv", index=False) # type: ignore
 
-coop_group_df.to_csv("Data\Raw/coop_group_raw.csv", index=False)
+coop_group_df.to_csv("Data\Raw/coop_group_raw.csv", index=False) # type: ignore
 
