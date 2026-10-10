@@ -369,3 +369,42 @@ ax.set_axis_off()
 
 plt.tight_layout()
 plt.show()
+
+
+
+
+
+
+# ============================================================
+# SAVE ONE-MILE CROSS-PARTY OVERLAP PAIRS
+#
+# Each row in party_overlaps_1mi represents a Southern Co-op
+# store and a Co-operative Group store that are located within
+# one mile of each other.
+#
+# We save only the two store ID columns because this pair table
+# is all that later stages need to identify which merger-party
+# stores are involved in a one-mile local overlap.
+#
+# Script 07 can then load this file and create a one-mile
+# competition catchment around every unique store involved in
+# an overlap, without having to repeat the spatial join carried
+# out in this script.
+#
+# OUTPUT_DIR points to the existing data/derived folder, which
+# is used for outputs created from the cleaned source data.
+# ============================================================
+
+from pathlib import Path
+
+OUTPUT_DIR = Path("../data/derived")
+
+party_overlaps_1mi[
+    [
+        "coop_group_store_id",
+        "southern_store_id"
+    ]
+].to_csv(
+    OUTPUT_DIR / "party_1mi_overlap_pairs.csv",
+    index=False
+)
