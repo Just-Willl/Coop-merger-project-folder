@@ -226,7 +226,7 @@ uk.plot(
 coop_group.plot(
     ax=ax,
     color="tab:blue",
-    markersize=8,
+    markersize=5,
     alpha=0.15,
     zorder=2,
 )
@@ -235,28 +235,17 @@ coop_group.plot(
 southern.plot(
     ax=ax,
     color="tab:orange",
-    markersize=8,
+    markersize=5,
     alpha=0.25,
     zorder=2,
-)
-
-# 1-mile catchments where a merger-party overlap occurs
-overlap_buffers.plot(
-    ax=ax,
-    facecolor="none",
-    edgecolor="tab:red",
-    linewidth=1.2,
-    alpha=0.8,
-    label="1-mile overlap catchment",
-    zorder=3,
 )
 
 # Co-operative Group stores involved in overlaps
 overlapping_coop.plot(
     ax=ax,
     color="tab:blue",
-    markersize=30,
-    alpha=0.9,
+    markersize=35,
+    alpha=0.7,
     edgecolor="white",
     linewidth=0.4,
     label="Overlapping Co-operative Group store",
@@ -267,12 +256,12 @@ overlapping_coop.plot(
 overlapping_southern.plot(
     ax=ax,
     color="tab:orange",
-    markersize=35,
-    alpha=0.95,
+    markersize=40,
+    alpha=0.7,
     edgecolor="white",
     linewidth=0.4,
     label="Overlapping Southern Co-op store",
-    zorder=5,
+    zorder=4,
 )
 
 ax.set_title(
@@ -331,11 +320,11 @@ overlapping_coop.plot(
     ax=ax,
     color="tab:blue",
     markersize=35,
-    alpha=0.95,
+    alpha=0.8,
     edgecolor="white",
     linewidth=0.4,
     label="Overlapping Co-operative Group store",
-    zorder=4,
+    zorder=5,
 )
 
 # Overlapping Southern Co-op stores
@@ -343,7 +332,7 @@ overlapping_southern.plot(
     ax=ax,
     color="tab:orange",
     markersize=38,
-    alpha=0.95,
+    alpha=0.8,
     edgecolor="white",
     linewidth=0.4,
     label="Overlapping Southern Co-op store",

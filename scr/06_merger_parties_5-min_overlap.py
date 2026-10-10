@@ -497,28 +497,13 @@ southern.plot(
 
 
 # ------------------------------------------------------------
-# Flagged 5-minute drive-time catchments
-# ------------------------------------------------------------
-
-flagged_isochrones_5min.plot(
-    ax=ax,
-    facecolor="none",
-    edgecolor="tab:red",
-    linewidth=0.9,
-    alpha=0.55,
-    label="5-minute overlap catchment",
-    zorder=3
-)
-
-
-# ------------------------------------------------------------
 # Co-operative Group stores involved in overlaps
 # ------------------------------------------------------------
 
 overlapping_coop_5min.plot(
     ax=ax,
     color="tab:blue",
-    markersize=10,
+    markersize=20,
     alpha=0.65,
     edgecolor="white",
     linewidth=0.4,
@@ -537,7 +522,7 @@ overlapping_coop_5min.plot(
 overlapping_southern_5min.plot(
     ax=ax,
     color="tab:orange",
-    markersize=10,
+    markersize=20,
     alpha=0.65,
     edgecolor="white",
     linewidth=0.4,
