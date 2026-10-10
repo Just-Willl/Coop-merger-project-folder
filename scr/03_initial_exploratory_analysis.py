@@ -63,7 +63,6 @@ stores_bng[
     color="tab:orange",
     markersize=10,
     alpha=0.85,
-    edgecolor="white",
     linewidth=0.3,
     label="Southern Co-op",
     zorder=2,
