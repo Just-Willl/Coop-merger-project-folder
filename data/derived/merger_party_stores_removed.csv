@@ -1,0 +1,388 @@
+rival_store_id,source,store_name,fascia,osm_brand,canonical_fascia,postcode,party_store_id,party,party_store_name,distance_m,same_postcode,same_name
+GEO-1010009623,GEOLYTIX,Co-op Clifton,The Co-operative Food,,Co-op,BS8 4BX,CG-109477-0000,Co-operative Group,Bristol - Clifton Village,6.192832961925581,True,False
+GEO-1010007862,GEOLYTIX,Co-op High Kingsdown,The Co-operative Food,,Co-op,BS2 8DD,CG-109475-0000,Co-operative Group,Bristol - Clarence Place,7.7796500335484025,True,False
+GEO-1010011916,GEOLYTIX,Co-op Rose Green Road Rose Green,The Co-operative Food,,Co-op,PO21 3EQ,SC-4705299,Southern Co-op,"The Co-operative Food Bognor Regis, Rose Green Road",10.228175735088614,True,False
+GEO-1010009055,GEOLYTIX,Co-op St James Street,The Co-operative Food,,Co-op,BN2 1RG,CG-106814-0000,Co-operative Group,Kemptown - St James's Street,9.496343446494938,True,False
+GEO-1010009921,GEOLYTIX,Co-op Kippax - 60 High Street,The Co-operative Food,,Co-op,LS25 7AB,CG-105848-0000,Co-operative Group,Kippax - High Street,5.989908389586936,True,False
+GEO-1010008295,GEOLYTIX,Co-op Shirley London,The Co-operative Food,,Co-op,CR0 8TG,CG-106769-0000,Co-operative Group,Shirley Oaks - Shirley Road,7.90272345536462,True,False
+GEO-1010008542,GEOLYTIX,Co-op Fairfield Avenue,The Co-operative Food,,Co-op,PO14 1EH,CG-107398-0000,Co-operative Group,Fareham - Fairfield Avenue,4.338039738502774,True,False
+GEO-1010009003,GEOLYTIX,Co-op Bohemia Road,The Co-operative Food,,Co-op,TN37 6RE,CG-107265-0000,Co-operative Group,St Leonards - Bohemia Road,5.7470865956911545,True,False
+GEO-1010007700,GEOLYTIX,Co-op Southwick Square,The Co-operative Food,,Co-op,BN42 4FJ,CG-106802-0000,Co-operative Group,Southwick - Southwick Square,16.39653075306673,True,False
+GEO-1010011853,GEOLYTIX,Co-op Abinger Road Portslade,The Co-operative Food,,Co-op,BN41 1SD,SC-4705344,Southern Co-op,"The Co-operative Food Portslade, Abinger Road",13.47082751037434,True,False
+GEO-1010010076,GEOLYTIX,Co-op Hove - Church Road,The Co-operative Food,,Co-op,BN3 2EB,CG-109823-0000,Co-operative Group,Hove - Church Road,7.274587896880856,True,False
+GEO-1010010065,GEOLYTIX,Co-op Camden - Camley Street,The Co-operative Food,,Co-op,N1C 4PF,CG-104203-0000,Co-operative Group,Camden - Camley Street,21.058060095803384,True,False
+GEO-1010010243,GEOLYTIX,Co-op Milton Keynes - Monkston Park,The Co-operative Food,,Co-op,MK10 9PN,CG-104352-0000,Co-operative Group,Milton Keynes - Plaistow Crescent,6.6423052218837055,True,False
+GEO-1010011957,GEOLYTIX,Co-op High Street Southampton,The Co-operative Food,,Co-op,SO14 2EA,SC-4705296,Southern Co-op,"The Co-operative Food Southampton, High Street",8.801875055461458,True,False
+GEO-1010009165,GEOLYTIX,Co-op Field Place,The Co-operative Food,,Co-op,BN12 6BS,CG-104939-0000,Co-operative Group,Worthing - Field Place Parade,3.4710741999633545,True,False
+GEO-1010007853,GEOLYTIX,Co-op Sandown,The Co-operative Food,,Co-op,PO36 8AD,CG-109719-0000,Co-operative Group,Sandown - High Street,9.832411840246559,True,False
+GEO-1010008299,GEOLYTIX,Co-op Valliers Wood,The Co-operative Food,,Co-op,DA15 8DJ,CG-107836-0000,Co-operative Group,Sidcup - Halfway Street,30.57339115871821,True,False
+GEO-1010015566,GEOLYTIX,Co-op Burgess Hill - Kings Weald,The Co-operative Food,,Co-op,RH15 0NT,CG-105647-0000,Co-operative Group,Burgess Hill - Terracotta Lane,2.544199007901542,True,False
+GEO-1010008788,GEOLYTIX,Co-op Haven Banks,The Co-operative Food,,Co-op,EX2 8BP,CG-105835-0000,Co-operative Group,Exeter - Haven Road,3.6003931031904135,True,False
+GEO-1010011939,GEOLYTIX,Co-op West Leigh Havant,The Co-operative Food,,Co-op,PO9 2JR,SC-4705232,Southern Co-op,"The Co-operative Food Havant, St Albans Road",1.8143023306369352,True,False
+GEO-1010007818,GEOLYTIX,Co-op Holbury,The Co-operative Food,,Co-op,SO45 2NZ,CG-105770-0000,Co-operative Group,Holbury - Long Lane,3.121445393177922,True,False
+GEO-1010015565,GEOLYTIX,Co-op Newbury - Monument Close,The Co-operative Food,,Co-op,RG14 6QW,CG-106091-0000,Co-operative Group,Newbury - Monument Close,7.162393770214705,True,False
+GEO-1010019002,GEOLYTIX,Co-op Poole - Ashley Cross,The Co-operative Food,,Co-op,BH14 0JD,CG-106003-0000,Co-operative Group,Poole - Ashley Cross,54.83775942858005,True,False
+GEO-1010011973,GEOLYTIX,Co-op Winchester Hill Romsey,The Co-operative Food,,Co-op,SO51 7YY,SC-4705274,Southern Co-op,"The Co-operative Food Romsey, Winchester Hill",3.861471677135871,True,False
+GEO-1010011974,GEOLYTIX,Co-op Romsey Central Romsey,The Co-operative Food,,Co-op,SO51 8BW,SC-4705255,Southern Co-op,The Co-operative Food Romsey,6.610988750580568,True,False
+GEO-1010008176,GEOLYTIX,Co-op Horfield - Filton Road,The Co-operative Food,,Co-op,BS7 0PB,CG-104716-0000,Co-operative Group,Bristol - Filton Road,7.293679073684485,True,False
+GEO-1010011854,GEOLYTIX,Co-op Redcliffe Street Bristol,The Co-operative Food,,Co-op,BS1 6LT,SC-4705338,Southern Co-op,"The Co-operative Food Bristol, Redcliffe Street",4.196292463394094,True,False
+GEO-1010008440,GEOLYTIX,Co-op South Ealing Road,The Co-operative Food,,Co-op,W5 4QS,CG-106794-0000,Co-operative Group,Ealing - South Ealing Road,5.596917854599981,True,False
+GEO-1010008368,GEOLYTIX,Co-op Raynes Park,The Co-operative Food,,Co-op,SW20 0AX,CG-106697-0000,Co-operative Group,Coombe Lane - Raynes Park,1.528466833494676,True,False
+GEO-1010011915,GEOLYTIX,Co-op New Hawthorn Road Bognor Regis,The Co-operative Food,,Co-op,PO21 2UR,SC-4705247,Southern Co-op,The Co-operative Food Hawthorn Rd,9.12115814277042,True,False
+GEO-1010007623,GEOLYTIX,Co-op 311 Lower Addiscombe Road Addiscombe,The Co-operative Food,,Co-op,CR0 7AF,CG-104557-0000,Co-operative Group,Croydon - Lower Addiscombe Road,2.4019112765604542,True,False
+GEO-1010007643,GEOLYTIX,Co-op Eastbourne,The Co-operative Food,,Co-op,BN21 4QD,CG-109822-0000,Co-operative Group,Eastbourne - Cornfield Road,3.813948183531605,True,False
+GEO-1010009167,GEOLYTIX,Co-op Woodbridge Hill,The Co-operative Food,,Co-op,GU2 9AB,CG-105944-0000,Co-operative Group,Guildford - Woodbridge Hill,5.06786652572523,True,False
+GEO-1010018642,GEOLYTIX,Co-op Hove Kingsway,The Co-operative Food,,Co-op,BN3 2PU,CG-105445-0000,Co-operative Group,Hove - Kingsway,28.839168494339237,False,False
+GEO-1010008963,GEOLYTIX,Co-op Newton Road,The Co-operative Food,,Co-op,MK3 5BS,CG-106577-0000,Co-operative Group,Bletchley - Newton Road,12.2177496139066,True,False
+GEO-1010008600,GEOLYTIX,Co-op Castle Road,The Co-operative Food,,Co-op,SP1 3RR,CG-107303-0000,Co-operative Group,Salisbury - Castle Road,4.82636960360442,True,False
+GEO-1010008982,GEOLYTIX,Co-op Woolston - Johns Road,The Co-operative Food,,Co-op,SO19 9BU,CG-107904-0000,Co-operative Group,Southampton - Johns Road,8.531853771368057,True,False
+GEO-1010009090,GEOLYTIX,Co-op Manor Parade,The Co-operative Food,,Co-op,BN13 2JP,CG-107538-0000,Co-operative Group,Worthing - Manor Parade,67.938920701064,True,False
+GEO-1010007715,GEOLYTIX,Co-op Lancing - North Road,The Co-operative Food,,Co-op,BN15 9BA,CG-109830-0000,Co-operative Group,Lancing - North Road,18.10379625305226,True,False
+GEO-1010008304,GEOLYTIX,Co-op Blendon Road,The Co-operative Food,,Co-op,DA5 1BT,CG-107263-0000,Co-operative Group,Bexley - Blendon Road,21.478006238532636,True,False
+GEO-1010008297,GEOLYTIX,Co-op New Eltham,The Co-operative Food,,Co-op,SE9 2AA,CG-104732-0000,Co-operative Group,New Eltham - Footscray Road,5.409744027541129,True,False
+GEO-1010007910,GEOLYTIX,Co-op Chatham - Maritime Way,The Co-operative Food,,Co-op,ME4 3ER,CG-107814-0000,Co-operative Group,Chatham - Maritime Way,17.450335487263,True,False
+GEO-1010011893,GEOLYTIX,Co-op High Street Emsworth,The Co-operative Food,,Co-op,PO10 7AW,SC-4705245,Southern Co-op,The Co-operative Food Emsworth,5.647644269099986,True,False
+GEO-1010008131,GEOLYTIX,Co-op Upton,The Co-operative Food,,Co-op,BH16 5JA,CG-105228-0000,Co-operative Group,Upton - Poole Road,31.38577310413685,True,False
+GEO-1010008085,GEOLYTIX,Co-op Good Road,The Co-operative Food,,Co-op,BH12 3HP,CG-107432-0000,Co-operative Group,Poole - Good Road,6.886822096970251,True,False
+GEO-1010008013,GEOLYTIX,Co-op Priorswood Place,The Co-operative Food,,Co-op,TA2 7JW,CG-106680-0000,Co-operative Group,Taunton - Priorswood Place,1.9077347266090519,True,False
+GEO-1010011871,GEOLYTIX,Co-op Weston Road Easton,The Co-operative Food,,Co-op,DT5 2BY,SC-4705307,Southern Co-op,"The Co-operative Food Portland, Weston Road",16.180205727297388,True,False
+GEO-1010009624,GEOLYTIX,Co-op Downend Road,The Co-operative Food,,Co-op,BS16 5UJ,CG-109487-0000,Co-operative Group,Bristol - Downend Road,16.441998371809586,True,False
+GEO-1010008483,GEOLYTIX,Co-op Ewell - Kingston Road,The Co-operative Food,,Co-op,KT19 0SU,CG-107396-0000,Co-operative Group,Ewell - Kingston Road,17.326118322282568,True,False
+GEO-1010008607,GEOLYTIX,Co-op Southbourne,The Co-operative Food,,Co-op,BH5 2JB,CG-109707-0000,Co-operative Group,Southbourne - Seabourne Road,9.900780127629236,True,False
+GEO-1010009567,GEOLYTIX,Co-op Moordown,The Co-operative Food,,Co-op,BH9 2BN,CG-109713-0000,Co-operative Group,Moordown - Wimbourne Road,11.950110851664046,True,False
+GEO-1010011849,GEOLYTIX,Co-op Lindfield Road Eastbourne,The Co-operative Food,,Co-op,BN22 0AU,SC-4705194,Southern Co-op,"The Co-operative Food Eastbourne, Lindfield Road",3.9674499047534737,True,False
+GEO-1010011876,GEOLYTIX,Co-op 190b Exeter Road Exmouth,The Co-operative Food,,Co-op,EX8 3EA,SC-4705185,Southern Co-op,"The Co-operative Food Exmouth, Exeter Road",9.790001483920248,True,False
+GEO-1010009271,GEOLYTIX,Co-op Porters Avenue,The Co-operative Food,,Co-op,RM9 4ND,CG-106666-0000,Co-operative Group,Dagenham - Porters Avenue,10.592865429702526,True,False
+GEO-1010009649,GEOLYTIX,Co-op Askew Road,The Co-operative Food,,Co-op,W12 9BL,CG-156174-0000,Co-operative Group,Askew Road,35.93709093414247,True,False
+GEO-1010008260,GEOLYTIX,Co-op Spa Road - Bermondsey,The Co-operative Food,,Co-op,SE16 4AU,CG-156167-0000,Co-operative Group,Spa Road,21.8741025536195,True,False
+GEO-1010008027,GEOLYTIX,Co-op Park Gate,The Co-operative Food,,Co-op,SO31 7GE,CG-107601-0000,Co-operative Group,Park Gate - Bridge Road,2.234105932925216,True,False
+GEO-1010009130,GEOLYTIX,Co-op Farnborough Park,The Co-operative Food,,Co-op,GU14 7EF,CG-104929-0000,Co-operative Group,Farnborough - Woburn Avenue,4.701260928634301,True,False
+GEO-1010011940,GEOLYTIX,Co-op Middle Park Way Havant,The Co-operative Food,,Co-op,PO9 4AB,SC-4705207,Southern Co-op,"The Co-operative Food Havant, Middle Park Way",8.083269603041307,True,False
+GEO-1010011833,GEOLYTIX,Co-op 25 Ringwood Road Poole,The Co-operative Food,,Co-op,BH14 0RF,SC-4705191,Southern Co-op,"The Co-operative Food Poole, Ringwood Road",3.9386869011853713,True,False
+GEO-1010007666,GEOLYTIX,Co-op Southsea,The Co-operative Food,,Co-op,PO4 0JR,CG-109738-0000,Co-operative Group,Southsea - 251 Albert Road,3.2152712561302472,True,False
+GEO-1010007829,GEOLYTIX,Co-op Romsey - Halterworth,The Co-operative Food,,Co-op,SO51 5QY,SC-4700848,Southern Co-op,Welcome Halterworth,2.8047350505739925,True,False
+GEO-1010009531,GEOLYTIX,Co-op Crow Lane,The Co-operative Food,,Co-op,BS10 7DR,CG-104840-0000,Co-operative Group,Bristol - Crow Lane,2.9899534192030126,True,False
+GEO-1010009178,GEOLYTIX,Co-op Westbury-on-Trym,The Co-operative Food,,Co-op,BS9 3DF,CG-109476-0000,Co-operative Group,Bristol - Canford Lane,13.319054051799771,True,False
+GEO-1010008499,GEOLYTIX,Co-op Brentford - Boston Manor Road,The Co-operative Food,,Co-op,TW8 9GB,CG-108996-0000,Co-operative Group,Brentford - Boston Manor Road,4.135403797734865,True,False
+GEO-1010008201,GEOLYTIX,Co-op New Road Croxley Green Watford,The Co-operative Food,,Co-op,WD3 3ER,CG-104842-0000,Co-operative Group,Croxley Green - New Road,10.409029877297106,True,False
+GEO-1010008611,GEOLYTIX,Co-op Andover - London Road,The Co-operative Food,,Co-op,SP10 2PP,CG-105953-0000,Co-operative Group,Andover - London Road,13.783260071959333,True,False
+GEO-1010010283,GEOLYTIX,Co-op Bournemouth - Queens Road,The Co-operative Food,,Co-op,BH2 6BE,CG-104129-0000,Co-operative Group,Bournemouth - Queens Road,9.44539092365046,True,False
+GEO-1010007900,GEOLYTIX,Co-op Albert Parade,The Co-operative Food,,Co-op,BN21 1SD,CG-104563-0000,Co-operative Group,Eastbourne - Albert Parade,6.308007786861349,True,False
+GEO-1010007665,GEOLYTIX,Co-op Fareham - Highlands Road,The Co-operative Food,,Co-op,PO15 6QL,CG-109734-0000,Co-operative Group,Fareham - Highlands Road,12.815817754360467,True,False
+GEO-1010008783,GEOLYTIX,Co-op St Leonards - London Road,The Co-operative Food,,Co-op,TN37 6AN,CG-107704-0000,Co-operative Group,St Leonards - London Road,8.08163474147299,True,False
+GEO-1010011852,GEOLYTIX,Co-op Portland Road Hove,The Co-operative Food,,Co-op,BN3 5QU,SC-4705196,Southern Co-op,"The Co-operative Food Hove, Portland Road",11.435037920315311,True,False
+GEO-1010010071,GEOLYTIX,Co-op Blatchington Road,The Co-operative Food,,Co-op,BN3 3YH,CG-104661-0000,Co-operative Group,Brighton & Hove - Blatchington Road,18.73187391857966,True,False
+GEO-1010009272,GEOLYTIX,Co-op Gale Street,The Co-operative Food,,Co-op,RM9 4TP,CG-104961-0000,Co-operative Group,Dagenham - Gale Street,13.18083318254304,True,False
+GEO-1010009218,GEOLYTIX,Co-op Dalston Square - London,The Co-operative Food,,Co-op,E8 3FT,CG-108849-0000,Co-operative Group,London - Dalston Lane,27.161053099086747,True,False
+GEO-1010008240,GEOLYTIX,Co-op Southwark - Southwark Bridge Road,The Co-operative Food,,Co-op,SE1 0DG,CG-106921-0000,Co-operative Group,Southwark - Southwark Bridge Road,7.067736854411666,True,False
+GEO-1010007784,GEOLYTIX,Co-op Llangollen,The Co-operative Food,,Co-op,LL20 8HN,CG-109252-0000,Co-operative Group,Llangollen - Regent Street,9.340325950243423,True,False
+GEO-1010008785,GEOLYTIX,Co-op Exeter - Pennsylvania Rd,The Co-operative Food,,Co-op,EX4 6BP,CG-104962-0000,Co-operative Group,Exeter - Pennsylvania Road,6.60498593579885,True,False
+GEO-1010011924,GEOLYTIX,Co-op Eastney Road Portsmouth,The Co-operative Food,,Co-op,PO4 8EA,SC-4705268,Southern Co-op,"The Co-operative Food Portsmouth, Eastney Road",7.6457749488846645,True,False
+GEO-1010007888,GEOLYTIX,Co-op Wainscott - Wainscott Road,The Co-operative Food,,Co-op,ME2 4LB,CG-104340-0000,Co-operative Group,Wainscott - Wainscott Road,42.26288017305347,True,False
+GEO-1010015612,GEOLYTIX,Co-op Bristol - Lodge Road,The Co-operative Food,,Co-op,BS15 1JA,CG-105396-0000,Co-operative Group,Bristol - Lodge Road,0.0037470009100136568,True,False
+GEO-1010015613,GEOLYTIX,Co-op Bristol - Coronation Road,The Co-operative Food,,Co-op,BS3 1RF,CG-105283-0000,Co-operative Group,Bristol - Coronation Road,43.308240915222946,True,False
+GEO-1010014997,GEOLYTIX,Co-op Upminster Road - Upminster,The Co-operative Food,,Co-op,RM14 2RB,CG-105258-0000,Co-operative Group,Upminster - Upminster Road,32.1330267431424,True,False
+GEO-1010014553,GEOLYTIX,Co-op Bournemouth - Christchurch Road,The Co-operative Food,,Co-op,BH1 3PH,CG-105356-0000,Co-operative Group,Bournemouth - Christchurch Road,15.443997719378917,False,False
+GEO-1010021927,GEOLYTIX,Co-op FR Bournemouth - Boscombe,The Co-operative Food,,Co-op,BH8 8BN,SC-4700896,Southern Co-op,Welcome Boscombe,8.471015858690668,True,False
+GEO-1010014798,GEOLYTIX,Co-op Forton Road - Gosport,The Co-operative Food,,Co-op,PO12 3HW,SC-4705205,Southern Co-op,"The Co-operative Food Gosport, Forton Road 268",9.9306950965572,True,False
+GEO-1010014799,GEOLYTIX,Co-op Elson,The Co-operative Food,,Co-op,PO12 4EH,SC-4705219,Southern Co-op,"The Co-operative Food Gosport, Palmyra Road",9.232210432343702,True,False
+GEO-1010014801,GEOLYTIX,Co-op Cherque Farm,The Co-operative Food,,Co-op,PO13 8AT,SC-4705252,Southern Co-op,"The Co-operative Food Lee on Solent, Twyford Drive",5.396304264500245,True,False
+GEO-1010014844,GEOLYTIX,Co-op Portslade - Mile Oak Road,The Co-operative Food,,Co-op,BN41 2RB,CG-104305-0000,Co-operative Group,Portslade - Mile Oak Road,10.822064356371708,True,False
+GEO-1010020496,GEOLYTIX,Co-op Barking Riverside Development,The Co-operative Food,,Co-op,IG11 0DS,CG-103636-0000,Co-operative Group,Barking - Riverside North,2.6016959560013317,False,False
+GEO-1010015754,GEOLYTIX,Co-op Rotherhithe Street London,The Co-operative Food,,Co-op,SE16 5EF,CG-105230-0000,Co-operative Group,London - Rotherhithe Street,9.88301259067962,True,False
+GEO-1010023538,GEOLYTIX,Co-op FR Aberfeldy Square,The Co-operative Food,,Co-op,E14 0XA,SC-5895829,Southern Co-op,Welcome Aberfeldy Square,5.527025871709892,True,False
+GEO-1010014559,GEOLYTIX,Co-op Highbury - Queensland Terrace,The Co-operative Food,,Co-op,N7 7BA,CG-105053-0000,Co-operative Group,Highbury - Queensland Terrace,11.992840015176956,True,False
+GEO-1010014466,GEOLYTIX,Co-op Dover House - Lower Marsh,The Co-operative Food,,Co-op,SE1 7NT,CG-104086-0000,Co-operative Group,Lambeth - Lower Marsh,17.901720584588137,True,False
+GEO-1010020814,GEOLYTIX,Co-op FR Downs Barn,The Co-operative Food,,Co-op,MK14 7QB,SC-4700864,Southern Co-op,Welcome Downs Barn,2.372863337866235,True,False
+GEO-1010014792,GEOLYTIX,Co-op Addlestone New Haw Road,The Co-operative Food,,Co-op,KT15 2DS,SC-4705348,Southern Co-op,"The Co-operative Food Addlestone, New Haw Road",14.924129271845255,True,False
+GEO-1010014806,GEOLYTIX,Co-op Mill Hill Cowes,The Co-operative Food,,Co-op,PO31 7EL,SC-4705280,Southern Co-op,"The Co-operative Food Cowes, Mill Hill Road",1.2380324641654679,True,False
+GEO-1010020817,GEOLYTIX,Co-op FR Mytchett,The Co-operative Food,,Co-op,GU16 6ES,SC-4700837,Southern Co-op,Welcome Mytchett,3.1984254190517016,True,False
+GEO-1010015702,GEOLYTIX,Co-op Harrietsham - Ashford Road,The Co-operative Food,,Co-op,ME17 1GF,CG-105584-0000,Co-operative Group,Harrietsham - Ashford Road,12.487647156136267,True,False
+GEO-1010023375,GEOLYTIX,Co-op FR Cranbrook Service Stn,The Co-operative Food,,Co-op,TN17 2HR,SC-4700874,Southern Co-op,Welcome Wilsley Pound,12.868588886843675,True,False
+GEO-1010014412,GEOLYTIX,Co-op Sandy,The Co-operative Food,,Co-op,SG19 1AA,CG-105298-0000,Co-operative Group,Sandy - High Street,19.331632623553073,True,False
+GEO-1010014578,GEOLYTIX,Co-op Croydon - Lansdowne Road,The Co-operative Food,,Co-op,CR0 2BX,CG-105400-0000,Co-operative Group,Croydon - Lansdowne Road,11.63769491832718,True,False
+GEO-1010021181,GEOLYTIX,Co-op Newham - Plaistow Road,The Co-operative Food,,Co-op,E13 0DY,CG-105579-0000,Co-operative Group,Plaistow - Plaistow Road,11.194884885636922,True,False
+GEO-1010014579,GEOLYTIX,Co-op London - 260 Goldhawk Road,The Co-operative Food,,Co-op,W12 9PE,CG-105150-0000,Co-operative Group,London - Goldhawk Road,6.638832632362259,True,False
+GEO-1010020349,GEOLYTIX,Co-op Bermondsey - Grange Road,The Co-operative Food,,Co-op,SE1 3BA,CG-106104-0000,Co-operative Group,Bermondsey - Crimscott Street,3.514558665768917,False,False
+GEO-1010020830,GEOLYTIX,Co-op FR Beanhill,The Co-operative Food,,Co-op,MK6 4LP,SC-4700866,Southern Co-op,Welcome Beanhill,9.59135548715741,True,False
+GEO-1010020808,GEOLYTIX,Co-op FR Cranfield,The Co-operative Food,,Co-op,MK43 0ST,SC-4700853,Southern Co-op,Welcome Cranfield,4.645963270295183,True,False
+GEO-1010014834,GEOLYTIX,Co-op Old Sarum Crossier Close,The Co-operative Food,,Co-op,SP4 6GX,SC-4705351,Southern Co-op,"The Co-operative Food Old Sarum, Crosier Close",18.004962519871533,True,False
+GEO-1010014794,GEOLYTIX,Co-op Lenham Faversham Road,The Co-operative Food,,Co-op,ME17 2PN,SC-4705282,Southern Co-op,"The Co-operative Food Lenham, Faversham Road",15.807949506041457,True,False
+GEO-1010015760,GEOLYTIX,Co-op Spring Road,The Co-operative Food,,Co-op,SO19 2NT,CG-105415-0000,Co-operative Group,Southampton - Spring Road,7.771447319265472,True,False
+GEO-1010014818,GEOLYTIX,Co-op Purbrook London Road,The Co-operative Food,,Co-op,PO7 5LG,SC-4705277,Southern Co-op,"The Co-operative Food Purbrook, London Road",2.1649875766073228,True,False
+GEO-1010014795,GEOLYTIX,Co-op Addlestone Church Road,The Co-operative Food,,Co-op,KT15 1SG,SC-4705324,Southern Co-op,"The Co-operative Food Addlestone, Church Road",5.9154545537066685,True,False
+GEO-1010020840,GEOLYTIX,Co-op Lancing,The Co-operative Food PFS,,Co-op,BN15 0HL,SC-4700825,Southern Co-op,Welcome Manor Road,13.158207203346668,True,False
+GEO-1010014812,GEOLYTIX,Co-op Avenue Road,The Co-operative Food,,Co-op,PO36 9AN,SC-4705308,Southern Co-op,"The Co-operative Food Sandown, Avenue Road",13.76618325642694,True,False
+GEO-1010014810,GEOLYTIX,Co-op West Street Ryde,The Co-operative Food,,Co-op,PO33 2UH,SC-4705347,Southern Co-op,"The Co-operative Food Ryde, West Street",2.0810828610235332,True,False
+GEO-1010014824,GEOLYTIX,Co-op Burgess Hill-Junction Road,The Co-operative Food,,Co-op,RH15 0JP,SC-4705302,Southern Co-op,"The Co-operative Food Burgess Hill, Junction Road",8.069564245675267,True,False
+GEO-1010013745,GEOLYTIX,Co-op Chessington Road,The Co-operative Food,,Co-op,KT19 9GG,CG-104307-0000,Co-operative Group,Ewell - Chessington Road,2.6226651822473825,True,False
+GEO-1010014797,GEOLYTIX,Co-op Southbourne Main Road,The Co-operative Food,,Co-op,PO10 8JD,SC-4705313,Southern Co-op,"The Co-operative Food Southbourne, Main Road",12.533946232684066,True,False
+GEO-1010024319,GEOLYTIX,Co-op Food 1 Steeplechase Way,The Co-operative Food,,Co-op,BN18 0UF,SC-5199578,Southern Co-op,Co-op Food,11.879804719385664,True,False
+GEO-1010015736,GEOLYTIX,Co-op Bognor Regis - Chichester Road,The Co-operative Food,,Co-op,PO21 2XH,CG-106076-0000,Co-operative Group,Bognor Regis - Chichester Road,5.964128102801646,True,False
+GEO-1010020841,GEOLYTIX,Co-op FR Shepherds Bush,The Co-operative Food,,Co-op,W12 8LP,SC-4700838,Southern Co-op,Welcome Shepherd's Bush,2.5005226884793155,True,False
+GEO-1010014582,GEOLYTIX,Co-op Notting Hill - St Anns Road,The Co-operative Food,,Co-op,W11 4BU,CG-104358-0000,Co-operative Group,Notting Hill - St Ann's Road,5.2531406636317906,True,False
+GEO-1010013736,GEOLYTIX,Co-op Cassilis Road,The Co-operative Food,,Co-op,E14 9LQ,CG-105059-0000,Co-operative Group,Isle of Dogs - Cassilis Road,5.264190977395551,True,False
+GEO-1010020809,GEOLYTIX,Co-op FR Kents Hill,The Co-operative Food,,Co-op,MK7 6HH,SC-4700860,Southern Co-op,Welcome Kents Hill,2.888102744288799,True,False
+GEO-1010020811,GEOLYTIX,Co-op FR Denvilles,The Co-operative Food,,Co-op,PO9 2FE,SC-4700827,Southern Co-op,Welcome Denvilles,20.550634537103623,True,False
+GEO-1010015807,GEOLYTIX,Co-op Abbotswood Common Road Romsey,The Co-operative Food,,Co-op,SO51 0BX,SC-4705356,Southern Co-op,The Co-operative Food Abbotswood,5.704359228464902,True,False
+GEO-1010020832,GEOLYTIX,Co-op FR Station Road,The Co-operative Food,,Co-op,TA1 1NQ,SC-4700870,Southern Co-op,Welcome Taunton,9.854633653308163,True,False
+GEO-1010020302,GEOLYTIX,Co-op Cranfield - High Street,The Co-operative Food,,Co-op,MK43 0DP,CG-106216-0000,Co-operative Group,Cranfield - High Street,55.11415938094681,True,False
+GEO-1010020508,GEOLYTIX,Co-op Brighton - 119 London Road,The Co-operative Food,,Co-op,BN1 4JH,CG-106050-0000,Co-operative Group,Brighton - London Road,51.24024790213492,True,False
+GEO-1010025343,GEOLYTIX,Co-op Castleford,The Co-operative Food,,Co-op,WF10 2HE,SC-5936135,Southern Co-op,Welcome Castleford,7.4792034855713885,True,False
+GEO-1010021163,GEOLYTIX,Co-op Stubbington,The Co-operative Food,,Co-op,PO14 3LJ,SC-4700832,Southern Co-op,Welcome Stubbington,8.188516979485406,True,False
+GEO-1010014800,GEOLYTIX,Co-op Bridgemary,The Co-operative Food,,Co-op,PO13 0UP,SC-4705204,Southern Co-op,"The Co-operative Food Bridgemary, Gregson Avenue",1.9596728942549668,True,False
+GEO-1010015014,GEOLYTIX,Co-op Latimer Road Station,The Co-operative Food,,Co-op,W10 6SZ,CG-105417-0000,Co-operative Group,London - Bramley Road,4.596924290207757,True,False
+GEO-1010015755,GEOLYTIX,Co-op London - Cannon Wharf,The Co-operative Food,,Co-op,SE8 5EN,CG-105265-0000,Co-operative Group,London - Yeoman Street,8.823603320641235,True,False
+GEO-1010013740,GEOLYTIX,Co-op Grays Inn Road,The Co-operative Food,,Co-op,WC1X 8PR,CG-108969-0000,Co-operative Group,London - 39-43 Grays Inn Road,24.404860807712673,True,False
+GEO-1010020820,GEOLYTIX,Co-op Angel Islington,The Co-operative Food,,Co-op,N1 7FZ,SC-4700817,Southern Co-op,Welcome Angel Islington,8.547215418848458,True,False
+GEO-1010013760,GEOLYTIX,Co-op Sumner Street,The Co-operative Food,,Co-op,SE1 9RE,CG-105062-0000,Co-operative Group,London - Sumner Street,5.126928942292912,True,False
+GEO-1010015648,GEOLYTIX,Co-op London - America Square,The Co-operative Food,,Co-op,EC3N 2LU,CG-105541-0000,Co-operative Group,London - Minories,21.9305471130795,True,False
+GEO-1010015759,GEOLYTIX,Co-op Southampton - Ocean Village,The Co-operative Food,,Co-op,SO14 3TL,CG-105590-0000,Co-operative Group,Southampton - Ocean Way,49.98345512225657,True,False
+GEO-1010015761,GEOLYTIX,Co-op Southampton Sholing,The Co-operative Food,,Co-op,SO19 8NG,SC-4700833,Southern Co-op,Welcome Sholing,7.251750993588531,True,False
+GEO-1010014414,GEOLYTIX,Co-op Byfleet Village,The Co-operative Food,,Co-op,KT14 7RA,CG-105307-0000,Co-operative Group,Byfleet - High Road,2.8668488978201654,True,False
+GEO-1010014842,GEOLYTIX,Co-op Staines Laleham Road,The Co-operative Food,,Co-op,TW18 2PA,SC-4705341,Southern Co-op,"The Co-operative Food Staines, Laleham Road",9.546024849720892,True,False
+GEO-1010014776,GEOLYTIX,Co-op Bath Widcombe,The Co-operative Food,,Co-op,BA2 6AA,SC-4705342,Southern Co-op,"The Co-operative Food Bath, Widcombe Hill",10.271096393497134,True,False
+GEO-1010023808,GEOLYTIX,Co-op Leighton Buzzard,The Co-operative Food,,Co-op,LU7 3EL,SC-4819776,Southern Co-op,Welcome Leighton Buzzard,53.47548682027165,True,False
+GEO-1010020506,GEOLYTIX,Co-op Rickmansworth,The Co-operative Food PFS,,Co-op,WD3 7BQ,SC-4700820,Southern Co-op,Welcome Rickmansworth,72.5882542843834,True,False
+GEO-1010020823,GEOLYTIX,Co-op FR Taunton,The Co-operative Food,,Co-op,TA2 6AN,SC-4700842,Southern Co-op,Welcome Staplegrove,3.949998551543676,True,False
+GEO-1010016153,GEOLYTIX,Co-op Cranbrook High Street,The Co-operative Food,,Co-op,TN17 3DN,SC-4700823,Southern Co-op,Welcome Cranbrook,5.264200278667039,True,False
+GEO-1010014955,GEOLYTIX,Co-op Weymouth Chickerell Road,The Co-operative Food,,Co-op,DT4 0RA,SC-4705359,Southern Co-op,"The Co-operative Food Weymouth, Chickerell Road",32.00566004124437,True,False
+GEO-1010023373,GEOLYTIX,Co-op Bristol - Ashley Down,The Co-operative Food,,Co-op,BS7 8PE,CG-106263-0000,Co-operative Group,Bristol - 327 Gloucester Road,0.0002930560809877539,True,False
+GEO-1010015803,GEOLYTIX,Co-op Cromwell Road Whitstable,The Co-operative Food,,Co-op,CT5 2AA,SC-4705362,Southern Co-op,"The Co-operative Food Whitstable, Cromwell Road",7.298571383337748,True,False
+GEO-1010009071,GEOLYTIX,Co-op Barnham,The Co-operative Food,,Co-op,PO22 0HB,CG-107240-0000,Co-operative Group,Barnham - Barnham Road,6.638158202497615,True,False
+GEO-1010009072,GEOLYTIX,Co-op Bognor,The Co-operative Food,,Co-op,PO21 3HG,CG-107264-0000,Co-operative Group,Bognor Regis - Nyetimber Lane,14.211253608462103,True,False
+GEO-1010008114,GEOLYTIX,Co-op Littleham Cross,The Co-operative Food,,Co-op,EX8 2QG,CG-105811-0000,Co-operative Group,Exmouth - Littleham Road,18.185114597513202,True,False
+GEO-1010008067,GEOLYTIX,Co-op Culverhill Frome,The Co-operative Food,,Co-op,BA11 5AD,CG-105992-0000,Co-operative Group,Frome - Culverhill,4.367276383078007,True,False
+GEO-1010009163,GEOLYTIX,Co-op Guildford - Madrid Road,The Co-operative Food,,Co-op,GU2 7NT,CG-107848-0000,Co-operative Group,Guildford - Madrid Road,3.5859413184539726,True,False
+GEO-1010008714,GEOLYTIX,Co-op Upper Shoreham Rd,The Co-operative Food,,Co-op,BN43 6TB,CG-107679-0000,Co-operative Group,Shoreham-by-Sea - Upper Shoreham Rd,6.191522489669151,True,False
+GEO-1010007717,GEOLYTIX,Co-op Shoreham - Ham Road,The Co-operative Food,,Co-op,BN43 6PA,CG-109819-0000,Co-operative Group,Shoreham-by-Sea - Ham Road,22.857990770594274,True,False
+GEO-1010010206,GEOLYTIX,Co-op Gainsborough Studios,The Co-operative Food,,Co-op,N1 6SU,CG-105942-0000,Co-operative Group,Gainsborough Studios - New N Road,2.1040725152287956,True,False
+GEO-1010008028,GEOLYTIX,Co-op Warsash,The Co-operative Food,,Co-op,SO31 9HW,CG-107760-0000,Co-operative Group,Warsash - Warsash Road,4.921639139996969,True,False
+GEO-1010007645,GEOLYTIX,Co-op Wimborne,The Co-operative Food,,Co-op,BH21 1ED,CG-109674-0000,Co-operative Group,Wimbourne - Hanham Road,14.298660474748532,True,False
+GEO-1010009161,GEOLYTIX,Co-op Sompting,The Co-operative Food,,Co-op,BN15 0EN,CG-107687-0000,Co-operative Group,Sompting - Test Road,13.804010452008072,True,False
+GEO-1010008780,GEOLYTIX,Co-op Falconwood Park,The Co-operative Food,,Co-op,DA16 2PQ,CG-104927-0000,Co-operative Group,Welling - Falconwood Park,20.581661933067064,True,False
+GEO-1010007934,GEOLYTIX,Co-op Exeter - Cowick Street,The Co-operative Food,,Co-op,EX4 1AJ,CG-109626-0000,Co-operative Group,Exeter - Cowick Street,10.469594267672427,True,False
+GEO-1010009092,GEOLYTIX,Co-op North Parade,The Co-operative Food,,Co-op,RH12 2DH,CG-107581-0000,Co-operative Group,Horsham - North Parade,3.4823657622990525,True,False
+GEO-1010011909,GEOLYTIX,Co-op New Road Portsmouth,The Co-operative Food,,Co-op,PO2 7RJ,SC-4705292,Southern Co-op,"The Co-operative Food Portsmouth, New Road",4.992521742170158,True,False
+GEO-1010011890,GEOLYTIX,Co-op Parkside Parade Cliffe Woods,The Co-operative Food,,Co-op,ME3 8HX,SC-4700813,Southern Co-op,Welcome Cliffe Woods,1.6601382356635963,True,False
+GEO-1010007709,GEOLYTIX,Co-op Shirehampton,The Co-operative Food,,Co-op,BS11 0DW,CG-106768-0000,Co-operative Group,Shirehampton - High Street,14.043541949268999,True,False
+GEO-1010007773,GEOLYTIX,Co-op Ditchling Road,The Co-operative Food,,Co-op,BN1 6FL,CG-104871-0000,Co-operative Group,Brighton & Hove - Ditchling Road,6.542887753240292,True,False
+GEO-1010009574,GEOLYTIX,Co-op Pound Hill,The Co-operative Food,,Co-op,RH10 7EA,CG-107623-0000,Co-operative Group,Pound Hill - Pound Hill Parade,6.9610591001730215,True,False
+GEO-1010008369,GEOLYTIX,Co-op 61 Lower Addiscombe Road Addiscombe,The Co-operative Food,,Co-op,CR0 6PQ,CG-107868-0000,Co-operative Group,Croydon - Lower Addiscombe Rd,2.133438723163545,True,False
+GEO-1010007899,GEOLYTIX,Co-op Polegate,The Co-operative Food,,Co-op,BN26 6AQ,CG-106654-0000,Co-operative Group,Polegate - High Street,31.79698078472962,True,False
+GEO-1010007895,GEOLYTIX,Co-op Framfield Way,The Co-operative Food,,Co-op,BN21 2RB,CG-107420-0000,Co-operative Group,Eastbourne - Framfield Way,13.22226171275146,True,False
+GEO-1010023370,GEOLYTIX,Co-op Guildford - Woodbridge Rd,The Co-operative Food,,Co-op,GU1 4RN,SC-4969604,Southern Co-op,The Co-operative Woodbridge Road,13.266467333018365,True,False
+GEO-1010011986,GEOLYTIX,Co-op Battle Road 100 St Leonards,The Co-operative Food,,Co-op,TN37 7AG,SC-5932864,Southern Co-op,Welcome St Leonards,7.7402765413425945,True,False
+GEO-1010018975,GEOLYTIX,Co-op Hastings Parkstone Parade,The Co-operative Food,,Co-op,TN34 2PS,CG-103700-0000,Co-operative Group,Hastings - Parkstone Road,0.002073847599079773,True,False
+GEO-1010009164,GEOLYTIX,Co-op Shoreham - High Street,The Co-operative Food,,Co-op,BN43 5DA,CG-106772-0000,Co-operative Group,Shoreham-by-Sea - High Street,2.3479152747684044,True,False
+GEO-1010009643,GEOLYTIX,Co-op Shepherds Bush,The Co-operative Food,,Co-op,W12 9RA,CG-106759-0000,Co-operative Group,Shepherds Bush - 187-89 Uxbridge Rd,7.662783577488864,True,False
+GEO-1010007928,GEOLYTIX,Co-op Newport Pagnell,The Co-operative Food,,Co-op,MK16 8AB,CG-106573-0000,Co-operative Group,Newport Pagnell - High Street,24.843737841000994,True,False
+GEO-1010010241,GEOLYTIX,Co-op Milton Keynes - Dunthorne Way,The Co-operative Food,,Co-op,MK8 0LW,CG-104348-0000,Co-operative Group,Milton Keynes - Dunthorne Way,1.2252817778382021,True,False
+GEO-1010008958,GEOLYTIX,Co-op Neath Hill,The Co-operative Food,,Co-op,MK14 6JY,CG-107564-0000,Co-operative Group,Neath Hill - Tower Crescent,10.376717944581022,True,False
+GEO-1010011978,GEOLYTIX,Co-op Kelsey Road Salisbury,The Co-operative Food,,Co-op,SP1 1JP,SC-4705321,Southern Co-op,"The Co-operative Food Salisbury, Kelsey Road",2.7686231254041336,True,False
+GEO-1010008128,GEOLYTIX,Co-op Colehill,The Co-operative Food,,Co-op,BH21 2RX,CG-107327-0000,Co-operative Group,Colehill - Smugglers Lane,7.925174947141216,True,False
+GEO-1010010051,GEOLYTIX,Co-op Harlington High Street,The Co-operative Food,,Co-op,UB3 5DS,CG-105946-0000,Co-operative Group,Harlington - High Street,23.5033488210731,True,False
+GEO-1010007799,GEOLYTIX,Co-op Sheddingdean,The Co-operative Food,,Co-op,RH15 8UA,CG-107666-0000,Co-operative Group,Sheddingdean - Maple Drive,12.922244195233434,True,False
+GEO-1010008065,GEOLYTIX,Co-op Epsom Station,The Co-operative Food,,Co-op,KT19 8BY,CG-106885-0000,Co-operative Group,Epsom - Station Approach,4.122211820515898,True,False
+GEO-1010008482,GEOLYTIX,Co-op Epsom,The Co-operative Food,,Co-op,KT17 4QY,CG-107391-0000,Co-operative Group,Epsom - Upper High Street,3.7686633333310664,True,False
+GEO-1010008064,GEOLYTIX,Co-op Ewell - High Street,The Co-operative Food,,Co-op,KT17 1RE,SC-4700839,Southern Co-op,Welcome Ewell,6.826814160989751,True,False
+GEO-1010008912,GEOLYTIX,Co-op Exeter - Queen Street,The Co-operative Food,,Co-op,EX4 3SR,CG-107831-0000,Co-operative Group,Exeter - Queen Street,29.68188409286585,True,False
+GEO-1010020850,GEOLYTIX,Co-op Havant - Bedhampton Road,The Co-operative Food,,Co-op,PO9 3PT,CG-106074-0000,Co-operative Group,Havant - Bedhampton Road,58.12864268586057,True,False
+GEO-1010011894,GEOLYTIX,Co-op The Square Westbourne,The Co-operative Food,,Co-op,PO10 8UE,SC-4705236,Southern Co-op,The Co-operative Food Westbourne,5.443348988425204,True,False
+GEO-1010024313,GEOLYTIX,The Southern Co-operative Southwater,The Co-operative Food,,Co-op,RH13 9HA,SC-4700830,Southern Co-op,Welcome Southwater,5.415580836685955e-10,True,False
+GEO-1010011848,GEOLYTIX,Co-op Main Road Yapton,The Co-operative Food,,Co-op,BN18 0EY,SC-4705260,Southern Co-op,The Co-operative Food Yapton,3.65433666134267,True,False
+GEO-1010008132,GEOLYTIX,Co-op Creekmoor,The Co-operative Food,,Co-op,BH17 7BW,CG-107820-0000,Co-operative Group,Creekmoor - Creekmoor Lane,8.154006302518054,True,False
+GEO-1010011835,GEOLYTIX,Co-op Wimborne Road Poole,The Co-operative Food,,Co-op,BH15 2BS,SC-4705330,Southern Co-op,"The Co-operative Food Poole, Tatnam Road",6.00723446129282,True,False
+GEO-1010018654,GEOLYTIX,Co-op Poole - Ashley Road,The Co-operative Food,,Co-op,BH14 0AW,CG-105048-0000,Co-operative Group,Poole - Ashley Road,11.546814500198574,True,False
+GEO-1010011855,GEOLYTIX,Co-op Two Mile Hill Road Bristol,The Co-operative Food,,Co-op,BS15 1BS,SC-4705183,Southern Co-op,"The Co-operative Food Bristol, Two Mile Hill Road",5.002092024951425,True,False
+GEO-1010008385,GEOLYTIX,Co-op Broomhill Road,The Co-operative Food,,Co-op,BS4 4NZ,CG-104704-0000,Co-operative Group,Bristol - Broomhill Road,10.414831631162098,True,False
+GEO-1010008174,GEOLYTIX,Co-op Stoneleigh,The Co-operative Food,,Co-op,KT17 2HU,CG-106837-0000,Co-operative Group,Stoneleigh -The Broadway Stoneleigh,27.01893769598064,True,False
+GEO-1010009127,GEOLYTIX,Co-op Aldershot - North Lane,The Co-operative Food,,Co-op,GU12 4QJ,CG-104194-0000,Co-operative Group,Aldershot - North Lane,7.228576043390426,False,False
+GEO-1010011912,GEOLYTIX,Co-op High Street Selsey,The Co-operative Food,,Co-op,PO20 0QB,SC-4705305,Southern Co-op,The Co-operative Food Selsey,2.317867663336727,True,False
+GEO-1010011913,GEOLYTIX,Co-op Cakeham Road East Wittering,The Co-operative Food,,Co-op,PO20 8BL,SC-4705319,Southern Co-op,The Co-operative Food Wittering,9.889938589619588,True,False
+GEO-1010011907,GEOLYTIX,Co-op Stockbridge Road Chichester,The Co-operative Food,,Co-op,PO19 8QR,SC-4705256,Southern Co-op,"The Co-operative Food Chichester, Stockbridge Road",1.9234531959814758,True,False
+GEO-1010010276,GEOLYTIX,Co-op Tangmere - Baders Arms,The Co-operative Food,,Co-op,PO20 2HS,CG-108928-0000,Co-operative Group,Tangmere - Malcolm Road,7.374814438024858,True,False
+GEO-1010018658,GEOLYTIX,Co-op Guildford - Connaught House,The Co-operative Food,,Co-op,GU1 3BS,CG-103698-0000,Co-operative Group,Guildford - High Street,34.961608511075816,True,False
+GEO-1010007725,GEOLYTIX,Co-op Guildford,The Co-operative Food,,Co-op,GU2 8BE,CG-105707-0000,Co-operative Group,Guildford - Aldershot Road,14.017090839815198,True,False
+GEO-1010007801,GEOLYTIX,Co-op Haywards Heath,The Co-operative Food,,Co-op,RH16 4GH,CG-109826-0000,Co-operative Group,Haywards Heath - Middle Village,5.245293622044681,True,False
+GEO-1010009184,GEOLYTIX,Co-op Hove,The Co-operative Food,,Co-op,BN3 5DQ,CG-107473-0000,Co-operative Group,Hove - 67-71 Portland Road,3.5741975682313005,True,False
+GEO-1010008697,GEOLYTIX,Co-op Faircross Parade,The Co-operative Food,,Co-op,IG11 8UW,CG-104926-0000,Co-operative Group,Barking - Faircross Parade,25.308361430146935,True,False
+GEO-1010010165,GEOLYTIX,Co-op Emerson Valley,The Co-operative Food,,Co-op,MK4 2SH,CG-107830-0000,Co-operative Group,Emerson Valley - Winfold Lane,5.932237040313691,True,False
+GEO-1010008430,GEOLYTIX,Co-op Water Eaton,The Co-operative Food,,Co-op,MK2 3AQ,CG-105939-0000,Co-operative Group,Bletchley - Water Eaton Road,7.937716561615546,True,False
+GEO-1010010167,GEOLYTIX,Co-op Farthing Grove,The Co-operative Food,,Co-op,MK6 4JH,CG-104932-0000,Co-operative Group,Netherfield - Farthing Grove,15.280935075244932,True,False
+GEO-1010008545,GEOLYTIX,Co-op Tickleford,The Co-operative Food,,Co-op,SO19 9AU,CG-107939-0000,Co-operative Group,Southampton - Tickleford Drive,3.8637842543338183,True,False
+GEO-1010008984,GEOLYTIX,Co-op Woolston - Bridge Road,The Co-operative Food,,Co-op,SO19 7GP,CG-106869-0000,Co-operative Group,Southampton - Bridge Road,7.893339863431668,True,False
+GEO-1010007870,GEOLYTIX,Co-op Dedworth,The Co-operative Food,,Co-op,SL4 5BD,CG-107363-0000,Co-operative Group,Windsor - Dedworth Road,3.1073658436208036,True,False
+GEO-1010008074,GEOLYTIX,Co-op Broadwater - Cricketers Parade,The Co-operative Food,,Co-op,BN14 9DB,CG-109837-0000,Co-operative Group,Worthing - Cricketers Parade,14.858884888039617,True,False
+GEO-1010008007,GEOLYTIX,Co-op Julian Road,The Co-operative Food,,Co-op,BA1 2SQ,CG-105813-0000,Co-operative Group,Bath - Julian Road,1.7661851185781956,True,False
+GEO-1010008870,GEOLYTIX,Co-op Church Lane,The Co-operative Food,,Co-op,EN8 0EA,CG-104788-0000,Co-operative Group,Cheshunt - Church Lane,11.136533842359565,True,False
+GEO-1010018652,GEOLYTIX,Co-op Exeter - Belgrave Road,The Co-operative Food,,Co-op,EX1 2DB,CG-103662-0000,Co-operative Group,Exeter - Belgrave Road,8.54830789198543,False,False
+GEO-1010009125,GEOLYTIX,Co-op Farnborough - Queens Road,The Co-operative Food,,Co-op,GU14 6DJ,CG-108889-0000,Co-operative Group,Farnborough - Queens Road,16.41404511607625,True,False
+GEO-1010011975,GEOLYTIX,Co-op Seymour Parade North Baddesley,The Co-operative Food,,Co-op,SO52 9FN,SC-4705272,Southern Co-op,"The Co-operative Food North Baddesley, Seymour Parade",7.198750179463613,True,False
+GEO-1010007827,GEOLYTIX,Co-op North Baddesley,The Co-operative Food,,Co-op,SO52 9DW,CG-106587-0000,Co-operative Group,North Baddesley - Botley Road,8.030515539753672,True,False
+GEO-1010011972,GEOLYTIX,Co-op Warren Gardens Romsey,The Co-operative Food,,Co-op,SO51 7TR,SC-4705310,Southern Co-op,"The Co-operative Food Romsey, Warren Gardens",3.915886405723736,True,False
+GEO-1010007642,GEOLYTIX,Co-op Cranbrook,The Co-operative Food,,Co-op,TN17 3DQ,CG-104826-0000,Co-operative Group,Cranbrook - High Street,14.55771305397451,True,False
+GEO-1010007722,GEOLYTIX,Co-op Easton Square,The Co-operative Food,,Co-op,DT5 1BY,CG-104900-0000,Co-operative Group,Portland - Easton Square,6.889096831374108,True,False
+GEO-1010007863,GEOLYTIX,Co-op Henleaze,The Co-operative Food,,Co-op,BS9 4JT,CG-109478-0000,Co-operative Group,Bristol - Henleaze Road,11.440506430998562,True,False
+GEO-1010009175,GEOLYTIX,Co-op Seamills,The Co-operative Food,,Co-op,BS9 2DW,CG-106668-0000,Co-operative Group,Bristol - Shirehampton Road,4.125843387035564,True,False
+GEO-1010009173,GEOLYTIX,Co-op Whitstable - Canterbury Rd,The Co-operative Food,,Co-op,CT5 4EX,CG-107773-0000,Co-operative Group,Whitstable - Canterbury Rd,21.773681411238535,True,False
+GEO-1010008084,GEOLYTIX,Co-op Charminster,The Co-operative Food,,Co-op,BH8 9QJ,CG-107312-0000,Co-operative Group,Bournemouth - Charminster Road,9.475713562403664,True,False
+GEO-1010010069,GEOLYTIX,Co-op Kemp Town,The Co-operative Food,,Co-op,BN2 1ED,CG-107652-0000,Co-operative Group,Saltdean - Lustrells Vale,1.982750226136111,False,False
+GEO-1010010069,GEOLYTIX,Co-op Kemp Town,The Co-operative Food,,Co-op,BN2 1ED,CG-107485-0000,Co-operative Group,Kemptown - St George's Road,1.982750226136111,True,False
+GEO-1010009187,GEOLYTIX,Co-op Brighton - North Street,The Co-operative Food,,Co-op,BN1 1RE,CG-109821-0000,Co-operative Group,Brighton - North Street,8.074891075324304,True,False
+GEO-1010011968,GEOLYTIX,Co-op The Parade Boyatt Wood,The Co-operative Food,,Co-op,SO50 4QP,SC-4705235,Southern Co-op,"The Co-operative Food Boyatt Wood, The Parade",2.89966255143394,True,False
+GEO-1010010039,GEOLYTIX,Co-op Canning Town,The Co-operative Food,,Co-op,E16 1EQ,CG-109914-0000,Co-operative Group,Canning Town - Barking Road,2.3881770954034343,True,False
+GEO-1010010383,GEOLYTIX,Co-op London - St Pauls,The Co-operative Food,,Co-op,EC2V 6AA,CG-104181-0000,Co-operative Group,St Paul's - Cheapside,9.003486232442974,True,False
+GEO-1010009648,GEOLYTIX,Co-op Petrol The Angel,The Co-operative Food PFS,,Co-op,EC1V 1JQ,CG-156159-SPET,Co-operative Group,The Angel,18.71885001480888,True,False
+GEO-1010008964,GEOLYTIX,Co-op Fishermead,The Co-operative Food,,Co-op,MK6 2AD,CG-104943-0000,Co-operative Group,Fishermead - Fishermead Blvd,3.9865913739599224,True,False
+GEO-1010007791,GEOLYTIX,Co-op Newhaw,The Co-operative Food,,Co-op,KT15 3HA,CG-106568-0000,Co-operative Group,West Byfleet - The Broadway,25.451059151268943,True,False
+GEO-1010009626,GEOLYTIX,Co-op Blackfen,The Co-operative Food,,Co-op,DA15 9PS,CG-109950-0000,Co-operative Group,Blackfen - Westwood Lane,6.086937289101028,True,False
+GEO-1010008203,GEOLYTIX,Co-op Albany Park,The Co-operative Food,,Co-op,DA5 3HP,CG-107208-0000,Co-operative Group,Bexley - Steynton Avenue,5.281636488270065,True,False
+GEO-1010011920,GEOLYTIX,Co-op Tangier Road Portsmouth,The Co-operative Food,,Co-op,PO3 6JN,SC-4705215,Southern Co-op,"The Co-operative Food Portsmouth, Tangier Road",7.4897178881452415,True,False
+GEO-1010008006,GEOLYTIX,Co-op Taunton,The Co-operative Food,,Co-op,TA2 7AH,CG-106698-0000,Co-operative Group,Taunton - Cheddon Road,19.146111958708943,True,False
+GEO-1010021160,GEOLYTIX,Co-op FR Upminster,The Co-operative Food,,Co-op,RM14 2UB,SC-4700859,Southern Co-op,Welcome Upminster,7.600756167701324,True,False
+GEO-1010015735,GEOLYTIX,Co-op Chichester - East Street,The Co-operative Food,,Co-op,PO19 1JG,CG-106036-0000,Co-operative Group,Chichester - East Street,7.854811119499807,True,False
+GEO-1010014784,GEOLYTIX,Co-op Shirley Orchard Way,The Co-operative Food,,Co-op,CR0 7NN,SC-4700812,Southern Co-op,Welcome Shirley,10.375814850393954,True,False
+GEO-1010014788,GEOLYTIX,Co-op Exmouth Brixington Parade,The Co-operative Food,,Co-op,EX8 4JS,SC-4705325,Southern Co-op,"The Co-operative Food Exmouth, Brixington Parade",0.5655052315841316,True,False
+GEO-1010023739,GEOLYTIX,Co-op Collingwood MOD,The Co-operative Food,,Co-op,PO14 1AS,CG-156184-0000,Co-operative Group,Collingwood MOD,26.4173404213036,True,False
+GEO-1010013759,GEOLYTIX,Co-op Kingsway,The Co-operative Food,,Co-op,WC2B 6LH,CG-104365-0000,Co-operative Group,Holborn - Kingsway,16.56209577099205,True,False
+GEO-1010015792,GEOLYTIX,Co-op Chiswick - Station Parade,The Co-operative Food,,Co-op,W4 3HD,CG-105452-0000,Co-operative Group,Chiswick - Station Parade,17.59797251215633,True,False
+GEO-1010014590,GEOLYTIX,Co-op Milton Keynes - Bodmin Place,The Co-operative Food,,Co-op,MK10 7DP,CG-104306-0000,Co-operative Group,Broughton - Bodmin Place,10.820821035037667,True,False
+GEO-1010020282,GEOLYTIX,Co-op Milton Keynes - Kingsmead South,The Co-operative Food,,Co-op,MK4 4JZ,CG-105543-0000,Co-operative Group,Kingsmead - Guildford Avenue,74.60610679485283,True,False
+GEO-1010014422,GEOLYTIX,Co-op Bradford On Avon,The Co-operative Food,,Co-op,BA15 1EJ,CG-105306-0000,Co-operative Group,Bradford On Avon - Bridge Yard,5.455741267614509,True,False
+GEO-1010014781,GEOLYTIX,Co-op Banwell Knightcott Road,The Co-operative Food,,Co-op,BS29 6HF,SC-4705234,Southern Co-op,"The Co-operative Food Banwell, Knightcott Road",2.0703189862636666,True,False
+GEO-1010014779,GEOLYTIX,Co-op Wimborne - Wimborne Road,The Co-operative Food,,Co-op,BH21 1NW,SC-4705332,Southern Co-op,"The Co-operative Food Wimborne, Wimborne Rd",3.2391710343011675,True,False
+GEO-1010015743,GEOLYTIX,Co-op Burgess Hill London Road,The Co-operative Food,,Co-op,RH15 9RD,SC-4705250,Southern Co-op,"The Co-operative Food Burgess Hill, London Road",1.7532854244914935,True,False
+GEO-1010020839,GEOLYTIX,Co-op FR Barking,The Co-operative Food,,Co-op,IG11 0NY,SC-4700858,Southern Co-op,Welcome Thames View,10.759782667201655,True,False
+GEO-1010016145,GEOLYTIX,Co-op London - 17 Moorgate,The Co-operative Food,,Co-op,EC2R 6AR,CG-103614-0000,Co-operative Group,London - Moorgate,6.3011582036652065,True,False
+GEO-1010013903,GEOLYTIX,Co-op Finsbury - Tysoe Street,The Co-operative Food,,Co-op,EC1R 4SA,CG-105312-0000,Co-operative Group,Finsbury - Tysoe Street,11.207289498715841,True,False
+GEO-1010014829,GEOLYTIX,Co-op Southampton Archers Road,The Co-operative Food,,Co-op,SO15 2LT,SC-4705336,Southern Co-op,"The Co-operative Food Southampton, Archers Road",37.79562302571035,True,False
+GEO-1010025561,GEOLYTIX,Co-op Windsor,The Co-operative Food,,Co-op,SL4 1LD,SC-6149043,Southern Co-op,Welcome Windsor,4.977537507120968,True,False
+GEO-1010020309,GEOLYTIX,Co-op Durrington,The Co-operative Food,,Co-op,BN13 2EL,SC-4700829,Southern Co-op,Welcome Durrington,3.666895689789082,True,False
+GEO-1010014813,GEOLYTIX,Co-op Regent Street Shanklin,The Co-operative Food,,Co-op,PO37 7AA,SC-4705273,Southern Co-op,"The Co-operative Food Shanklin, Regent Street",28.1134026916657,True,False
+GEO-1010015802,GEOLYTIX,Co-op Loudon Way Ashford,The Co-operative Food,,Co-op,TN23 3JJ,SC-4705361,Southern Co-op,"The Co-operative Food Ashford, Loudon Way",14.432713258553232,True,False
+GEO-1010014832,GEOLYTIX,Co-op Holbury Long Lane,The Co-operative Food,,Co-op,SO45 2LG,SC-4705271,Southern Co-op,"The Co-operative Food Holbury, Long Lane",2.7489924946714903,True,False
+GEO-1010023366,GEOLYTIX,Co-op FR Southsea - Green Road,The Co-operative Food PFS,,Co-op,PO5 4DY,SC-4700871,Southern Co-op,Welcome Southsea,18.55455724812109,True,False
+GEO-1010014456,GEOLYTIX,Co-op Queen Street - Portsmouth,The Co-operative Food,,Co-op,PO1 3HY,CG-105106-0000,Co-operative Group,Portsmouth - Queen Street,6.265270417192749,True,False
+GEO-1010014956,GEOLYTIX,Co-op Charlestown - Weymouth,The Co-operative Food,,Co-op,DT4 9TP,CG-105434-0000,Co-operative Group,Weymouth - Chickerell Road,16.19984826683758,True,False
+GEO-1010025244,GEOLYTIX,Co-op Brentford,The Co-operative Food,,Co-op,TW8 0RZ,SC-5896716,Southern Co-op,Welcome Brentford,33.22732793278691,True,False
+GEO-1010015010,GEOLYTIX,Co-op Wimbledon Ridgway,The Co-operative Food,,Co-op,SW19 4ST,SC-4705367,Southern Co-op,"The Co-operative Food Wimbledon, Ridgway",4.622869815257682,True,False
+GEO-1010013769,GEOLYTIX,Co-op Wharf Road,The Co-operative Food,,Co-op,GU12 5AS,CG-105193-0000,Co-operative Group,Ash Vale - Wharf Road,16.889592852719442,True,False
+GEO-1010015610,GEOLYTIX,Co-op Columbia Road Bournemouth,The Co-operative Food,,Co-op,BH10 4DY,CG-104345-0000,Co-operative Group,Bournemouth - Columbia Road,0.003923023304775532,True,False
+GEO-1010015805,GEOLYTIX,Co-op Lavant Road Chichester,The Co-operative Food PFS,,Co-op,PO19 5RD,SC-4705369,Southern Co-op,"The Co-operative Food Chichester, Lavant Road",12.43961266563793,True,False
+GEO-1010015626,GEOLYTIX,Co-op London - South End,The Co-operative Food,,Co-op,CR0 1DP,CG-105578-0000,Co-operative Group,Croydon - South End,40.284336397775526,True,False
+GEO-1010020831,GEOLYTIX,Co-op FR Fairlands,The Co-operative Food,,Co-op,GU3 3NB,SC-4700865,Southern Co-op,Welcome Fairlands,2.7302101851934553,True,False
+GEO-1010014826,GEOLYTIX,Co-op Haywards Heath Franklyn Rd,The Co-operative Food,,Co-op,RH16 4DN,SC-4705294,Southern Co-op,"The Co-operative Food Haywards Heath, Franklynn Road",5.466120961646682,True,False
+GEO-1010014628,GEOLYTIX,Co-op Hove Old - Shoreham Road,The Co-operative Food,,Co-op,BN3 7EB,SC-4705197,Southern Co-op,"The Co-operative Food Hove, Old Shoreham Road",12.793435797738969,True,False
+GEO-1010020827,GEOLYTIX,Co-op FR Hayes,The Co-operative Food,,Co-op,UB3 1DZ,SC-4700851,Southern Co-op,Welcome Hayes,14.791044393591466,True,False
+GEO-1010014480,GEOLYTIX,Co-op Worthing - Tarring Road,The Co-operative Food,,Co-op,BN11 4HS,CG-105054-0000,Co-operative Group,Worthing - Tarring Road,4.8386639558299676,True,False
+GEO-1010014786,GEOLYTIX,Co-op Sidcup - The Oval,The Co-operative Food,,Co-op,DA15 9ER,SC-4705357,Southern Co-op,"The Co-operative Food Sidcup, The Oval",20.40533831576115,True,False
+GEO-1010020844,GEOLYTIX,Co-op Stoke Bishop,The Co-operative Food,,Co-op,BS9 1EW,SC-4700847,Southern Co-op,Welcome Stoke Bishop,3.023369853716678,True,False
+GEO-1010023377,GEOLYTIX,Co-op FR Sandy,The Co-operative Food,,Co-op,SG19 2TG,SC-4700873,Southern Co-op,Welcome Sandy,18.450270256440096,True,False
+GEO-1010014491,GEOLYTIX,Co-op Selsey - High Street,The Co-operative Food,,Co-op,PO20 0QG,CG-105133-0000,Co-operative Group,Selsey - High Street,6.997196991098811,True,False
+GEO-1010021168,GEOLYTIX,Co-op FR Crawley,The Co-operative Food,,Co-op,RH10 7XR,SC-4700852,Southern Co-op,Welcome Crawley,5.228512620989268,True,False
+GEO-1010013727,GEOLYTIX,Co-op Selhurst Road,The Co-operative Food,,Co-op,SE25 5QF,SC-4700849,Southern Co-op,Welcome Selhurst,8.893123180780453,True,False
+GEO-1010025342,GEOLYTIX,Co-op Croydon,The Co-operative Food,,Co-op,CR0 1LL,SC-5891476,Southern Co-op,Welcome Croydon,49.33556656460239,True,False
+GEO-1010023374,GEOLYTIX,Co-op FR Meads Eastbourne,The Co-operative Food,,Co-op,BN20 7QY,SC-4700897,Southern Co-op,Welcome Meads,2.7364870152909937,True,False
+GEO-1010014934,GEOLYTIX,Co-op Lower Willingdon,The Co-operative Food,,Co-op,BN20 9PN,SC-4700834,Southern Co-op,Welcome Lower Willingdon,25.8061297476184,True,False
+GEO-1010020826,GEOLYTIX,Co-op FR Faversham,The Co-operative Food,,Co-op,ME13 8BE,SC-4700854,Southern Co-op,Welcome Faversham,2.311903223187926,True,False
+GEO-1010014802,GEOLYTIX,Co-op Lee On Solent,The Co-operative Food,,Co-op,PO13 9BU,SC-4705239,Southern Co-op,"The Co-operative Food Lee on Solent, High Street",0.9857732552901677,True,False
+GEO-1010020810,GEOLYTIX,Co-op FR Stratford Park,The Co-operative Food,,Co-op,MK12 5GH,SC-4700861,Southern Co-op,Welcome Stratford Park,13.57496442385895,True,False
+GEO-1010015655,GEOLYTIX,Co-op Exeter - Old Tiverton Road,The Co-operative Food,,Co-op,EX4 6LG,CG-105619-0000,Co-operative Group,Exeter - Old Tiverton Road,9.95002334597685,True,False
+GEO-1010013718,GEOLYTIX,Co-op Selsmore Road,The Co-operative Food,,Co-op,PO11 9LB,CG-108946-0000,Co-operative Group,Hayling Island - Selsmore Road,7.534040266446777,True,False
+GEO-1010015806,GEOLYTIX,Co-op Broadbridge Heath Horsham,The Co-operative Food,,Co-op,RH12 3XS,SC-4705370,Southern Co-op,The Co-operative Food Wickhurst Square,11.926794328732695,True,False
+GEO-1010024840,GEOLYTIX,The Co-operative Food Cuffley,The Co-operative Food,,Co-op,EN6 4HX,SC-5792588,Southern Co-op,Welcome Cuffley,2.188020248726026,True,False
+GEO-1010014833,GEOLYTIX,Co-op Romsey Botley Road,The Co-operative Food,,Co-op,SO51 5AB,SC-4705258,Southern Co-op,"The Co-operative Food Romsey, Botley Road",7.159175376257323,True,False
+GEO-1010008009,GEOLYTIX,Co-op Straits Parade,The Co-operative Food,,Co-op,BS16 2LE,CG-106841-0000,Co-operative Group,Bristol - Straits Parade,5.895121090549665,True,False
+GEO-1010011866,GEOLYTIX,Co-op Ashley Down Road Bristol,The Co-operative Food,,Co-op,BS7 9BU,SC-4705293,Southern Co-op,"The Co-operative Food Bristol, Ashley Down Road",15.04798590860276,True,False
+GEO-1010011905,GEOLYTIX,Co-op Spitalfield Lane Chichester,The Co-operative Food,,Co-op,PO19 6SB,SC-4705270,Southern Co-op,"The Co-operative Food Chichester, Spitalfield Lane",9.652969275881357,True,False
+GEO-1010009171,GEOLYTIX,Co-op Faversham - Forbes Road,The Co-operative Food,,Co-op,ME13 8QG,CG-107405-0000,Co-operative Group,Faversham - Forbes Road,4.745301664881231,True,False
+GEO-1010011896,GEOLYTIX,Co-op Priddys Hard Gosport,The Co-operative Food,,Co-op,PO12 4BQ,SC-4705306,Southern Co-op,"The Co-operative Food Gosport, Dartmouth Court",4.744638970079803,True,False
+GEO-1010007939,GEOLYTIX,Co-op Privett Road,The Co-operative Food,,Co-op,PO12 3SS,CG-107627-0000,Co-operative Group,Gosport - Privett Road,9.405561541552288,True,False
+GEO-1010009364,GEOLYTIX,Co-op Caledonian Road,The Co-operative Food,,Co-op,N1 1DT,CG-105832-0000,Co-operative Group,Islington - Caledonian Road,18.240446850585858,True,False
+GEO-1010009647,GEOLYTIX,Co-op Old Street,The Co-operative Food,,Co-op,EC1V 9NP,CG-109888-0000,Co-operative Group,London - Old Street,23.09424387318015,True,False
+GEO-1010008169,GEOLYTIX,Co-op Axbridge,The Co-operative Food,,Co-op,BS26 2AR,CG-106564-0000,Co-operative Group,Axbridge - The Square,4.899551637467971,True,False
+GEO-1010007854,GEOLYTIX,Co-op East Cowes,The Co-operative Food,,Co-op,PO32 6QY,CG-109722-0000,Co-operative Group,East Cowes - York Avenue,5.014900934253596,True,False
+GEO-1010023338,GEOLYTIX,Co-op Bath - Shaftesbury Road,The Co-operative Food,,Co-op,BA2 3LH,CG-106055-0000,Co-operative Group,Bath - Shaftesbury Road,22.231736802786465,True,False
+GEO-1010011895,GEOLYTIX,Co-op Elm Grove South Hayling,The Co-operative Food,,Co-op,PO11 9EH,SC-4705345,Southern Co-op,The Co-operative Food Hayling Island,0.22735908214752634,True,False
+GEO-1010010261,GEOLYTIX,Co-op Hamworthy New,The Co-operative Food,,Co-op,BH15 4BH,CG-108953-0000,Co-operative Group,Hamworthy - Blandford Road,9.031767490702402,True,False
+GEO-1010011836,GEOLYTIX,Co-op Poole - North Mead,The Co-operative Food,,Co-op,BH17 7XZ,SC-4705190,Southern Co-op,"The Co-operative Food Creekmoor, Northmead Drive",12.990421438601194,True,False
+GEO-1010011830,GEOLYTIX,Co-op Madeira Road Bournemouth,The Co-operative Food,,Co-op,BH1 1QQ,SC-4705327,Southern Co-op,"The Co-operative Food Bournemouth, Madeira Road",10.239486894969144,True,False
+GEO-1010011971,GEOLYTIX,Co-op Leigh Road Eastleigh,The Co-operative Food,,Co-op,SO50 5LN,SC-4705312,Southern Co-op,"The Co-operative Food Eastleigh, Leigh Road",3.9471325328316382,True,False
+GEO-1010011976,GEOLYTIX,Co-op Hursley Road Southampton,The Co-operative Food,,Co-op,SO53 2FU,SC-4705220,Southern Co-op,Co-op Food,2.2526167872202523,True,False
+GEO-1010011897,GEOLYTIX,Co-op The Square Titchfield,The Co-operative Food,,Co-op,PO14 4AF,SC-4705243,Southern Co-op,The Co-operative Food Titchfield,10.901767304819005,True,False
+GEO-1010007800,GEOLYTIX,Co-op High Street - Lindfield,The Co-operative Food,,Co-op,RH16 2HJ,CG-109834-0000,Co-operative Group,Lindfield - High Street,3.951598727903786,True,False
+GEO-1010008238,GEOLYTIX,Co-op Southwark - Mill Street,The Co-operative Food,,Co-op,SE1 2DE,CG-108994-0000,Co-operative Group,London - Mill Street,15.153016051895143,True,False
+GEO-1010008237,GEOLYTIX,Co-op Southwark - Tower Bridge Road,The Co-operative Food,,Co-op,SE1 3LS,SC-4700904,Southern Co-op,Welcome Tower Bridge,23.002020354447417,True,False
+GEO-1010009160,GEOLYTIX,Co-op Ham Road,The Co-operative Food,,Co-op,BN11 2QY,CG-107445-0000,Co-operative Group,Worthing - Ham Road,4.371218260020928,True,False
+GEO-1010007857,GEOLYTIX,Co-op Landguard Road Shanklin,The Co-operative Food,,Co-op,PO37 7JR,CG-109718-0000,Co-operative Group,Shanklin - Landguard Road,3.037289752792142,True,False
+GEO-1010007856,GEOLYTIX,Co-op Anglesea Street Ryde,The Co-operative Food,,Co-op,PO33 2SX,CG-109725-0000,Co-operative Group,Ryde - Anglesea Street,17.35791495445405,True,False
+GEO-1010008872,GEOLYTIX,Co-op Goffs Oak,The Co-operative Food,,Co-op,EN7 5ET,CG-104981-0000,Co-operative Group,Goffs Oak - Goffs Lane,29.987213828052973,True,False
+GEO-1010008307,GEOLYTIX,Co-op Hanham,The Co-operative Food,,Co-op,BS15 3DJ,CG-105722-0000,Co-operative Group,Bristol - High Street,8.432079948344574,True,False
+GEO-1010009219,GEOLYTIX,Co-op Whitstable,The Co-operative Food,,Co-op,CT5 1DG,CG-107995-0000,Co-operative Group,Whitstable - Oxford Street,27.72174763245026,True,False
+GEO-1010009058,GEOLYTIX,Co-op Lewes Road,The Co-operative Food,,Co-op,BN2 3HW,CG-105586-0000,Co-operative Group,Brighton - Lewes Road,16.07726532925281,True,False
+GEO-1010009185,GEOLYTIX,Co-op Seven Dials,The Co-operative Food,,Co-op,BN1 3JD,CG-107662-0000,Co-operative Group,Seven Dials - Dyke Road,1.4575046287188298,True,False
+GEO-1010007861,GEOLYTIX,Co-op Chandlers Ford,The Co-operative Food,,Co-op,SO53 2GH,CG-109733-0000,Co-operative Group,Chandlers Ford - Winchester Road,9.068348797332417,True,False
+GEO-1010011987,GEOLYTIX,Co-op Battle Road 290 St Leonards,The Co-operative Food,,Co-op,TN37 7BA,SC-4705208,Southern Co-op,"The Co-operative Food St Leonards, Battle Road 290",6.894544160990712,True,False
+GEO-1010024314,GEOLYTIX,The Southern Co-operative Newham,The Co-operative Food,,Co-op,E16 2BF,SC-5199855,Southern Co-op,Welcome Newham,10.233367126465456,True,False
+GEO-1010011935,GEOLYTIX,Co-op The Precinct Crookhorn,The Co-operative Food,,Co-op,PO7 5QH,SC-4705212,Southern Co-op,"The Co-operative Food Crookhorn, The Precinct",2.695116971074724,True,False
+GEO-1010011954,GEOLYTIX,Co-op Arthur Road Windsor,The Co-operative Food,,Co-op,SL4 1RX,SC-4705318,Southern Co-op,"The Co-operative Food Windsor, Arthur Road",22.241040623409372,True,False
+GEO-1010007787,GEOLYTIX,Co-op Old Windsor,The Co-operative Food,,Co-op,SL4 2QQ,CG-106604-0000,Co-operative Group,Old Windsor - St Lukes Road,14.84423532235616,True,False
+GEO-1010007740,GEOLYTIX,Co-op Goring Road,The Co-operative Food,,Co-op,BN12 4AP,CG-104987-0000,Co-operative Group,Worthing - Goring Road,14.27465220515461,True,False
+GEO-1010009040,GEOLYTIX,Co-op Odd Down,The Co-operative Food,,Co-op,BA2 2RY,CG-106600-0000,Co-operative Group,Bath - Upper Bloomfield Road,10.165562485471998,True,False
+GEO-1010011874,GEOLYTIX,Co-op Buddle Lane Exeter,The Co-operative Food,,Co-op,EX4 1QT,SC-4705184,Southern Co-op,"The Co-operative Food Exeter, Buddle Lane",1.0100058512471153,True,False
+GEO-1010011951,GEOLYTIX,Co-op Guildford Road Horsham,The Co-operative Food,,Co-op,RH12 1TR,SC-4705320,Southern Co-op,"The Co-operative Food Horsham, Guildford Road",3.07501123474824,True,False
+GEO-1010007864,GEOLYTIX,Co-op St Annes - Wyatts View,The Co-operative Food,,Co-op,BS4 4WW,CG-109490-0000,Co-operative Group,Bristol - Wyatts View,23.198019234624628,True,False
+GEO-1010011878,GEOLYTIX,Co-op Lower Farnham Road Aldershot,The Co-operative Food,,Co-op,GU12 4EN,SC-4705199,Southern Co-op,"The Co-operative Food Aldershot, Lower Farnham Road",2.861040806110062,True,False
+GEO-1010009126,GEOLYTIX,Co-op Ash - Aldershot,The Co-operative Food,,Co-op,GU12 6LG,CG-104587-0000,Co-operative Group,Aldershot - Ash Street,9.42323786920631,True,False
+GEO-1010009073,GEOLYTIX,Co-op Pagham,The Co-operative Food,,Co-op,PO21 4TW,CG-104135-0000,Co-operative Group,Pagham - The Parade,39.459098103962276,True,False
+GEO-1010011904,GEOLYTIX,Co-op Oliver Whitby Road Chichester,The Co-operative Food,,Co-op,PO19 3LB,SC-4705304,Southern Co-op,"The Co-operative Food Chichester, Oliver Whitby Road",8.955893976521498,True,False
+GEO-1010008505,GEOLYTIX,Co-op Eden Park,The Co-operative Food,,Co-op,BR3 3DY,CG-104178-0000,Co-operative Group,Beckenham - Upper Elmers End Road,60.767429014462586,True,False
+GEO-1010011851,GEOLYTIX,Co-op Western Road Hove,The Co-operative Food,,Co-op,BN3 1DA,SC-4705244,Southern Co-op,The Co-operative Food Hove,4.509303187529216,True,False
+GEO-1010010277,GEOLYTIX,Co-op Ridgeland House - Hove,The Co-operative Food,,Co-op,BN3 1TX,CG-104055-0000,Co-operative Group,Hove - Dyke Road,4.5786718956879735,True,False
+GEO-1010007917,GEOLYTIX,Co-op Petrol St Kathrines,The Co-operative Food PFS,,Co-op,E1W 2BN,CG-156158-SPET,Co-operative Group,St Kathrines,23.154451536972953,True,False
+GEO-1010019199,GEOLYTIX,Co-op Turnmill St Farringdon,The Co-operative Food,,Co-op,EC1M 5QP,CG-103612-0000,Co-operative Group,Farringdon - Turnmill Street,23.056090385511073,True,False
+GEO-1010008613,GEOLYTIX,Co-op Hinkler Parade,The Co-operative Food,,Co-op,SO19 6FD,CG-108814-0000,Co-operative Group,Southampton - Hinkler Parade,7.133683632841979,False,False
+GEO-1010011826,GEOLYTIX,Co-op Winsley Road Bradford On Avon,The Co-operative Food,,Co-op,BA15 1QT,SC-4705300,Southern Co-op,Co-op Food,3.8056318967787877,True,False
+GEO-1010008374,GEOLYTIX,Co-op Addlestone - Green Lane,The Co-operative Food,,Co-op,KT15 2TX,SC-4700857,Southern Co-op,Welcome Addlestone,4.5629023719114885,True,False
+GEO-1010008072,GEOLYTIX,Co-op South Street,The Co-operative Food,,Co-op,BN14 7LG,CG-107689-0000,Co-operative Group,Worthing - South Street,9.172546158613693,True,False
+GEO-1010009186,GEOLYTIX,Co-op Plaza Parade - Worthing,The Co-operative Food,,Co-op,BN11 3JG,CG-107953-0000,Co-operative Group,Worthing - Plaza Parade,0.4957765657560657,True,False
+GEO-1010019005,GEOLYTIX,Co-op Staines - London Square,The Co-operative Food,,Co-op,TW18 4BY,CG-103715-0000,Co-operative Group,Staines - London Square,51.19576286471606,True,False
+GEO-1010009097,GEOLYTIX,Co-op Roffey,The Co-operative Food,,Co-op,RH13 6AA,CG-107641-0000,Co-operative Group,Horsham - Fitzalan Road,1.8032129284364629,True,False
+GEO-1010007794,GEOLYTIX,Co-op Southwater,The Co-operative Food,,Co-op,RH13 9LA,CG-105988-0000,Co-operative Group,Southwater - Worthing Road,10.378227522796383,True,False
+GEO-1010008540,GEOLYTIX,Co-op Southsea - Albert Road,The Co-operative Food,,Co-op,PO5 2SG,CG-107209-0000,Co-operative Group,Southsea - 73-75 Albert Road,29.216300467637957,True,False
+GEO-1010011892,GEOLYTIX,Co-op The Hard Portsmouth,The Co-operative Food,,Co-op,PO1 3DT,SC-5029687,Southern Co-op,Welcome The Hard,9.841313361593627,True,False
+GEO-1010011925,GEOLYTIX,Co-op Highland Road Portsmouth,The Co-operative Food,,Co-op,PO4 9EZ,SC-4705230,Southern Co-op,"The Co-operative Food Southsea, Highland Road",7.008373322436049,True,False
+GEO-1010008314,GEOLYTIX,Co-op Fortuneswell,The Co-operative Food,,Co-op,DT5 1LY,CG-104955-0000,Co-operative Group,Portland - Fortuneswell,3.3609754225333885,True,False
+GEO-1010011856,GEOLYTIX,Co-op Memorial Road Bristol,The Co-operative Food,,Co-op,BS15 3LH,SC-4705181,Southern Co-op,"The Co-operative Food Hanham, Memorial Road",4.667169179106463,True,False
+GEO-1010021158,GEOLYTIX,Co-op FR Andover - Picket Twenty,The Co-operative Food,,Co-op,SP11 6TY,SC-4705371,Southern Co-op,The Co-operative Food Picket Twenty,2.4530387898813775,True,False
+GEO-1010010238,GEOLYTIX,Co-op Milton Keynes - Tanfield Lane,The Co-operative Food,,Co-op,MK10 9NY,CG-104351-0000,Co-operative Group,Broughton - Tanfield Lane,10.274501678844157,True,False
+GEO-1010008336,GEOLYTIX,Co-op Shirley Freemantle,The Co-operative Food,,Co-op,SO15 3FJ,CG-108810-0000,Co-operative Group,Southampton - Shirley Road,3.861826521413382,True,False
+GEO-1010008980,GEOLYTIX,Co-op Portsmouth Road,The Co-operative Food,,Co-op,SO19 9AT,CG-107951-0000,Co-operative Group,Southampton - Portsmouth Road,16.274123167104126,True,False
+GEO-1010009043,GEOLYTIX,Co-op Wellsway - Bath,The Co-operative Food,,Co-op,BA2 4QL,CG-107965-0000,Co-operative Group,Bath - Wellsway,6.515826777619747,True,False
+GEO-1010011956,GEOLYTIX,Co-op Macie Drive Corsham,The Co-operative Food,,Co-op,SN13 9EJ,SC-4705315,Southern Co-op,"The Co-operative Food Corsham, Macie Drive",0.847882421156207,True,False
+GEO-1010011889,GEOLYTIX,Co-op Ruxley Lane Epsom,The Co-operative Food,,Co-op,KT19 9JS,SC-4705289,Southern Co-op,"The Co-operative Food West Ewell, Ruxley Lane",14.378547419803615,True,False
+GEO-1010011860,GEOLYTIX,Co-op School Road Bristol,The Co-operative Food,,Co-op,BS30 8EP,SC-4705182,Southern Co-op,"The Co-operative Food Bristol, School Road",4.770100910700462,True,False
+GEO-1010007660,GEOLYTIX,Co-op Stoke Lane - Westbury,The Co-operative Food,,Co-op,BS9 3RW,CG-106834-0000,Co-operative Group,Bristol - Stoke Lane,1.8873054183090532,True,False
+GEO-1010011906,GEOLYTIX,Co-op Bognor Road Chichester,The Co-operative Food,,Co-op,PO19 7TG,SC-4705263,Southern Co-op,"The Co-operative Food Chichester, Bognor Road",0.8792727628503245,True,False
+GEO-1010010323,GEOLYTIX,Co-op Exmouth - Magnolia Walk,The Co-operative Food,,Co-op,EX8 1HB,CG-109634-0000,Co-operative Group,Exmouth - Magnolia Walk,19.633571272832246,True,False
+GEO-1010008170,GEOLYTIX,Co-op Winscombe,The Co-operative Food,,Co-op,BS25 1AB,CG-104720-0000,Co-operative Group,Winscombe - Woodborough Road,2.593605769882203,True,False
+GEO-1010009239,GEOLYTIX,Co-op Brookfield,The Co-operative Food,,Co-op,TN23 5ER,CG-106728-0000,Co-operative Group,Ashford - Brookfield Court,14.76717345406242,True,False
+GEO-1010009466,GEOLYTIX,Co-op Corsham,The Co-operative Food,,Co-op,SN13 0HL,CG-109689-0000,Co-operative Group,Corsham - New Place,2.627677828296585,True,False
+GEO-1010011868,GEOLYTIX,Co-op Faversham Road Seasalter,The Co-operative Food,,Co-op,CT5 4AX,SC-4705298,Southern Co-op,"The Co-operative Food Seasalter, Faversham Road",14.692418949284397,True,False
+GEO-1010011841,GEOLYTIX,Co-op Belle Vue Road Bournemouth,The Co-operative Food,,Co-op,BH6 3EN,SC-4705180,Southern Co-op,"The Co-operative Food Bournemouth, Belle Vue Road",2.8436529760921916,True,False
+GEO-1010011843,GEOLYTIX,Co-op Castle Lane West Bournemouth,The Co-operative Food,,Co-op,BH9 3LD,SC-4705195,Southern Co-op,"The Co-operative Food Bournemouth, Castle Lane",4.53630696517572,True,False
+GEO-1010008864,GEOLYTIX,Co-op Maidenbower,The Co-operative Food,,Co-op,RH10 7QH,CG-107530-0000,Co-operative Group,Crawley - Maidenbower Drive,6.286894506992388,True,False
+GEO-1010011977,GEOLYTIX,Co-op Falkland Court Chandlers Ford,The Co-operative Food,,Co-op,SO53 3GA,SC-4705216,Southern Co-op,"The Co-operative Food Chandlers Ford, Falkland Court",14.667542751051815,True,False
+GEO-1010010282,GEOLYTIX,Co-op Stubbington - The Green,The Co-operative Food,,Co-op,PO14 2LE,CG-104171-0000,Co-operative Group,Stubbington - The Green,19.90735052674889,True,False
+GEO-1010018646,GEOLYTIX,Co-op INDF Minter Road,The Co-operative Food,,Co-op,IG11 0TH,CG-153780-0000,Co-operative Group,Minter Road,68.61657234016673,True,False
+GEO-1010008965,GEOLYTIX,Co-op Bradwell High Street,The Co-operative Food,,Co-op,MK13 0BT,CG-104682-0000,Co-operative Group,Bradwell - High Street,14.749770617059845,True,False
+GEO-1010008979,GEOLYTIX,Co-op South East Road,The Co-operative Food,,Co-op,SO19 8JS,CG-107688-0000,Co-operative Group,Southampton - South East Road,3.500704343964598,True,False
+GEO-1010011955,GEOLYTIX,Co-op Nork Way Banstead,The Co-operative Food,,Co-op,SM7 1PB,SC-4705240,Southern Co-op,"The Co-operative Food Banstead, Nork Way",10.514542201900028,True,False
+GEO-1010008130,GEOLYTIX,Co-op Oakdale - Oakdale Road,The Co-operative Food,,Co-op,BH15 3LG,CG-107590-0000,Co-operative Group,Poole - Oakdale Road,3.401636038975407,True,False
+GEO-1010011857,GEOLYTIX,Co-op Baltic Place Pill,The Co-operative Food,,Co-op,BS20 0EJ,SC-4705179,Southern Co-op,The Co-operative Food Pill,8.85281660936288,True,False
+GEO-1010007701,GEOLYTIX,Co-op Bishopston - Gloucester Road,The Co-operative Food,,Co-op,BS7 8AT,CG-109485-0000,Co-operative Group,Bristol - Gloucester Road,0.6488877960975779,True,False
+OSM-way-148062181,OpenStreetMap,Welcome Staplegrove,Welcome,Welcome,,TA2 6AN,SC-4700842,Southern Co-op,Welcome Staplegrove,4.3361310450258,True,True
+OSM-node-9120168006,OpenStreetMap,The Co-operative Food,The Co-operative Food,The Co-operative Food,Co-op,BA11 4LA,SC-4705233,Southern Co-op,"The Co-operative Food Frome, Nunney Road",9.347265325368298,True,False
+OSM-node-11176326485,OpenStreetMap,The Co-operative Food,The Co-operative Food,The Co-operative Food,Co-op,,SC-4705178,Southern Co-op,"The Co-operative Food Newbury, Pound Street",2.343786348098711,False,False
+OSM-node-13111820033,OpenStreetMap,Welcome Newham,Welcome,Welcome,,E16 2BF,SC-5199855,Southern Co-op,Welcome Newham,10.813217303708198,True,True
