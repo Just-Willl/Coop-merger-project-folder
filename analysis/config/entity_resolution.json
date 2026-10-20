@@ -1,0 +1,12 @@
+{
+  "version": "geolytix_primary_entity_resolution_v2",
+  "primary_source": "GEOLYTIX",
+  "same_chain_link_radius_m": 30,
+  "corroborated_link_radius_m": 60,
+  "nearest_primary_margin_m": 5,
+  "osm_duplicate_radius_m": 5,
+  "different_brand_review_radius_m": 5,
+  "postcode_policy": "Evidence and audit attribute; not a veto on an otherwise supported identity match",
+  "presence_policy": "Proximity and duplicate uncertainty never invalidate a GEOLYTIX primary observation; unresolved OSM alternatives are reviewed separately",
+  "source_precedence_scope": "Canonical identity, coordinates, postcode and size of matched observations; not a claim that GEOLYTIX is infallible"
+}

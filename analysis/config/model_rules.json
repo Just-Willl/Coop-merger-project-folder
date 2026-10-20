@@ -1,0 +1,22 @@
+{
+  "case": "ME/7150/26",
+  "decision_date": "2026-09-15",
+  "publication_date": "2026-10-07",
+  "decision_url": "https://assets.publishing.service.gov.uk/media/6ac50e5135adbc27761df938/__Full_text_decision___.pdf",
+  "methodology_status": "Public-rule convenience-store implementation; not an exact replication of confidential CMA evidence",
+  "convenience_net_area_upper_m2": 280,
+  "mss_net_area_upper_m2": 1400,
+  "convenience_methods": ["1_mile", "5_min_drive"],
+  "rival_weight_threshold": 3.0,
+  "major_weight": 1.0,
+  "discounter_weight": 0.8,
+  "independent_weight": 0.5,
+  "southern_franchise_business_id_proxy": "2183408",
+  "source_group_proxy_caveat": "All 77 records in this Uberall group are Welcome-branded; group-to-ownership mapping is an inference, not a verified ownership register. Six other Welcome-named records are not automatically moved out of the party estate.",
+  "reference": {"scope": "source_group_proxy", "symbol_weight": 0.8, "franchise_weight": 0.6, "specialist_treatment": "exclude_unresolved"},
+  "grouping": "Named chain and symbol fascia counted once; independent premises separately, following Asda/Arthur footnote 152",
+  "precedent_url": "https://assets.publishing.service.gov.uk/media/643815e5773a8a000cab2c0f/A._Decision_on_relevant_merger_situation_and_substantial_lessening_of_competition.pdf",
+  "iceland_treatment": "Excluded in reference using cited Asda/Arthur footnote 148; other specialist exclusions remain labelled implementation assumptions",
+  "area_measure_caveat": "GEOLYTIX bands are a size proxy; equivalence to CMA net sales area is not established",
+  "benchmark_use": "Outcome labels used only after scoring; never used to choose weights, deduplicate rivals or assign centroid format"
+}

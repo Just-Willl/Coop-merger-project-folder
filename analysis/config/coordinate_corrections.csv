@@ -1,0 +1,3 @@
+store_id,resolution,longitude,latitude,evidence_url,reason
+CG-107448-0000,use_geolytix,-0.194996,50.844587,https://ratings.food.gov.uk/business/207596,Exact address and postcode match; FSA is 13.64m from GEOLYTIX and 547.15m from inherited coordinates; official Co-op listing confirms 5 The Parade Hangleton BN3 7LU
+SC-4705233,retain_existing,,,https://ratings.food.gov.uk/business/1757230,FSA record at Nunney Road is 39.60m from inherited coordinates and 487.34m from GEOLYTIX; retain inherited point rather than applying an unsupported GEOLYTIX override

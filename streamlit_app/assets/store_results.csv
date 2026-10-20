@@ -1,0 +1,862 @@
+centroid_store_id,store_name,party,postcode,eligible,flag_core,flag_inclusive,min_score_core,min_score_inclusive,format_proxy,listed_in_annex1
+CG-103056-0000,Brent Cross - Aviator Drive,Co-operative Group,NW2 8AA,True,False,False,,,convenience_proxy,False
+CG-103611-0000,Forest Hill - Stanstead Road,Co-operative Group,SE23 1HH,True,False,False,,,convenience_proxy,False
+CG-103612-0000,Farringdon - Turnmill Street,Co-operative Group,EC1M 5QP,True,False,False,,,convenience_proxy,False
+CG-103614-0000,London - Moorgate,Co-operative Group,EC2R 6AR,True,False,False,,,convenience_proxy,False
+CG-103618-0000,Nunhead - Evelina Road,Co-operative Group,SE15 3HL,True,False,False,,,convenience_proxy,False
+CG-103624-0000,Gravesend - East Milton Road,Co-operative Group,DA12 2JL,True,False,False,,,convenience_proxy,False
+CG-103626-0000,Greenwich Peninsula - Chandlers Ave,Co-operative Group,SE10 0GE,False,False,False,,,unknown,False
+CG-103629-0000,Roehampton - Danebury Avenue,Co-operative Group,SW15 4DU,True,False,False,,,convenience_proxy,False
+CG-103636-0000,Barking - Riverside North,Co-operative Group,IG11 0ZH,False,False,False,,,unknown,False
+CG-103647-0000,Kennington - Walworth Road,Co-operative Group,SE17 1JL,True,False,False,,,convenience_proxy,False
+CG-103649-0000,Beckenham - Albermarle Road,Co-operative Group,BR3 5HZ,True,False,False,,,convenience_proxy,False
+CG-103656-0000,Eddington - Thanet Way,Co-operative Group,CT6 5DZ,False,False,False,,,unknown,False
+CG-103661-0000,Weymouth - Buxton Road,Co-operative Group,DT4 9PF,True,False,False,9.8,10.3,convenience_proxy,False
+CG-103662-0000,Exeter - Belgrave Road,Co-operative Group,EX1 2LB,False,False,False,,,unknown,False
+CG-103679-0000,Wembley - Caldon Boulevard,Co-operative Group,HA0 1EX,True,False,False,,,convenience_proxy,False
+CG-103691-0000,Park Royal - Lakeside Drive,Co-operative Group,NW10 7HQ,True,False,False,,,convenience_proxy,False
+CG-103698-0000,Guildford - High Street,Co-operative Group,GU1 3BS,True,False,False,9.4,9.9,convenience_proxy,True
+CG-103700-0000,Hastings - Parkstone Road,Co-operative Group,TN34 2PS,True,False,False,5.8,6.8,convenience_proxy,False
+CG-103715-0000,Staines - London Square,Co-operative Group,TW18 4BY,True,False,False,15.3,17.3,convenience_proxy,False
+CG-103766-0000,Muswell Hill - Priory Road,Co-operative Group,N8 8NB,True,False,False,,,convenience_proxy,False
+CG-104031-0000,Camden - Parkway,Co-operative Group,NW1 7AH,True,False,False,,,convenience_proxy,False
+CG-104055-0000,Hove - Dyke Road,Co-operative Group,BN3 1TX,True,False,False,52.1,53.4,convenience_proxy,False
+CG-104083-0000,Slough - Long Furlong Drive,Co-operative Group,SL2 2LX,True,False,False,,,convenience_proxy,False
+CG-104085-0000,Isleworth - South Street,Co-operative Group,TW7 7AL,True,False,False,,,convenience_proxy,False
+CG-104086-0000,Lambeth - Lower Marsh,Co-operative Group,SE1 7NT,True,False,False,,,convenience_proxy,False
+CG-104089-0000,Wandsworth - East Hill,Co-operative Group,SW18 2QE,True,False,False,,,convenience_proxy,False
+CG-104098-0000,London - City Road,Co-operative Group,EC1V 1LA,True,False,False,,,convenience_proxy,False
+CG-104105-0000,Cowfold - The Street,Co-operative Group,RH13 8BT,True,False,False,,,convenience_proxy,False
+CG-104110-0000,Wimbledon - Inner Park Road,Co-operative Group,SW19 6DA,True,False,False,,,convenience_proxy,False
+CG-104111-0000,Christchurch - Fairmile Road,Co-operative Group,BH23 2LP,True,False,False,,,convenience_proxy,False
+CG-104112-0000,Southampton - Bassett Green Road,Co-operative Group,SO16 3EG,True,False,False,,,convenience_proxy,False
+CG-104119-0000,Old Malden - Manor Drive North,Co-operative Group,KT3 5PN,True,False,False,,,convenience_proxy,False
+CG-104129-0000,Bournemouth - Queens Road,Co-operative Group,BH2 6BE,True,False,False,20.4,20.4,convenience_proxy,False
+CG-104135-0000,Pagham - The Parade,Co-operative Group,PO21 4TW,True,False,False,,,convenience_proxy,True
+CG-104145-0000,Southampton - Weston Lane,Co-operative Group,SO19 9GR,True,False,False,,,convenience_proxy,False
+CG-104158-0000,Clapham - Abbeville Road,Co-operative Group,SW4 9NF,True,False,False,,,convenience_proxy,False
+CG-104169-0000,Thames Ditton - The Broadway,Co-operative Group,KT7 0JW,True,False,False,,,convenience_proxy,False
+CG-104171-0000,Stubbington - The Green,Co-operative Group,PO14 2LE,False,False,False,2.8,2.8,mss_proxy,False
+CG-104174-0000,Kingston - King's Road,Co-operative Group,KT2 5HU,True,False,False,,,convenience_proxy,False
+CG-104177-0000,Cuckfield - Whitemans Green,Co-operative Group,RH17 5BY,True,False,False,,,convenience_proxy,False
+CG-104178-0000,Beckenham - Upper Elmers End Road,Co-operative Group,BR3 3DY,True,False,False,,,convenience_proxy,False
+CG-104181-0000,St Paul's - Cheapside,Co-operative Group,EC2V 6AA,True,False,False,,,convenience_proxy,False
+CG-104191-0000,Fulham - Lillie Road,Co-operative Group,SW6 7PS,True,False,False,,,convenience_proxy,False
+CG-104194-0000,Aldershot - North Lane,Co-operative Group,GU12 4TJ,False,False,False,22.3,22.3,unknown,False
+CG-104199-0000,Chippenham - Conway Road,Co-operative Group,SN14 0PW,True,False,False,,,convenience_proxy,False
+CG-104201-0000,Hendon - Church Road,Co-operative Group,NW4 4EB,True,False,False,,,convenience_proxy,False
+CG-104203-0000,Camden - Camley Street,Co-operative Group,N1C 4PF,True,False,False,,,convenience_proxy,False
+CG-104220-0000,Regents Park - Park Road,Co-operative Group,NW1 4SA,True,False,False,,,convenience_proxy,False
+CG-104253-0000,Battersea - Chatfield Road,Co-operative Group,SW11 3SE,True,False,False,,,convenience_proxy,False
+CG-104257-0000,Twickenham - Richmond Road,Co-operative Group,TW1 3AW,True,False,False,,,convenience_proxy,False
+CG-104287-0000,Childs Hill - Finchley Road,Co-operative Group,NW11 8AT,False,False,False,,,unknown,False
+CG-104293-0000,Iver - High Street,Co-operative Group,SL0 9ND,True,False,False,,,convenience_proxy,False
+CG-104305-0000,Portslade - Mile Oak Road,Co-operative Group,BN41 2RB,True,False,False,,,convenience_proxy,False
+CG-104306-0000,Broughton - Bodmin Place,Co-operative Group,MK10 7DP,True,False,False,,,convenience_proxy,False
+CG-104307-0000,Ewell - Chessington Road,Co-operative Group,KT19 9GG,True,False,False,12.6,12.6,convenience_proxy,False
+CG-104315-0000,Canary Wharf - Harbour Exchange Sq,Co-operative Group,E14 9GE,True,False,False,,,convenience_proxy,False
+CG-104316-0000,Loughborough Jnctn - Coldharbour Ln,Co-operative Group,SW9 8RZ,True,False,False,,,convenience_proxy,False
+CG-104329-0000,Woking - Wych Hill,Co-operative Group,GU22 0EU,True,False,False,,,convenience_proxy,False
+CG-104340-0000,Wainscott - Wainscott Road,Co-operative Group,ME2 4LB,True,False,False,,,convenience_proxy,False
+CG-104343-0000,Kentish Town - Fortess Road,Co-operative Group,NW5 1AS,False,False,False,,,unknown,False
+CG-104345-0000,Bournemouth - Columbia Road,Co-operative Group,BH10 4DY,True,False,False,,,convenience_proxy,False
+CG-104348-0000,Milton Keynes - Dunthorne Way,Co-operative Group,MK8 0LW,True,False,False,,,convenience_proxy,False
+CG-104351-0000,Broughton - Tanfield Lane,Co-operative Group,MK10 9NY,True,False,False,,,convenience_proxy,False
+CG-104352-0000,Milton Keynes - Plaistow Crescent,Co-operative Group,MK10 9PN,True,False,False,,,convenience_proxy,False
+CG-104355-0000,Snodland - Holborough Road,Co-operative Group,ME6 5DQ,True,False,False,,,convenience_proxy,False
+CG-104358-0000,Notting Hill - St Ann's Road,Co-operative Group,W11 4BU,True,False,False,,,convenience_proxy,False
+CG-104365-0000,Holborn - Kingsway,Co-operative Group,WC2B 6LH,True,False,False,,,convenience_proxy,False
+CG-104373-0000,Cricklewood - Cricklewood Broadway,Co-operative Group,NW2 3HD,True,False,False,,,convenience_proxy,False
+CG-104557-0000,Croydon - Lower Addiscombe Road,Co-operative Group,CR0 7AF,False,False,False,,,mss_proxy,False
+CG-104563-0000,Eastbourne - Albert Parade,Co-operative Group,BN21 1SD,True,False,False,,,convenience_proxy,False
+CG-104582-0000,Archway - Junction Road,Co-operative Group,N19 5QT,False,False,False,,,mss_proxy,False
+CG-104587-0000,Aldershot - Ash Street,Co-operative Group,GU12 6LG,True,False,False,8.7,8.7,convenience_proxy,False
+CG-104597-0000,Aylesham - Market Place,Co-operative Group,CT3 3DY,False,False,False,,,mss_proxy,False
+CG-104622-0000,Finchley - Woodhouse Road,Co-operative Group,N12 0LH,True,False,False,,,convenience_proxy,False
+CG-104625-0000,Bristol - Bishopsworth Road,Co-operative Group,BS13 7JR,True,False,False,,,convenience_proxy,False
+CG-104629-0000,Bellingham - Randlesdown Road,Co-operative Group,SE6 3BT,True,False,False,,,convenience_proxy,False
+CG-104648-0000,Birchington - 54-56 Station Road,Co-operative Group,CT7 9RA,True,False,False,,,convenience_proxy,False
+CG-104652-0000,Bishops Lydeard - Church Street,Co-operative Group,TA4 3AT,True,False,False,,,convenience_proxy,False
+CG-104661-0000,Brighton & Hove - Blatchington Road,Co-operative Group,BN3 3YH,False,False,False,23.8,24.8,mss_proxy,False
+CG-104667-0000,Wimbledon Chase - Kingston Road,Co-operative Group,SW20 8LX,True,False,False,17.0,18.0,convenience_proxy,False
+CG-104668-0000,Borough Green - Station Approach,Co-operative Group,TN15 8AD,True,False,False,,,convenience_proxy,False
+CG-104669-0000,Borstal - Borstal Street,Co-operative Group,ME1 3JS,True,False,False,,,convenience_proxy,False
+CG-104682-0000,Bradwell - High Street,Co-operative Group,MK13 0BT,True,False,False,,,convenience_proxy,False
+CG-104700-0000,Bromley Common - Chatterton Road,Co-operative Group,BR2 9QN,False,False,False,,,mss_proxy,False
+CG-104703-0000,Broomfield - Greenway Lane,Co-operative Group,SN15 1DZ,True,False,False,,,convenience_proxy,False
+CG-104704-0000,Bristol - Broomhill Road,Co-operative Group,BS4 4NZ,True,False,False,10.0,10.0,convenience_proxy,False
+CG-104716-0000,Bristol - Filton Road,Co-operative Group,BS7 0PB,True,False,False,19.6,21.6,convenience_proxy,False
+CG-104720-0000,Winscombe - Woodborough Road,Co-operative Group,BS25 1AB,True,True,True,2.1,2.6,convenience_proxy,False
+CG-104721-0000,Newport Pagnell - Wordsworth Avenue,Co-operative Group,MK16 8SB,True,False,False,,,convenience_proxy,False
+CG-104732-0000,New Eltham - Footscray Road,Co-operative Group,SE9 2AA,True,False,False,,,convenience_proxy,False
+CG-104733-0000,Bush Hill Park - Leighton Road,Co-operative Group,EN1 1XH,True,False,False,,,convenience_proxy,False
+CG-104742-0000,Camberwell - Camberwell New Road,Co-operative Group,SE5 0TJ,True,False,False,,,convenience_proxy,False
+CG-104747-0000,Gillingham - Canterbury Street,Co-operative Group,ME7 5JP,True,False,False,,,convenience_proxy,False
+CG-104764-0000,Catford - Sangley Road,Co-operative Group,SE6 2JT,True,False,False,,,convenience_proxy,False
+CG-104774-0000,Charlton - The Village,Co-operative Group,SE7 8UG,True,False,False,,,convenience_proxy,False
+CG-104775-0000,Dartford - Chastilian Road,Co-operative Group,DA1 3JJ,True,False,False,,,convenience_proxy,False
+CG-104788-0000,Cheshunt - Church Lane,Co-operative Group,EN8 0EA,True,False,False,,,convenience_proxy,False
+CG-104801-0000,Clipstone - Mansfield Road,Co-operative Group,NG21 9EQ,True,False,False,,,convenience_proxy,False
+CG-104813-0000,Coney Hall - Croydon Road,Co-operative Group,BR4 9HU,True,False,False,,,convenience_proxy,False
+CG-104817-0000,Corfe Mullen - Wareham Road,Co-operative Group,BH21 3LE,False,False,False,,,mss_proxy,False
+CG-104824-0000,Woburn Sands - High Street,Co-operative Group,MK17 8RF,True,False,False,,,convenience_proxy,False
+CG-104826-0000,Cranbrook - High Street,Co-operative Group,TN17 3DQ,False,False,False,,,oss_proxy,False
+CG-104840-0000,Bristol - Crow Lane,Co-operative Group,BS10 7DR,True,False,False,,,convenience_proxy,False
+CG-104842-0000,Croxley Green - New Road,Co-operative Group,WD3 3ER,True,False,False,,,convenience_proxy,False
+CG-104850-0000,Cuxton - Bush Road,Co-operative Group,ME2 1EY,True,False,False,,,convenience_proxy,False
+CG-104863-0000,Rochester - Delce Road,Co-operative Group,ME1 2DT,True,False,False,,,convenience_proxy,False
+CG-104867-0000,Rochester - Marley Way,Co-operative Group,ME1 2LQ,True,False,False,,,convenience_proxy,False
+CG-104871-0000,Brighton & Hove - Ditchling Road,Co-operative Group,BN1 6FL,True,False,False,,,convenience_proxy,False
+CG-104881-0000,Bromley - Downham Way,Co-operative Group,BR1 5HR,False,False,False,,,mss_proxy,False
+CG-104900-0000,Portland - Easton Square,Co-operative Group,DT5 1BY,True,True,True,1.0,1.0,convenience_proxy,True
+CG-104913-0000,Reigate - Western Parade,Co-operative Group,RH2 8AU,True,False,False,,,convenience_proxy,False
+CG-104915-0000,Anerley - Elmers End Road,Co-operative Group,SE20 7UX,True,False,False,,,convenience_proxy,False
+CG-104926-0000,Barking - Faircross Parade,Co-operative Group,IG11 8UW,True,False,False,,,convenience_proxy,False
+CG-104927-0000,Welling - Falconwood Park,Co-operative Group,DA16 2PQ,True,False,False,11.4,11.9,convenience_proxy,False
+CG-104929-0000,Farnborough - Woburn Avenue,Co-operative Group,GU14 7EF,True,False,False,,,convenience_proxy,False
+CG-104930-0000,Godalming - St Johns Street,Co-operative Group,GU7 3EH,True,False,False,,,convenience_proxy,False
+CG-104932-0000,Netherfield - Farthing Grove,Co-operative Group,MK6 4JH,True,False,False,,,convenience_proxy,False
+CG-104939-0000,Worthing - Field Place Parade,Co-operative Group,BN12 6BS,True,False,False,,,convenience_proxy,False
+CG-104943-0000,Fishermead - Fishermead Blvd,Co-operative Group,MK6 2AD,True,False,False,,,convenience_proxy,False
+CG-104950-0000,Fordingbridge - High Street,Co-operative Group,SP6 1AX,False,False,False,,,mss_proxy,False
+CG-104951-0000,Forest Town - Main Avenue,Co-operative Group,NG19 0BS,True,False,False,,,convenience_proxy,False
+CG-104955-0000,Portland - Fortuneswell,Co-operative Group,DT5 1LY,True,True,True,2.6,2.6,convenience_proxy,False
+CG-104961-0000,Dagenham - Gale Street,Co-operative Group,RM9 4TP,True,False,False,,,convenience_proxy,False
+CG-104962-0000,Exeter - Pennsylvania Road,Co-operative Group,EX4 6BP,True,False,False,,,convenience_proxy,False
+CG-104964-0000,Gamlingay - Church Street,Co-operative Group,SG19 3JH,True,False,False,,,convenience_proxy,False
+CG-104972-0000,Gildersome - Finkle Lane,Co-operative Group,LS27 7DX,False,False,False,,,unknown,False
+CG-104981-0000,Goffs Oak - Goffs Lane,Co-operative Group,EN7 5ET,True,False,False,,,convenience_proxy,False
+CG-104987-0000,Worthing - Goring Road,Co-operative Group,BN12 4AP,True,False,False,,,convenience_proxy,False
+CG-104991-0000,Morden Park - Grand Drive,Co-operative Group,SW20 9NQ,True,False,False,,,convenience_proxy,False
+CG-104996-0000,Grayshott - Headley Road,Co-operative Group,GU26 6LG,True,False,False,,,convenience_proxy,False
+CG-105046-0000,Mansfield - Southwell Road West,Co-operative Group,NG18 4EH,True,False,False,,,convenience_proxy,False
+CG-105048-0000,Poole - Ashley Road,Co-operative Group,BH14 0AW,True,False,False,12.5,13.0,convenience_proxy,False
+CG-105053-0000,Highbury - Queensland Terrace,Co-operative Group,N7 7BA,True,False,False,,,convenience_proxy,False
+CG-105054-0000,Worthing - Tarring Road,Co-operative Group,BN11 4HS,True,False,False,,,convenience_proxy,False
+CG-105059-0000,Isle of Dogs - Cassilis Road,Co-operative Group,E14 9LQ,True,False,False,,,convenience_proxy,False
+CG-105062-0000,London - Sumner Street,Co-operative Group,SE1 9RE,True,False,False,,,convenience_proxy,False
+CG-105068-0000,Hailsham - Upper Horsebridge Road,Co-operative Group,BN27 1NX,True,False,False,,,convenience_proxy,False
+CG-105069-0000,Hartley - Cherry Trees,Co-operative Group,DA3 8DS,True,False,False,,,convenience_proxy,False
+CG-105084-0000,Bow - Mile End Road,Co-operative Group,E3 4QS,True,False,False,,,convenience_proxy,False
+CG-105086-0000,Twickenham - Hampton Road,Co-operative Group,TW2 5NJ,True,False,False,,,convenience_proxy,False
+CG-105106-0000,Portsmouth - Queen Street,Co-operative Group,PO1 3HY,True,False,False,,,convenience_proxy,False
+CG-105107-0000,Emsworth - Southleigh Road,Co-operative Group,PO10 7TA,True,False,False,4.4,5.9,convenience_proxy,False
+CG-105111-0000,Sway - Station Road,Co-operative Group,SO41 6BA,True,False,False,,,convenience_proxy,False
+CG-105116-0000,Old Basing - Linden Avenue,Co-operative Group,RG24 7HR,True,False,False,,,convenience_proxy,False
+CG-105118-0000,Lee - Burnt Ash Hill,Co-operative Group,SE12 9HT,True,False,False,,,convenience_proxy,False
+CG-105120-0000,Colindale - Colindale Avenue,Co-operative Group,NW9 5HE,False,False,False,,,unknown,False
+CG-105121-0000,Monkton Heath - School Road,Co-operative Group,TA2 8PB,True,False,False,,,convenience_proxy,False
+CG-105133-0000,Selsey - High Street,Co-operative Group,PO20 0QG,False,False,False,4.4,4.4,mss_proxy,False
+CG-105135-0000,Aspull - Haigh Road,Co-operative Group,WN2 1XH,True,False,False,,,convenience_proxy,False
+CG-105150-0000,London - Goldhawk Road,Co-operative Group,W12 9PE,True,False,False,,,convenience_proxy,False
+CG-105165-0000,Bedford - Queens Drive,Co-operative Group,MK41 9JF,True,False,False,,,convenience_proxy,False
+CG-105186-0000,Soho - Berwick Street,Co-operative Group,W1F 0QS,True,False,False,,,convenience_proxy,False
+CG-105193-0000,Ash Vale - Wharf Road,Co-operative Group,GU12 5AS,False,False,False,,,mss_proxy,False
+CG-105194-0000,Lightwater - Guildford Road,Co-operative Group,GU18 5SA,False,False,False,,,mss_proxy,False
+CG-105217-0000,Horwich - Chorley New Road,Co-operative Group,BL6 6JZ,True,False,False,,,convenience_proxy,False
+CG-105220-0000,Leighton Buzzard - Stanbridge Road,Co-operative Group,LU7 4DF,False,False,False,,,unknown,False
+CG-105221-0000,Woolavington - Woolavington Hill,Co-operative Group,TA7 8HQ,True,False,False,,,convenience_proxy,False
+CG-105224-0000,Deanshanger - High Street,Co-operative Group,MK19 6HR,True,False,False,,,convenience_proxy,False
+CG-105227-0000,Woking - Westfield Road,Co-operative Group,GU22 9NQ,True,False,False,,,convenience_proxy,False
+CG-105228-0000,Upton - Poole Road,Co-operative Group,BH16 5JA,True,False,False,6.6,8.1,convenience_proxy,False
+CG-105230-0000,London - Rotherhithe Street,Co-operative Group,SE16 5EF,True,False,False,,,convenience_proxy,False
+CG-105231-0000,Shillingstone - Blandford Road,Co-operative Group,DT11 0QZ,True,False,False,,,convenience_proxy,False
+CG-105239-0000,Amesbury - Salisbury Street,Co-operative Group,SP4 7AW,True,False,False,,,convenience_proxy,False
+CG-105258-0000,Upminster - Upminster Road,Co-operative Group,RM14 2RB,True,False,False,,,convenience_proxy,False
+CG-105265-0000,London - Yeoman Street,Co-operative Group,SE8 5EN,True,False,False,,,convenience_proxy,False
+CG-105269-0000,Woodford - George Lane,Co-operative Group,E18 1JJ,True,False,False,,,convenience_proxy,False
+CG-105283-0000,Bristol - Coronation Road,Co-operative Group,BS3 1RF,True,False,False,17.8,17.8,convenience_proxy,False
+CG-105291-0000,Southsea - South Parade,Co-operative Group,PO4 0SS,False,False,False,14.8,18.8,unknown,False
+CG-105298-0000,Sandy - High Street,Co-operative Group,SG19 1AA,True,False,False,,,convenience_proxy,False
+CG-105306-0000,Bradford On Avon - Bridge Yard,Co-operative Group,BA15 1EJ,True,True,True,2.6,2.6,convenience_proxy,True
+CG-105307-0000,Byfleet - High Road,Co-operative Group,KT14 7RA,True,False,False,7.2,7.2,convenience_proxy,False
+CG-105309-0000,Fulham - Munster Road,Co-operative Group,SW6 6BT,True,False,False,,,convenience_proxy,False
+CG-105310-0000,Ripley - High Street,Co-operative Group,GU23 6AF,True,False,False,,,convenience_proxy,False
+CG-105311-0000,Walton on the Hill - Walton Street,Co-operative Group,KT20 7RR,True,False,False,,,convenience_proxy,False
+CG-105312-0000,Finsbury - Tysoe Street,Co-operative Group,EC1R 4SA,True,False,False,,,convenience_proxy,False
+CG-105322-0000,Norton St Phillip - Fortescue St,Co-operative Group,BA2 7PE,True,False,False,,,convenience_proxy,False
+CG-105328-0000,Kingston - Lower Marsh Lane,Co-operative Group,KT5 8BH,False,False,False,,,unknown,False
+CG-105329-0000,Croxley Green - Watford Road,Co-operative Group,WD3 3TL,True,False,False,,,convenience_proxy,False
+CG-105333-0000,Highgate - Archway Road,Co-operative Group,N6 5BW,False,False,False,,,unknown,False
+CG-105338-0000,Romford - Moray Way,Co-operative Group,RM1 4YD,True,False,False,,,convenience_proxy,False
+CG-105340-0000,Walthamstow - Billet Road,Co-operative Group,E17 5DT,True,False,False,,,convenience_proxy,False
+CG-105344-0000,Walthamstow - Blackhorse Lane,Co-operative Group,E17 6SX,False,False,False,,,unknown,False
+CG-105346-0000,Brockley - Brockley Road,Co-operative Group,SE4 2RA,True,False,False,,,convenience_proxy,False
+CG-105347-0000,Stockwell - Brixton Road,Co-operative Group,SW9 6LJ,False,False,False,,,unknown,False
+CG-105349-0000,London - Deptford Bridge,Co-operative Group,SE8 4HH,True,False,False,,,convenience_proxy,False
+CG-105356-0000,Bournemouth - Christchurch Road,Co-operative Group,BH1 3PD,False,False,False,34.5,34.5,unknown,False
+CG-105360-0000,Denham - North Orbital Road,Co-operative Group,UB9 5FB,False,False,False,,,unknown,False
+CG-105368-0000,Balham - Balham High Road,Co-operative Group,SW12 9BE,True,False,False,,,convenience_proxy,False
+CG-105369-0000,Bracknell - Falcon Way,Co-operative Group,RG12 8QD,False,False,False,,,unknown,False
+CG-105371-0000,London - South Lambeth Road,Co-operative Group,SW8 1XW,True,False,False,,,convenience_proxy,False
+CG-105374-0000,Merstham - Portland Drive,Co-operative Group,RH1 3HU,False,False,False,,,unknown,False
+CG-105380-0000,London - Fulham Palace Road,Co-operative Group,W6 9PL,False,False,False,,,unknown,False
+CG-105387-0000,Portishead - Avon Way,Co-operative Group,BS20 6LT,True,False,False,,,convenience_proxy,False
+CG-105388-0000,Surbiton - Ellerton Road,Co-operative Group,KT6 7TX,False,False,False,,,unknown,False
+CG-105389-0000,Falloden Way - Hampstead Garden,Co-operative Group,NW11 6JT,True,False,False,,,convenience_proxy,False
+CG-105396-0000,Bristol - Lodge Road,Co-operative Group,BS15 1JA,True,False,False,13.2,14.2,convenience_proxy,False
+CG-105400-0000,Croydon - Lansdowne Road,Co-operative Group,CR0 2BX,True,False,False,,,convenience_proxy,False
+CG-105415-0000,Southampton - Spring Road,Co-operative Group,SO19 2NT,True,False,False,,,convenience_proxy,False
+CG-105417-0000,London - Bramley Road,Co-operative Group,W10 6SZ,True,False,False,,,convenience_proxy,False
+CG-105421-0000,Cricklewood - 140 Cricklewood Lane,Co-operative Group,NW2 2DT,True,False,False,,,convenience_proxy,False
+CG-105422-0000,Lower Clapton - Chatsworth Road,Co-operative Group,E5 0LH,True,False,False,,,convenience_proxy,False
+CG-105424-0000,Harefield - Rickmansworth Road,Co-operative Group,UB9 6BU,True,False,False,,,convenience_proxy,False
+CG-105426-0000,Colliers Wood - High Street,Co-operative Group,SW19 2BY,True,False,False,,,convenience_proxy,False
+CG-105428-0000,Wandsworth - Balham Hill Road,Co-operative Group,SW12 9EL,True,False,False,,,convenience_proxy,False
+CG-105431-0000,Wimbledon - Haydons Road,Co-operative Group,SW19 8JZ,True,False,False,,,convenience_proxy,False
+CG-105434-0000,Weymouth - Chickerell Road,Co-operative Group,DT4 9TP,True,False,False,4.1,4.1,convenience_proxy,False
+CG-105435-0000,Ilford - Longwood Gardens,Co-operative Group,IG5 0EN,True,False,False,,,convenience_proxy,False
+CG-105445-0000,Hove - Kingsway,Co-operative Group,BN3 2WY,False,False,False,21.8,22.8,unknown,False
+CG-105449-0000,Dalston - Stoke Newington Road,Co-operative Group,N16 8BJ,True,False,False,,,convenience_proxy,False
+CG-105452-0000,Chiswick - Station Parade,Co-operative Group,W4 3HD,True,False,False,,,convenience_proxy,False
+CG-105472-0000,Kensal Green - Harrow Road,Co-operative Group,NW10 5NY,True,False,False,,,convenience_proxy,False
+CG-105473-0000,Colliers Wood - Christchurch Road,Co-operative Group,SW19 2FA,True,False,False,,,convenience_proxy,False
+CG-105476-0000,Oakley - Oakley Lane,Co-operative Group,RG23 7JY,True,False,False,,,convenience_proxy,False
+CG-105477-0000,Mitcham - South Lodge Avenue,Co-operative Group,CR4 1LU,True,False,False,,,convenience_proxy,False
+CG-105480-0000,Hornchurch - Elm Park,Co-operative Group,RM12 5AB,True,False,False,,,convenience_proxy,False
+CG-105481-0000,Walthamstow - Troubridge Square,Co-operative Group,E17 3GN,False,False,False,,,unknown,False
+CG-105493-0000,Teddington - Kingston Road,Co-operative Group,TW11 9JF,True,False,False,,,convenience_proxy,False
+CG-105514-0000,Fulham - New Kings Road,Co-operative Group,SW6 4LX,True,False,False,,,convenience_proxy,False
+CG-105520-0000,Chiswick - Chiswick High Road,Co-operative Group,W4 5RP,True,False,False,,,convenience_proxy,False
+CG-105522-0000,Park Royal - Hanger Green,Co-operative Group,W5 3AY,True,False,False,,,convenience_proxy,False
+CG-105528-0000,London - Fenchurch Street,Co-operative Group,EC3A 2DB,True,False,False,,,convenience_proxy,False
+CG-105533-0000,Andover - Salisbury Road,Co-operative Group,SP10 2LH,True,False,False,,,convenience_proxy,False
+CG-105541-0000,London - Minories,Co-operative Group,EC3N 2LU,True,False,False,,,convenience_proxy,False
+CG-105543-0000,Kingsmead - Guildford Avenue,Co-operative Group,MK4 4JZ,True,False,False,,,convenience_proxy,False
+CG-105549-0000,Wembley - Olympic Way,Co-operative Group,HA9 0FR,True,False,False,,,convenience_proxy,False
+CG-105577-0000,Barton on Sea - Sea Road,Co-operative Group,BH25 7ND,True,False,False,,,convenience_proxy,False
+CG-105578-0000,Croydon - South End,Co-operative Group,CR0 1DP,True,False,False,,,convenience_proxy,False
+CG-105579-0000,Plaistow - Plaistow Road,Co-operative Group,E13 0DY,True,False,False,,,convenience_proxy,False
+CG-105584-0000,Harrietsham - Ashford Road,Co-operative Group,ME17 1GF,True,False,False,3.3,3.3,convenience_proxy,True
+CG-105586-0000,Brighton - Lewes Road,Co-operative Group,BN2 3HW,True,False,False,,,convenience_proxy,False
+CG-105590-0000,Southampton - Ocean Way,Co-operative Group,SO14 3TL,True,False,False,22.3,23.8,convenience_proxy,False
+CG-105591-0000,London - Baker Street Station,Co-operative Group,NW1 5RT,True,False,False,,,convenience_proxy,False
+CG-105595-0000,Gidea Park - Brentwood Road,Co-operative Group,RM2 5TD,True,False,False,,,convenience_proxy,False
+CG-105602-0000,Hackney - Cambridge Heath Road,Co-operative Group,E2 9NN,True,False,False,,,convenience_proxy,False
+CG-105613-0000,Queens Park - Salusbury Road,Co-operative Group,NW6 6RG,True,False,False,,,convenience_proxy,False
+CG-105616-0000,Beckton - Atlantis Avenue,Co-operative Group,E6 7AB,True,False,False,,,convenience_proxy,False
+CG-105619-0000,Exeter - Old Tiverton Road,Co-operative Group,EX4 6LG,True,False,False,,,convenience_proxy,False
+CG-105620-0000,Finsbury Park - Green Lanes,Co-operative Group,N4 2LX,True,False,False,,,convenience_proxy,False
+CG-105622-0000,Exeter - Coaker Road,Co-operative Group,EX1 3HU,False,False,False,,,unknown,False
+CG-105626-0000,Portman Square - Baker Street,Co-operative Group,W1U 3AA,True,False,False,,,convenience_proxy,False
+CG-105643-0000,Hendon - West Hendon Broadway,Co-operative Group,NW9 7ED,True,False,False,,,convenience_proxy,False
+CG-105647-0000,Burgess Hill - Terracotta Lane,Co-operative Group,RH15 0NT,True,False,False,5.8,6.3,convenience_proxy,False
+CG-105655-0000,Tadley - New Road,Co-operative Group,RG26 3AL,True,False,False,,,convenience_proxy,False
+CG-105658-0000,Greenwich - Banning Street,Co-operative Group,SE10 0FE,True,False,False,,,convenience_proxy,False
+CG-105662-0000,Norbury - London Road,Co-operative Group,SW16 4AE,True,False,False,,,convenience_proxy,False
+CG-105670-0000,Wandsworth - Lavender Hill,Co-operative Group,SW11 5NQ,True,False,False,,,convenience_proxy,False
+CG-105702-0000,Bristol - Station Road,Co-operative Group,BS10 7LZ,True,False,False,,,convenience_proxy,False
+CG-105703-0000,Greenwich - Trafalgar Road,Co-operative Group,SE10 9ER,True,False,False,,,convenience_proxy,False
+CG-105707-0000,Guildford - Aldershot Road,Co-operative Group,GU2 8BE,False,False,False,,,mss_proxy,False
+CG-105716-0000,Hamble - High Street,Co-operative Group,SO31 4HA,True,False,False,,,convenience_proxy,False
+CG-105718-0000,Hamsey Green - Limpsfield Road,Co-operative Group,CR2 9BY,False,False,False,,,unknown,False
+CG-105722-0000,Bristol - High Street,Co-operative Group,BS15 3DJ,True,False,False,12.0,12.0,convenience_proxy,False
+CG-105724-0000,Harold Wood - Station Road,Co-operative Group,RM3 0BP,True,False,False,,,convenience_proxy,False
+CG-105735-0000,Dartford - Hawley Road,Co-operative Group,DA1 1NP,True,False,False,,,convenience_proxy,False
+CG-105746-0000,Woolwich - Herbert Road,Co-operative Group,SE18 3TB,True,False,False,,,convenience_proxy,False
+CG-105749-0000,Enfield - Hertford Road,Co-operative Group,EN3 5JG,True,False,False,,,convenience_proxy,False
+CG-105757-0000,Walthamstow - Higham Hill Road,Co-operative Group,E17 5RG,True,False,False,,,convenience_proxy,False
+CG-105761-0000,Hillingdon - Long Lane,Co-operative Group,UB10 9PG,True,False,False,,,convenience_proxy,False
+CG-105767-0000,Hither Green - Hither Green Lane,Co-operative Group,SE13 6RT,True,False,False,,,convenience_proxy,False
+CG-105770-0000,Holbury - Long Lane,Co-operative Group,SO45 2NZ,False,False,False,0.8,0.8,mss_proxy,False
+CG-105775-0000,Bristol - Belland Drive,Co-operative Group,BS14 0EW,True,False,False,,,convenience_proxy,False
+CG-105778-0000,Hoo - Main Road,Co-operative Group,ME3 9AA,True,False,False,,,convenience_proxy,False
+CG-105791-0000,Willesborough - Hunter Avenue,Co-operative Group,TN24 0HG,True,False,False,,,convenience_proxy,False
+CG-105797-0000,Crawley - Ilfield Drive,Co-operative Group,RH11 0DQ,False,False,False,,,unknown,False
+CG-105811-0000,Exmouth - Littleham Road,Co-operative Group,EX8 2QG,True,False,False,3.3,3.8,convenience_proxy,False
+CG-105813-0000,Bath - Julian Road,Co-operative Group,BA1 2SQ,True,False,False,14.0,14.0,convenience_proxy,False
+CG-105816-0000,Kenley - Godstone Road,Co-operative Group,CR8 5AA,True,False,False,,,convenience_proxy,False
+CG-105817-0000,Kennington - Faversham Road,Co-operative Group,TN24 9DE,True,False,False,,,convenience_proxy,False
+CG-105818-0000,Kentish Town - Kentish Town Road,Co-operative Group,NW5 2AB,True,False,False,,,convenience_proxy,False
+CG-105823-0000,Blackheath - Shooters Hill Road,Co-operative Group,SE3 8RP,True,False,False,,,convenience_proxy,False
+CG-105832-0000,Islington - Caledonian Road,Co-operative Group,N1 1DT,True,False,False,,,convenience_proxy,False
+CG-105835-0000,Exeter - Haven Road,Co-operative Group,EX2 8BP,True,False,False,10.8,10.8,convenience_proxy,False
+CG-105839-0000,Kingsbury - Church Lane,Co-operative Group,NW9 8JS,True,False,False,,,convenience_proxy,False
+CG-105840-0000,Hayes - Kingshill Avenue,Co-operative Group,UB4 8BY,True,False,False,,,convenience_proxy,False
+CG-105848-0000,Kippax - High Street,Co-operative Group,LS25 7AB,False,False,False,,,mss_proxy,False
+CG-105859-0000,Knaphill - High Street,Co-operative Group,GU21 2PE,True,False,False,,,convenience_proxy,False
+CG-105863-0000,Crofton Park - Brockley Road,Co-operative Group,SE4 2PH,True,False,False,,,convenience_proxy,False
+CG-105871-0000,Enfield - Lancaster Road,Co-operative Group,EN2 0JW,True,False,False,,,convenience_proxy,False
+CG-105874-0000,Wye - Churchfield Way,Co-operative Group,TN25 5BP,True,False,False,,,convenience_proxy,False
+CG-105875-0000,Langley Green - Langley Parade,Co-operative Group,RH11 7RS,True,False,False,,,convenience_proxy,False
+CG-105885-0000,Lawrence Weston - Ridingleaze,Co-operative Group,BS11 0QB,True,False,False,,,convenience_proxy,False
+CG-105898-0000,Plumstead - Plumstead Common Road,Co-operative Group,SE18 2RS,False,False,False,,,mss_proxy,False
+CG-105926-0000,Bexleyheath - Long Lane,Co-operative Group,DA7 5AE,True,False,False,,,convenience_proxy,False
+CG-105928-0000,Longfield - Station Road,Co-operative Group,DA3 7QH,False,False,False,,,unknown,False
+CG-105939-0000,Bletchley - Water Eaton Road,Co-operative Group,MK2 3AQ,True,False,False,,,convenience_proxy,False
+CG-105942-0000,Gainsborough Studios - New N Road,Co-operative Group,N1 6SU,True,False,False,,,convenience_proxy,False
+CG-105944-0000,Guildford - Woodbridge Hill,Co-operative Group,GU2 9AB,True,False,False,11.3,11.8,convenience_proxy,False
+CG-105946-0000,Harlington - High Street,Co-operative Group,UB3 5DS,True,False,False,,,convenience_proxy,False
+CG-105953-0000,Andover - London Road,Co-operative Group,SP10 2PP,True,False,False,7.7,7.7,convenience_proxy,False
+CG-105974-0000,Budleigh Salterton - High Street,Co-operative Group,EX9 6LD,True,False,False,,,convenience_proxy,False
+CG-105976-0000,Carshalton - Banstead Road,Co-operative Group,SM5 3NP,True,False,False,,,convenience_proxy,False
+CG-105988-0000,Southwater - Worthing Road,Co-operative Group,RH13 9LA,False,False,False,,,mss_proxy,False
+CG-105989-0000,Amesbury - Boscombe Road,Co-operative Group,SP4 7JH,True,False,False,,,convenience_proxy,False
+CG-105992-0000,Frome - Culverhill,Co-operative Group,BA11 5AD,True,False,False,8.0,8.5,convenience_proxy,False
+CG-106003-0000,Poole - Ashley Cross,Co-operative Group,BH14 0JD,True,False,False,13.3,14.8,convenience_proxy,False
+CG-106010-0000,Lambeth - Stockwell Road,Co-operative Group,SW9 9TN,True,False,False,,,convenience_proxy,False
+CG-106012-0000,Wouldham - Village Road,Co-operative Group,ME1 3AP,False,False,False,,,unknown,False
+CG-106036-0000,Chichester - East Street,Co-operative Group,PO19 1JG,True,False,False,12.0,12.0,convenience_proxy,False
+CG-106039-0000,Wraysbury - Windsor Road,Co-operative Group,TW19 5DE,True,False,False,,,convenience_proxy,False
+CG-106047-0000,Rochester - Riverside,Co-operative Group,ME1 1NH,True,False,False,,,convenience_proxy,False
+CG-106050-0000,Brighton - London Road,Co-operative Group,BN1 4JH,True,False,False,58.9,60.7,convenience_proxy,False
+CG-106055-0000,Bath - Shaftesbury Road,Co-operative Group,BA2 3LH,False,False,False,10.5,10.5,mss_proxy,False
+CG-106056-0000,Camberley - Frimley Road,Co-operative Group,GU15 2QN,True,False,False,,,convenience_proxy,False
+CG-106057-0000,Northwood Hills - Joel Street,Co-operative Group,HA6 1NZ,True,False,False,,,convenience_proxy,False
+CG-106059-0000,Romford - Main Road,Co-operative Group,RM2 5EL,True,False,False,,,convenience_proxy,False
+CG-106065-0000,Archway - Holloway Road,Co-operative Group,N19 3NU,True,False,False,,,convenience_proxy,False
+CG-106074-0000,Havant - Bedhampton Road,Co-operative Group,PO9 3PT,True,False,False,9.6,9.6,convenience_proxy,False
+CG-106075-0000,Greenford - Oldfield Lane North,Co-operative Group,UB6 0HE,False,False,False,,,unknown,False
+CG-106076-0000,Bognor Regis - Chichester Road,Co-operative Group,PO21 2XH,True,False,False,16.0,16.0,convenience_proxy,False
+CG-106079-0000,Willesden Green - Walm Lane,Co-operative Group,NW2 4QR,True,False,False,,,convenience_proxy,False
+CG-106088-0000,Hermitage - Newbury Road,Co-operative Group,RG18 9TD,True,False,False,,,convenience_proxy,False
+CG-106090-0000,Welling - Wrotham Road,Co-operative Group,DA16 1LS,True,False,False,,,convenience_proxy,False
+CG-106091-0000,Newbury - Monument Close,Co-operative Group,RG14 6QW,True,False,False,6.3,7.3,convenience_proxy,False
+CG-106104-0000,Bermondsey - Crimscott Street,Co-operative Group,SE1 5YQ,False,False,False,,,unknown,False
+CG-106109-0000,Church Crookham - Redfields Lane,Co-operative Group,GU52 0RB,True,False,False,,,convenience_proxy,False
+CG-106110-0000,Bromley - London Road,Co-operative Group,BR1 3RA,True,False,False,,,convenience_proxy,False
+CG-106111-0000,Woodgate - Westergate Street,Co-operative Group,PO20 3QL,True,False,False,,,convenience_proxy,False
+CG-106121-0000,East Wittering - Bracklesham Lane,Co-operative Group,PO20 8JA,True,True,True,2.3,2.3,convenience_proxy,True
+CG-106122-0000,Greenwich - Millennium Village,Co-operative Group,SE10 0BH,False,False,False,,,unknown,False
+CG-106128-0000,West Kingsdown - Hever Road,Co-operative Group,TN15 6HD,True,False,False,,,convenience_proxy,False
+CG-106139-0000,Erith - Parsonage Manorway,Co-operative Group,DA17 6LY,True,False,False,,,convenience_proxy,False
+CG-106206-0000,Wood Green - Clarendon Road,Co-operative Group,N8 0FY,False,False,False,,,unknown,False
+CG-106216-0000,Cranfield - High Street,Co-operative Group,MK43 0DP,True,False,False,,,convenience_proxy,False
+CG-106220-0000,Bapchild - Stones Farm,Co-operative Group,ME10 4GA,True,False,False,,,convenience_proxy,False
+CG-106257-0000,Ashford - Willesborough Road,Co-operative Group,TN24 9QP,False,False,False,11.4,11.9,unknown,False
+CG-106263-0000,Bristol - 327 Gloucester Road,Co-operative Group,BS7 8PE,False,False,False,23.1,23.1,mss_proxy,False
+CG-106550-0000,Avonmouth - Avonmouth Road,Co-operative Group,BS11 9EG,True,False,False,,,convenience_proxy,False
+CG-106555-0000,New Addington - Central Parade,Co-operative Group,CR0 0JB,True,False,False,,,convenience_proxy,False
+CG-106560-0000,New Lodge - Wakefield Road,Co-operative Group,S71 3TY,True,False,False,,,convenience_proxy,False
+CG-106564-0000,Axbridge - The Square,Co-operative Group,BS26 2AR,True,False,False,,,convenience_proxy,False
+CG-106568-0000,West Byfleet - The Broadway,Co-operative Group,KT15 3HA,True,False,False,4.3,4.3,convenience_proxy,True
+CG-106573-0000,Newport Pagnell - High Street,Co-operative Group,MK16 8AB,False,False,False,,,mss_proxy,False
+CG-106577-0000,Bletchley - Newton Road,Co-operative Group,MK3 5BS,True,False,False,,,convenience_proxy,False
+CG-106587-0000,North Baddesley - Botley Road,Co-operative Group,SO52 9DW,True,True,True,1.6,1.6,convenience_proxy,True
+CG-106600-0000,Bath - Upper Bloomfield Road,Co-operative Group,BA2 2RY,True,False,False,,,convenience_proxy,False
+CG-106604-0000,Old Windsor - St Lukes Road,Co-operative Group,SL4 2QQ,True,False,False,,,convenience_proxy,False
+CG-106615-0000,Outwood - Broad Meadow,Co-operative Group,WF1 3TR,False,False,False,,,mss_proxy,False
+CG-106624-0000,Patcham - Old London Road,Co-operative Group,BN1 8XR,True,False,False,,,convenience_proxy,False
+CG-106625-0000,Chatham - Pattens Lane,Co-operative Group,ME4 6JR,True,False,False,,,convenience_proxy,False
+CG-106628-0000,Winterbourne - Dragon Road,Co-operative Group,BS36 1BQ,True,False,False,,,convenience_proxy,False
+CG-106646-0000,Bexleyheath - Pickford Lane,Co-operative Group,DA7 4QW,True,False,False,,,convenience_proxy,False
+CG-106654-0000,Polegate - High Street,Co-operative Group,BN26 6AQ,True,False,False,,,convenience_proxy,False
+CG-106666-0000,Dagenham - Porters Avenue,Co-operative Group,RM9 4ND,True,False,False,,,convenience_proxy,False
+CG-106667-0000,Long Ashton - Weston Road,Co-operative Group,BS41 9AA,True,False,False,,,convenience_proxy,False
+CG-106668-0000,Bristol - Shirehampton Road,Co-operative Group,BS9 2DW,True,False,False,,,convenience_proxy,False
+CG-106675-0000,Potters Bar - High Street,Co-operative Group,EN6 5AS,True,False,False,,,convenience_proxy,False
+CG-106680-0000,Taunton - Priorswood Place,Co-operative Group,TA2 7JW,True,False,False,,,convenience_proxy,False
+CG-106687-0000,Pyrford - Coldharbour Road,Co-operative Group,GU22 8SW,True,False,False,,,convenience_proxy,False
+CG-106697-0000,Coombe Lane - Raynes Park,Co-operative Group,SW20 0AX,True,False,False,10.7,11.2,convenience_proxy,False
+CG-106698-0000,Taunton - Cheddon Road,Co-operative Group,TA2 7AH,True,False,False,,,convenience_proxy,False
+CG-106724-0000,Royston - High Street,Co-operative Group,S71 4RF,False,False,False,,,mss_proxy,False
+CG-106728-0000,Ashford - Brookfield Court,Co-operative Group,TN23 5ER,True,False,False,12.9,13.4,convenience_proxy,False
+CG-106730-0000,Ealing - 107-109 Pitshanger Lane,Co-operative Group,W5 1RH,True,False,False,,,convenience_proxy,False
+CG-106736-0000,Sandwich - Moat Sole,Co-operative Group,CT13 9AL,False,False,False,,,mss_proxy,False
+CG-106752-0000,Weston super Mare - Severn Road,Co-operative Group,BS23 1EJ,True,False,False,,,convenience_proxy,False
+CG-106759-0000,Shepherds Bush - 187-89 Uxbridge Rd,Co-operative Group,W12 9RA,True,False,False,,,convenience_proxy,False
+CG-106768-0000,Shirehampton - High Street,Co-operative Group,BS11 0DW,False,False,False,5.9,5.9,mss_proxy,False
+CG-106769-0000,Shirley Oaks - Shirley Road,Co-operative Group,CR0 8TG,True,False,False,,,convenience_proxy,False
+CG-106772-0000,Shoreham-by-Sea - High Street,Co-operative Group,BN43 5DA,True,False,False,,,convenience_proxy,False
+CG-106794-0000,Ealing - South Ealing Road,Co-operative Group,W5 4QS,True,False,False,,,convenience_proxy,False
+CG-106797-0000,South Park - Allingham Road,Co-operative Group,RH2 8HX,True,False,False,,,convenience_proxy,False
+CG-106802-0000,Southwick - Southwick Square,Co-operative Group,BN42 4FJ,False,False,False,9.2,9.2,mss_proxy,False
+CG-106804-0000,Watford - St Albans Road,Co-operative Group,WD24 4AE,True,False,False,,,convenience_proxy,False
+CG-106814-0000,Kemptown - St James's Street,Co-operative Group,BN2 1RG,True,False,False,,,convenience_proxy,False
+CG-106818-0000,St Paul's Cray - Cotmandene Crscnt,Co-operative Group,BR5 2RB,True,False,False,,,convenience_proxy,False
+CG-106833-0000,Bristol - Holloway Road,Co-operative Group,BS14 8PG,True,False,False,,,convenience_proxy,False
+CG-106834-0000,Bristol - Stoke Lane,Co-operative Group,BS9 3RW,False,False,False,,,mss_proxy,False
+CG-106837-0000,Stoneleigh -The Broadway Stoneleigh,Co-operative Group,KT17 2HU,True,False,False,,,convenience_proxy,False
+CG-106841-0000,Bristol - Straits Parade,Co-operative Group,BS16 2LE,True,False,False,,,convenience_proxy,False
+CG-106842-0000,London - Streatham Vale,Co-operative Group,SW16 5SQ,True,False,False,,,convenience_proxy,False
+CG-106856-0000,Epsom - Tattenham Crescent,Co-operative Group,KT18 5NX,True,False,False,,,convenience_proxy,False
+CG-106865-0000,Teynham - London Road,Co-operative Group,ME9 9QL,True,False,False,,,convenience_proxy,False
+CG-106869-0000,Southampton - Bridge Road,Co-operative Group,SO19 7GP,True,False,False,,,convenience_proxy,False
+CG-106874-0000,Dawlish - The Strand,Co-operative Group,EX7 9PS,True,False,False,,,convenience_proxy,False
+CG-106879-0000,Knaphill - Victoria Road,Co-operative Group,GU21 2AW,True,False,False,,,convenience_proxy,False
+CG-106884-0000,Bexhill-on-Sea - Seabourne Road,Co-operative Group,TN40 2SW,True,False,False,,,convenience_proxy,False
+CG-106885-0000,Epsom - Station Approach,Co-operative Group,KT19 8BY,True,False,False,,,convenience_proxy,False
+CG-106891-0000,Bransgore - Oak Tree Parade,Co-operative Group,BH23 8AB,False,False,False,,,unknown,False
+CG-106895-0000,The Row - New Ash Greeen,Co-operative Group,DA3 8JB,False,False,False,,,mss_proxy,False
+CG-106896-0000,Bridgwater - Mountbatten Way,Co-operative Group,TA6 4RA,True,False,False,,,convenience_proxy,False
+CG-106921-0000,Southwark - Southwark Bridge Road,Co-operative Group,SE1 0DG,True,False,False,,,convenience_proxy,False
+CG-106949-0000,Parsons Green - Parsons Green Lane,Co-operative Group,SW6 4HU,True,False,False,,,convenience_proxy,False
+CG-106952-0000,Farnsfield - Main Street,Co-operative Group,NG22 8EF,True,False,False,,,convenience_proxy,False
+CG-107208-0000,Bexley - Steynton Avenue,Co-operative Group,DA5 3HP,True,False,False,,,convenience_proxy,False
+CG-107209-0000,Southsea - 73-75 Albert Road,Co-operative Group,PO5 2SG,True,False,False,22.6,29.1,convenience_proxy,False
+CG-107210-0000,Aldbourne - Oxford Street,Co-operative Group,SN8 2DQ,True,False,False,,,convenience_proxy,False
+CG-107224-0000,Arundel - Queen Street,Co-operative Group,BN18 9JG,True,False,False,,,convenience_proxy,False
+CG-107234-0000,Mapplewell - Blacker Road,Co-operative Group,S75 6BP,False,False,False,,,unknown,False
+CG-107240-0000,Barnham - Barnham Road,Co-operative Group,PO22 0HB,True,False,False,4.1,4.1,convenience_proxy,False
+CG-107248-0000,Battle - High Street,Co-operative Group,TN33 0AG,True,False,False,,,convenience_proxy,False
+CG-107263-0000,Bexley - Blendon Road,Co-operative Group,DA5 1BT,True,False,False,8.7,8.7,convenience_proxy,False
+CG-107264-0000,Bognor Regis - Nyetimber Lane,Co-operative Group,PO21 3HG,True,False,False,4.4,4.4,convenience_proxy,False
+CG-107265-0000,St Leonards - Bohemia Road,Co-operative Group,TN37 6RE,True,False,False,15.3,15.8,convenience_proxy,False
+CG-107272-0000,Botley - The Square,Co-operative Group,SO30 2EA,True,False,False,,,convenience_proxy,False
+CG-107282-0000,Hatfield - Bradmore Green,Co-operative Group,AL9 7QR,True,False,False,,,convenience_proxy,False
+CG-107299-0000,Orpington - Carlton Parade,Co-operative Group,BR6 0JB,True,False,False,,,convenience_proxy,False
+CG-107303-0000,Salisbury - Castle Road,Co-operative Group,SP1 3RR,True,False,False,14.6,15.6,convenience_proxy,False
+CG-107307-0000,Chalfont St Giles - High Street,Co-operative Group,HP8 4QA,True,False,False,,,convenience_proxy,False
+CG-107312-0000,Bournemouth - Charminster Road,Co-operative Group,BH8 9QJ,True,False,False,33.8,34.8,convenience_proxy,False
+CG-107327-0000,Colehill - Smugglers Lane,Co-operative Group,BH21 2RX,True,False,False,4.9,5.4,convenience_proxy,False
+CG-107334-0000,Corfe Mullen - The Parade,Co-operative Group,BH21 3LA,True,False,False,,,convenience_proxy,False
+CG-107340-0000,Farnborough - Fernhill Road,Co-operative Group,GU14 9EF,True,False,False,,,convenience_proxy,False
+CG-107346-0000,Crawley Down - Station Road,Co-operative Group,RH10 4HZ,True,False,False,,,convenience_proxy,False
+CG-107363-0000,Windsor - Dedworth Road,Co-operative Group,SL4 5BD,True,False,False,13.5,13.5,convenience_proxy,False
+CG-107364-0000,Melksham - Blackmore Road,Co-operative Group,SN12 7HS,True,False,False,,,convenience_proxy,False
+CG-107375-0000,Dulwich - Forest Hill Road,Co-operative Group,SE22 0RR,True,False,False,,,convenience_proxy,False
+CG-107379-0000,Hanwell - Greenford Avenue,Co-operative Group,W7 1JH,True,False,False,,,convenience_proxy,False
+CG-107391-0000,Epsom - Upper High Street,Co-operative Group,KT17 4QY,True,False,False,11.6,12.1,convenience_proxy,False
+CG-107396-0000,Ewell - Kingston Road,Co-operative Group,KT19 0SU,True,False,False,5.1,5.1,convenience_proxy,False
+CG-107398-0000,Fareham - Fairfield Avenue,Co-operative Group,PO14 1EH,True,False,False,,,convenience_proxy,False
+CG-107405-0000,Faversham - Forbes Road,Co-operative Group,ME13 8QG,True,False,False,,,convenience_proxy,False
+CG-107420-0000,Eastbourne - Framfield Way,Co-operative Group,BN21 2RB,True,False,False,17.5,18.3,convenience_proxy,False
+CG-107429-0000,Gillingham - Lodbourne Green,Co-operative Group,SP8 4EH,True,False,False,,,convenience_proxy,False
+CG-107432-0000,Poole - Good Road,Co-operative Group,BH12 3HP,True,False,False,,,convenience_proxy,False
+CG-107445-0000,Worthing - Ham Road,Co-operative Group,BN11 2QY,True,False,False,,,convenience_proxy,False
+CG-107448-0000,Hangleton - The Parade,Co-operative Group,BN3 7LU,True,False,False,15.3,16.5,convenience_proxy,False
+CG-107473-0000,Hove - 67-71 Portland Road,Co-operative Group,BN3 5DQ,True,False,False,21.1,22.1,convenience_proxy,False
+CG-107477-0000,Hurstpierpoint - High Street,Co-operative Group,BN6 9RE,True,False,False,,,convenience_proxy,False
+CG-107481-0000,Iver Heath - Thornbridge Road,Co-operative Group,SL0 0PU,True,False,False,,,convenience_proxy,False
+CG-107485-0000,Kemptown - St George's Road,Co-operative Group,BN2 1ED,True,False,False,,,convenience_proxy,False
+CG-107486-0000,Bedford - St Johns Street,Co-operative Group,MK42 8EP,True,False,False,,,convenience_proxy,False
+CG-107516-0000,Mottingham - Kimmeridge Road,Co-operative Group,SE9 4EB,False,False,False,,,mss_proxy,False
+CG-107519-0000,Bath - Mount Road,Co-operative Group,BA2 1LN,True,False,False,,,convenience_proxy,False
+CG-107530-0000,Crawley - Maidenbower Drive,Co-operative Group,RH10 7QH,True,False,False,,,convenience_proxy,False
+CG-107538-0000,Worthing - Manor Parade,Co-operative Group,BN13 2JP,True,False,False,,,convenience_proxy,False
+CG-107544-0000,Marston Moretaine - Station Road,Co-operative Group,MK43 0PH,True,False,False,,,convenience_proxy,False
+CG-107549-0000,Murston - Church Road,Co-operative Group,ME10 3RE,True,False,False,,,convenience_proxy,False
+CG-107558-0000,Thatcham - The Broadway,Co-operative Group,RG19 3HX,False,False,False,,,mss_proxy,False
+CG-107564-0000,Neath Hill - Tower Crescent,Co-operative Group,MK14 6JY,True,False,False,,,convenience_proxy,False
+CG-107567-0000,Netley - Station Road,Co-operative Group,SO31 5AF,True,False,False,,,convenience_proxy,False
+CG-107581-0000,Horsham - North Parade,Co-operative Group,RH12 2DH,True,False,False,10.8,11.3,convenience_proxy,False
+CG-107588-0000,Nursling - Nursling Street,Co-operative Group,SO16 0XH,True,False,False,,,convenience_proxy,False
+CG-107590-0000,Poole - Oakdale Road,Co-operative Group,BH15 3LG,True,False,False,6.2,6.7,convenience_proxy,False
+CG-107593-0000,Ore - Fairlight Road,Co-operative Group,TN35 5EA,True,False,False,,,convenience_proxy,False
+CG-107597-0000,Sandhurst - Yeovil Road,Co-operative Group,GU47 0TF,True,False,False,,,convenience_proxy,False
+CG-107601-0000,Park Gate - Bridge Road,Co-operative Group,SO31 7GE,True,False,False,7.2,7.2,convenience_proxy,False
+CG-107623-0000,Pound Hill - Pound Hill Parade,Co-operative Group,RH10 7EA,True,False,False,,,convenience_proxy,False
+CG-107627-0000,Gosport - Privett Road,Co-operative Group,PO12 3SS,True,False,False,8.3,8.3,convenience_proxy,False
+CG-107628-0000,Crawley - Tilgate Parade,Co-operative Group,RH10 5EQ,True,False,False,,,convenience_proxy,False
+CG-107637-0000,Reigate - Woodhatch Road,Co-operative Group,RH2 7LL,True,False,False,,,convenience_proxy,False
+CG-107641-0000,Horsham - Fitzalan Road,Co-operative Group,RH13 6AA,True,False,False,,,convenience_proxy,False
+CG-107648-0000,Rudgwick - Church Street,Co-operative Group,RH12 3EX,True,False,False,,,convenience_proxy,False
+CG-107652-0000,Saltdean - Lustrells Vale,Co-operative Group,BN2 8FA,True,False,False,,,convenience_proxy,False
+CG-107656-0000,Topsham - Fore Street,Co-operative Group,EX3 0HF,True,False,False,,,convenience_proxy,False
+CG-107659-0000,Herne Bay - Sea Street,Co-operative Group,CT6 8QF,True,False,False,,,convenience_proxy,False
+CG-107662-0000,Seven Dials - Dyke Road,Co-operative Group,BN1 3JD,True,False,False,50.8,52.1,convenience_proxy,False
+CG-107663-0000,Totton - Rumbridge Street,Co-operative Group,SO40 9DQ,True,False,False,,,convenience_proxy,False
+CG-107666-0000,Sheddingdean - Maple Drive,Co-operative Group,RH15 8UA,True,False,False,8.7,8.7,convenience_proxy,False
+CG-107669-0000,Langley - Trelawney Ave,Co-operative Group,SL3 7UD,True,False,False,,,convenience_proxy,False
+CG-107673-0000,Langney - Milfoil Drive,Co-operative Group,BN23 8BR,True,False,False,,,convenience_proxy,False
+CG-107678-0000,London - Shooters Hill Road,Co-operative Group,SE18 4LP,True,False,False,,,convenience_proxy,False
+CG-107679-0000,Shoreham-by-Sea - Upper Shoreham Rd,Co-operative Group,BN43 6TB,True,False,False,,,convenience_proxy,False
+CG-107682-0000,Sittingbourne - Northwood Drive,Co-operative Group,ME10 4QJ,True,False,False,,,convenience_proxy,False
+CG-107685-0000,Smallfield - Redehall Road,Co-operative Group,RH6 9PY,True,False,False,,,convenience_proxy,False
+CG-107687-0000,Sompting - Test Road,Co-operative Group,BN15 0EN,True,False,False,,,convenience_proxy,False
+CG-107688-0000,Southampton - South East Road,Co-operative Group,SO19 8JS,True,False,False,,,convenience_proxy,False
+CG-107689-0000,Worthing - South Street,Co-operative Group,BN14 7LG,True,False,False,,,convenience_proxy,False
+CG-107704-0000,St Leonards - London Road,Co-operative Group,TN37 6AN,True,False,False,,,convenience_proxy,False
+CG-107728-0000,Thatcham - Harts Hill Road,Co-operative Group,RG18 4NU,True,False,False,,,convenience_proxy,False
+CG-107729-0000,Thatcham - Station Road,Co-operative Group,RG19 4YA,True,False,False,,,convenience_proxy,False
+CG-107731-0000,Tyldesley - The Gables Shopping Ctr,Co-operative Group,M29 7PX,True,False,False,,,convenience_proxy,False
+CG-107737-0000,Totton - Salisbury Road,Co-operative Group,SO40 3LL,True,False,False,,,convenience_proxy,False
+CG-107760-0000,Warsash - Warsash Road,Co-operative Group,SO31 9HW,True,False,False,,,convenience_proxy,False
+CG-107773-0000,Whitstable - Canterbury Rd,Co-operative Group,CT5 4EX,True,False,False,6.1,6.6,convenience_proxy,False
+CG-107774-0000,Brighton & Hove - Whitehawk Road,Co-operative Group,BN2 5NS,True,False,False,,,convenience_proxy,False
+CG-107784-0000,Woking - St Johns Road,Co-operative Group,GU21 7SE,True,False,False,,,convenience_proxy,False
+CG-107794-0000,Acton - Horn Lane,Co-operative Group,W3 6PL,True,False,False,,,convenience_proxy,False
+CG-107810-0000,Camberley - Upper College Ride,Co-operative Group,GU15 4HE,True,False,False,,,convenience_proxy,False
+CG-107814-0000,Chatham - Maritime Way,Co-operative Group,ME4 3ER,True,False,False,,,convenience_proxy,False
+CG-107820-0000,Creekmoor - Creekmoor Lane,Co-operative Group,BH17 7BW,True,False,False,3.9,3.9,convenience_proxy,False
+CG-107827-0000,Bracknell - Rectory Row,Co-operative Group,RG12 7BN,True,False,False,,,convenience_proxy,False
+CG-107830-0000,Emerson Valley - Winfold Lane,Co-operative Group,MK4 2SH,True,False,False,,,convenience_proxy,False
+CG-107831-0000,Exeter - Queen Street,Co-operative Group,EX4 3SR,True,False,False,17.6,17.6,convenience_proxy,False
+CG-107836-0000,Sidcup - Halfway Street,Co-operative Group,DA15 8DJ,True,False,False,9.7,10.7,convenience_proxy,False
+CG-107846-0000,Bedford - Church Lane,Co-operative Group,MK41 0PW,True,False,False,,,convenience_proxy,False
+CG-107848-0000,Guildford - Madrid Road,Co-operative Group,GU2 7NT,True,False,False,10.7,11.2,convenience_proxy,False
+CG-107849-0000,Hamble - Coronation Parade,Co-operative Group,SO31 4JT,True,False,False,,,convenience_proxy,False
+CG-107851-0000,Bracknell - Bywood,Co-operative Group,RG12 7RF,True,False,False,,,convenience_proxy,False
+CG-107868-0000,Croydon - Lower Addiscombe Rd,Co-operative Group,CR0 6PQ,True,False,False,,,convenience_proxy,False
+CG-107871-0000,Ickenham - Swakeleys Road,Co-operative Group,UB10 8DF,True,False,False,,,convenience_proxy,False
+CG-107873-0000,Gravesend - Istead Rise,Co-operative Group,DA13 9JF,True,False,False,,,convenience_proxy,False
+CG-107889-0000,Upchurch - The Street,Co-operative Group,ME9 7AJ,True,False,False,,,convenience_proxy,False
+CG-107892-0000,Ramsgate - Grange Road,Co-operative Group,CT11 9NA,True,False,False,,,convenience_proxy,False
+CG-107897-0000,Walton-On-Thames - Terrace Rd,Co-operative Group,KT12 2SD,True,False,False,,,convenience_proxy,False
+CG-107904-0000,Southampton - Johns Road,Co-operative Group,SO19 9BU,True,False,False,,,convenience_proxy,False
+CG-107915-0000,Brighton & Hove - Warren Way,Co-operative Group,BN2 6PH,True,False,False,,,convenience_proxy,False
+CG-107926-0000,Salisbury - Wilton Road,Co-operative Group,SP2 7JY,True,False,False,,,convenience_proxy,False
+CG-107939-0000,Southampton - Tickleford Drive,Co-operative Group,SO19 9AU,True,False,False,,,convenience_proxy,False
+CG-107944-0000,Wallington - Mollison Drive,Co-operative Group,SM6 9DA,False,False,False,,,unknown,False
+CG-107951-0000,Southampton - Portsmouth Road,Co-operative Group,SO19 9AT,True,False,False,,,convenience_proxy,False
+CG-107953-0000,Worthing - Plaza Parade,Co-operative Group,BN11 3JG,True,False,False,,,convenience_proxy,False
+CG-107961-0000,London - Well Hall Road,Co-operative Group,SE9 6SR,False,False,False,,,mss_proxy,False
+CG-107965-0000,Bath - Wellsway,Co-operative Group,BA2 4QL,True,False,False,11.0,11.0,convenience_proxy,False
+CG-107981-0000,London - Westhorne Avenue,Co-operative Group,SE9 6DR,True,False,False,,,convenience_proxy,False
+CG-107995-0000,Whitstable - Oxford Street,Co-operative Group,CT5 1DG,True,False,False,4.3,4.8,convenience_proxy,True
+CG-108026-0000,Platt Bridge - Warrington Road,Co-operative Group,WN2 5JA,True,False,False,,,convenience_proxy,False
+CG-108078-0000,Horwich - Winter Hey Lane,Co-operative Group,BL6 7PA,True,False,False,,,convenience_proxy,False
+CG-108079-0000,Bolton - Wigan Road,Co-operative Group,BL3 4QJ,True,False,False,,,convenience_proxy,False
+CG-108188-0000,Darton - Church Street,Co-operative Group,S75 5HF,True,False,False,,,convenience_proxy,False
+CG-108396-0000,Farnworth - Highfield Road,Co-operative Group,BL4 0NX,True,False,False,,,convenience_proxy,False
+CG-108470-0000,Drighlington - Whitehall Road,Co-operative Group,BD11 1AU,True,False,False,,,convenience_proxy,False
+CG-108477-0000,Horbury - High Street,Co-operative Group,WF4 5LN,False,False,False,,,mss_proxy,False
+CG-108486-0000,Mirfield - Huddersfield Road,Co-operative Group,WF14 8AN,False,False,False,,,mss_proxy,False
+CG-108487-0000,Mirfield - Nab Lane,Co-operative Group,WF14 9BN,True,False,False,,,convenience_proxy,False
+CG-108488-0000,Mirfield - Old Bank Road,Co-operative Group,WF14 0JA,True,False,False,,,convenience_proxy,False
+CG-108490-0000,Dewsbury - Savile Centre,Co-operative Group,WF12 0QY,True,False,False,,,convenience_proxy,False
+CG-108492-0000,Ossett - Dale Street,Co-operative Group,WF5 9DB,False,False,False,,,mss_proxy,False
+CG-108509-0000,Stanley - Lake Lock Road,Co-operative Group,WF3 4HS,True,False,False,,,convenience_proxy,False
+CG-108596-0000,Garforth - Main Street,Co-operative Group,LS25 1AA,True,False,False,,,convenience_proxy,False
+CG-108610-0000,Woodlesford - Aberford Road,Co-operative Group,LS26 8LQ,True,False,False,,,convenience_proxy,False
+CG-108693-0000,Belvedere - Nuxley Road,Co-operative Group,DA17 5JG,True,False,False,,,convenience_proxy,False
+CG-108696-0000,Chislehurst - Belmont Lane,Co-operative Group,BR7 6AZ,True,False,False,,,convenience_proxy,False
+CG-108697-0000,London - Strand,Co-operative Group,WC2R 0RG,True,False,False,,,convenience_proxy,False
+CG-108781-0000,Brockley - St Norbert Road,Co-operative Group,SE4 2BN,True,False,False,,,convenience_proxy,False
+CG-108804-0000,Battersea - Battersea Bridge Road,Co-operative Group,SW11 3BA,True,False,False,,,convenience_proxy,False
+CG-108810-0000,Southampton - Shirley Road,Co-operative Group,SO15 3FJ,True,False,False,27.1,29.1,convenience_proxy,False
+CG-108811-0000,Stoke Poges - Bells Hill,Co-operative Group,SL2 4BY,True,False,False,,,convenience_proxy,False
+CG-108814-0000,Southampton - Hinkler Parade,Co-operative Group,SO19 6DF,False,False,False,,,unknown,False
+CG-108826-0000,Fleet - Kings Road,Co-operative Group,GU51 3ST,True,False,False,,,convenience_proxy,False
+CG-108849-0000,London - Dalston Lane,Co-operative Group,E8 3FT,True,False,False,,,convenience_proxy,False
+CG-108851-0000,Wimbledon - Arthur Road,Co-operative Group,SW19 8AE,True,False,False,,,convenience_proxy,False
+CG-108868-0000,Amesbury - Archers Way,Co-operative Group,SP4 7XP,True,False,False,,,convenience_proxy,False
+CG-108870-0000,Wilton - North Street,Co-operative Group,SP2 0HE,True,False,False,,,convenience_proxy,False
+CG-108889-0000,Farnborough - Queens Road,Co-operative Group,GU14 6DJ,True,False,False,,,convenience_proxy,False
+CG-108928-0000,Tangmere - Malcolm Road,Co-operative Group,PO20 2HS,True,False,False,8.5,8.5,convenience_proxy,False
+CG-108929-0000,Biggleswade - Kingsfield Road,Co-operative Group,SG18 8AT,True,False,False,,,convenience_proxy,False
+CG-108946-0000,Hayling Island - Selsmore Road,Co-operative Group,PO11 9LB,True,False,False,6.4,6.4,convenience_proxy,False
+CG-108951-0000,Horsell - High Street,Co-operative Group,GU21 4SZ,True,False,False,,,convenience_proxy,False
+CG-108953-0000,Hamworthy - Blandford Road,Co-operative Group,BH15 4BH,True,False,False,,,convenience_proxy,False
+CG-108969-0000,London - 39-43 Grays Inn Road,Co-operative Group,WC1X 8PR,True,False,False,,,convenience_proxy,False
+CG-108976-0000,Wandsworth - Garratt Lane,Co-operative Group,SW18 4EE,False,False,False,,,unknown,False
+CG-108986-0000,Bethnal Green - Globe Road,Co-operative Group,E2 0LX,True,False,False,,,convenience_proxy,False
+CG-108994-0000,London - Mill Street,Co-operative Group,SE1 2DE,True,False,False,,,convenience_proxy,False
+CG-108996-0000,Brentford - Boston Manor Road,Co-operative Group,TW8 9GB,True,False,False,,,convenience_proxy,False
+CG-108998-0000,Hackney - Homerton High Street,Co-operative Group,E9 6JF,True,False,False,,,convenience_proxy,False
+CG-108999-0000,Hackney - Theydon Road,Co-operative Group,E5 9BQ,True,False,False,,,convenience_proxy,False
+CG-109252-0000,Llangollen - Regent Street,Co-operative Group,LL20 8HN,True,False,False,,,convenience_proxy,False
+CG-109475-0000,Bristol - Clarence Place,Co-operative Group,BS2 8DD,False,False,False,38.9,40.4,mss_proxy,False
+CG-109476-0000,Bristol - Canford Lane,Co-operative Group,BS9 3DF,True,False,False,,,convenience_proxy,False
+CG-109477-0000,Bristol - Clifton Village,Co-operative Group,BS8 4BX,True,False,False,,,convenience_proxy,False
+CG-109478-0000,Bristol - Henleaze Road,Co-operative Group,BS9 4JT,True,False,False,,,convenience_proxy,False
+CG-109479-0000,Weston Super Mare - High Street,Co-operative Group,BS22 6HG,False,False,False,,,mss_proxy,False
+CG-109480-0000,Yatton - High Street,Co-operative Group,BS49 4EG,False,False,False,,,mss_proxy,False
+CG-109485-0000,Bristol - Gloucester Road,Co-operative Group,BS7 8AT,False,False,False,31.4,32.4,mss_proxy,False
+CG-109487-0000,Bristol - Downend Road,Co-operative Group,BS16 5UJ,False,False,False,,,mss_proxy,False
+CG-109490-0000,Bristol - Wyatts View,Co-operative Group,BS4 4WW,False,False,False,17.3,17.3,mss_proxy,False
+CG-109626-0000,Exeter - Cowick Street,Co-operative Group,EX4 1AJ,False,False,False,11.3,11.3,mss_proxy,False
+CG-109629-0000,Exeter - Fore Street,Co-operative Group,EX1 2RJ,False,False,False,,,mss_proxy,False
+CG-109634-0000,Exmouth - Magnolia Walk,Co-operative Group,EX8 1HB,False,False,False,5.9,6.4,mss_proxy,False
+CG-109651-0000,Bridgwater - The Redgate Centre,Co-operative Group,TA6 5BJ,False,False,False,,,mss_proxy,False
+CG-109653-0000,Wellington - Fore Street,Co-operative Group,TA21 8AQ,False,False,False,,,mss_proxy,False
+CG-109674-0000,Wimbourne - Hanham Road,Co-operative Group,BH21 1ED,False,False,False,3.6,4.6,mss_proxy,False
+CG-109685-0000,Bath - St Saviours Road,Co-operative Group,BA1 6RT,False,False,False,,,mss_proxy,False
+CG-109689-0000,Corsham - New Place,Co-operative Group,SN13 0HL,False,False,False,2.0,2.0,mss_proxy,False
+CG-109696-0000,Whitchurch - Bell Street,Co-operative Group,RG28 7AE,True,False,False,,,convenience_proxy,False
+CG-109707-0000,Southbourne - Seabourne Road,Co-operative Group,BH5 2JB,True,False,False,27.7,28.7,convenience_proxy,False
+CG-109713-0000,Moordown - Wimbourne Road,Co-operative Group,BH9 2BN,False,False,False,11.7,11.7,mss_proxy,False
+CG-109718-0000,Shanklin - Landguard Road,Co-operative Group,PO37 7JR,False,False,False,4.8,5.3,mss_proxy,False
+CG-109719-0000,Sandown - High Street,Co-operative Group,PO36 8AD,True,False,False,5.2,5.2,convenience_proxy,False
+CG-109721-0000,Ventnor - Pier Street,Co-operative Group,PO38 1ST,False,False,False,,,mss_proxy,False
+CG-109722-0000,East Cowes - York Avenue,Co-operative Group,PO32 6QY,True,False,False,5.7,5.7,convenience_proxy,False
+CG-109725-0000,Ryde - Anglesea Street,Co-operative Group,PO33 2SX,False,False,False,5.4,5.4,oss_proxy,False
+CG-109726-0000,Hedge End - Lower Northam Road,Co-operative Group,SO30 4FQ,False,False,False,,,mss_proxy,False
+CG-109733-0000,Chandlers Ford - Winchester Road,Co-operative Group,SO53 2GH,False,False,False,5.6,5.6,mss_proxy,False
+CG-109734-0000,Fareham - Highlands Road,Co-operative Group,PO15 6QL,False,False,False,7.0,9.0,mss_proxy,False
+CG-109738-0000,Southsea - 251 Albert Road,Co-operative Group,PO4 0JR,True,False,False,24.2,28.7,convenience_proxy,False
+CG-109808-0000,Crowthorne - High Street,Co-operative Group,RG45 7AF,False,False,False,,,mss_proxy,False
+CG-109809-0000,Bagshot - The Square,Co-operative Group,GU19 5AY,False,False,False,,,mss_proxy,False
+CG-109810-0000,Ashford - Church Road,Co-operative Group,TW15 2TX,True,False,False,,,convenience_proxy,False
+CG-109817-0000,Bexhill-On-Sea - Devonshire Road,Co-operative Group,TN40 1AS,True,False,False,,,convenience_proxy,False
+CG-109818-0000,Steyning - High Street,Co-operative Group,BN44 3RE,True,False,False,,,convenience_proxy,False
+CG-109819-0000,Shoreham-by-Sea - Ham Road,Co-operative Group,BN43 6PA,False,False,False,,,mss_proxy,False
+CG-109821-0000,Brighton - North Street,Co-operative Group,BN1 1RE,True,False,False,53.1,54.9,convenience_proxy,False
+CG-109822-0000,Eastbourne - Cornfield Road,Co-operative Group,BN21 4QD,True,False,False,,,convenience_proxy,False
+CG-109823-0000,Hove - Church Road,Co-operative Group,BN3 2EB,True,False,False,27.3,28.3,convenience_proxy,False
+CG-109826-0000,Haywards Heath - Middle Village,Co-operative Group,RH16 4GH,True,False,False,3.8,3.8,convenience_proxy,False
+CG-109830-0000,Lancing - North Road,Co-operative Group,BN15 9BA,False,False,False,,,mss_proxy,False
+CG-109834-0000,Lindfield - High Street,Co-operative Group,RH16 2HJ,True,False,False,7.9,8.7,convenience_proxy,False
+CG-109837-0000,Worthing - Cricketers Parade,Co-operative Group,BN14 9DB,True,False,False,,,convenience_proxy,False
+CG-109842-0000,Crawley - Bewbush,Co-operative Group,RH11 8XW,False,False,False,,,mss_proxy,False
+CG-109848-0000,Addington - Featherbed Lane,Co-operative Group,CR0 9AS,True,False,False,,,convenience_proxy,False
+CG-109849-0000,Great Bookham - High Street,Co-operative Group,KT23 4AG,False,False,False,,,mss_proxy,False
+CG-109852-0000,Claygate - Hare Lane,Co-operative Group,KT10 0QY,True,False,False,,,convenience_proxy,False
+CG-109853-0000,Carshalton - High Street,Co-operative Group,SM5 3AG,True,False,False,,,convenience_proxy,False
+CG-109861-0000,Shepperton - Thurlston Parade,Co-operative Group,TW17 9AR,True,False,False,,,convenience_proxy,False
+CG-109867-0000,Watford - Carpenders Park,Co-operative Group,WD19 5BL,True,False,False,,,convenience_proxy,False
+CG-109874-0000,Chelsea - King's Road,Co-operative Group,SW10 0LU,False,False,False,,,mss_proxy,False
+CG-109880-0000,Putney - South Circular Road,Co-operative Group,SW15 2SR,False,False,False,,,mss_proxy,False
+CG-109886-0000,London - Earls Court Road,Co-operative Group,SW5 9QB,True,False,False,,,convenience_proxy,False
+CG-109888-0000,London - Old Street,Co-operative Group,EC1V 9NP,False,False,False,,,mss_proxy,False
+CG-109889-0000,Paddington - Harrow Road,Co-operative Group,W9 3QA,False,False,False,,,mss_proxy,False
+CG-109890-0000,Cricklewood - Cricklewood Lane,Co-operative Group,NW2 1ET,False,False,False,,,mss_proxy,False
+CG-109897-0000,Dulwich - Lordship Lane,Co-operative Group,SE22 8HJ,False,False,False,,,mss_proxy,False
+CG-109899-0000,Tulse Hill - Norwood Road,Co-operative Group,SE27 9AU,False,False,False,,,mss_proxy,False
+CG-109900-0000,Streatham- Streatham Hill,Co-operative Group,SW2 4RU,True,False,False,,,convenience_proxy,False
+CG-109901-0000,Camberwell - Denmark Hill,Co-operative Group,SE5 8RZ,True,False,False,,,convenience_proxy,False
+CG-109902-0000,West Norwood - Norwood Road,Co-operative Group,SE27 9DL,True,False,False,,,convenience_proxy,False
+CG-109913-0000,Forest Gate - Woodgrange Road,Co-operative Group,E7 0EL,False,False,False,,,mss_proxy,False
+CG-109914-0000,Canning Town - Barking Road,Co-operative Group,E16 1EQ,False,False,False,,,mss_proxy,False
+CG-109918-0000,Rush Green - Dagenham Road,Co-operative Group,RM7 0TJ,True,False,False,,,convenience_proxy,False
+CG-109919-0000,Cheshunt - High Street,Co-operative Group,EN8 0BX,True,False,False,,,convenience_proxy,False
+CG-109925-0000,Harold Hill - Farnham Road,Co-operative Group,RM3 8DX,False,False,False,,,mss_proxy,False
+CG-109926-0000,Wanstead - High Street,Co-operative Group,E11 2AE,False,False,False,,,mss_proxy,False
+CG-109939-0000,Aveley - High Street,Co-operative Group,RM15 4BB,True,False,False,,,convenience_proxy,False
+CG-109950-0000,Blackfen - Westwood Lane,Co-operative Group,DA15 9PS,False,False,False,10.5,10.5,mss_proxy,False
+CG-109964-0000,Birchington - 78-80 Station Road,Co-operative Group,CT7 9RA,False,False,False,,,mss_proxy,False
+CG-109967-0000,Westgate-On-Sea - Station Road,Co-operative Group,CT8 8RB,True,False,False,,,convenience_proxy,False
+CG-153778-0000,Thornton Heath,Co-operative Group,CR7 8BB,True,False,False,,,convenience_proxy,False
+CG-153780-0000,Minter Road,Co-operative Group,IG11 0TH,True,False,False,,,convenience_proxy,False
+CG-155691-0000,Whitkirk - Selby Road,Co-operative Group,LS15 7AY,True,False,False,,,convenience_proxy,False
+CG-155697-0000,Kent Union's Co-op,Co-operative Group,CT2 7UG,True,False,False,,,convenience_proxy,False
+CG-155698-0000,Kent University - Park Wood,Co-operative Group,CT2 7SG,True,False,False,,,convenience_proxy,False
+CG-156158-SPET,St Kathrines,Co-operative Group,E1W 2BN,True,False,False,,,convenience_proxy,False
+CG-156159-SPET,The Angel,Co-operative Group,EC1V 1JQ,True,False,False,,,convenience_proxy,False
+CG-156167-0000,Spa Road,Co-operative Group,SE16 4AU,True,False,False,,,convenience_proxy,False
+CG-156174-0000,Askew Road,Co-operative Group,W12 9BL,True,False,False,,,convenience_proxy,False
+CG-156175-0000,Rose Lane,Co-operative Group,RM6 5NR,True,False,False,,,convenience_proxy,False
+CG-156180-0000,Ealing - Pitshanger Lane,Co-operative Group,W5 1QP,True,False,False,,,convenience_proxy,False
+CG-156184-0000,Collingwood MOD,Co-operative Group,PO14 1AS,True,False,False,7.8,7.8,convenience_proxy,False
+CG-156304-0000,Surrey University,Co-operative Group,GU2 7XH,True,False,False,10.7,11.2,convenience_proxy,False
+CG-156306-0000,Lavender Hill,Co-operative Group,EN2 0QU,True,False,False,,,convenience_proxy,False
+CG-156316-0000,Bournemouth Hospital,Co-operative Group,BH7 7DW,True,False,False,,,convenience_proxy,False
+CG-156323-0000,Wexham Hospital,Co-operative Group,SL2 4HL,False,False,False,,,unknown,False
+CG-156324-0000,Frimley Park Hospital,Co-operative Group,GU16 7UJ,False,False,False,,,unknown,False
+CG-156460-0000,Frampton Cotterell,Co-operative Group,BS36 2EF,False,False,False,,,mss_proxy,False
+CG-156465-SPET,Billingshurst  A272,Co-operative Group,RH14 9HY,True,False,False,,,convenience_proxy,False
+CG-156475-0000,Englefield Green,Co-operative Group,TW20 0BY,True,False,False,,,convenience_proxy,False
+SC-4700812,Welcome Shirley,Southern Co-op,CR0 7NN,False,False,False,4.4,5.4,convenience_proxy,False
+SC-4700813,Welcome Cliffe Woods,Southern Co-op,ME3 8HX,False,False,False,,,convenience_proxy,False
+SC-4700814,Welcome Ashurst,Southern Co-op,SO40 7BE,True,False,False,,,convenience_proxy,False
+SC-4700815,Welcome Ashtead,Southern Co-op,KT21 1AZ,False,False,False,,,convenience_proxy,False
+SC-4700816,Welcome Ash,Southern Co-op,CT3 2EW,False,False,False,,,convenience_proxy,False
+SC-4700817,Welcome Angel Islington,Southern Co-op,N1 7FZ,False,False,False,64.1,67.6,convenience_proxy,False
+SC-4700818,Welcome Buckskin,Southern Co-op,RG22 5BW,False,False,False,,,convenience_proxy,False
+SC-4700819,Welcome Rowtown,Southern Co-op,KT15 1JH,False,False,False,,,convenience_proxy,False
+SC-4700820,Welcome Rickmansworth,Southern Co-op,WD3 7BQ,False,False,False,7.8,9.3,convenience_proxy,False
+SC-4700821,Welcome Fair Oak,Southern Co-op,SO50 7AL,True,False,False,,,convenience_proxy,False
+SC-4700822,Welcome Marchwood,Southern Co-op,SO40 4SF,True,False,False,,,convenience_proxy,False
+SC-4700823,Welcome Cranbrook,Southern Co-op,TN17 3DN,False,False,False,0.6,0.6,convenience_proxy,False
+SC-4700824,Welcome Shere,Southern Co-op,GU5 9HF,False,False,False,,,convenience_proxy,False
+SC-4700825,Welcome Manor Road,Southern Co-op,BN15 0HL,False,False,False,7.5,7.5,convenience_proxy,False
+SC-4700826,Welcome Royal Exchange,Southern Co-op,PO30 2HW,False,False,False,,,convenience_proxy,False
+SC-4700827,Welcome Denvilles,Southern Co-op,PO9 2FE,True,False,False,10.4,11.9,convenience_proxy,True
+SC-4700828,Welcome Swiss Cottage,Southern Co-op,NW3 3NT,False,False,False,,,convenience_proxy,False
+SC-4700829,Welcome Durrington,Southern Co-op,BN13 2EL,False,False,False,4.9,4.9,convenience_proxy,False
+SC-4700830,Welcome Southwater,Southern Co-op,RH13 9HA,False,False,False,1.4,1.4,convenience_proxy,False
+SC-4700831,Welcome University of Bath,Southern Co-op,BA2 7AY,False,False,False,,,convenience_proxy,False
+SC-4700832,Welcome Stubbington,Southern Co-op,PO14 3LJ,True,True,True,2.8,2.8,convenience_proxy,True
+SC-4700833,Welcome Sholing,Southern Co-op,SO19 8NG,False,False,False,7.6,9.1,convenience_proxy,False
+SC-4700834,Welcome Lower Willingdon,Southern Co-op,BN20 9PN,False,False,False,5.5,6.0,convenience_proxy,False
+SC-4700835,Welcome Bembridge,Southern Co-op,PO35 5UE,False,False,False,,,convenience_proxy,False
+SC-4700836,Welcome Brockenhurst,Southern Co-op,SO42 7RA,True,False,False,,,convenience_proxy,False
+SC-4700837,Welcome Mytchett,Southern Co-op,GU16 6ES,False,False,False,5.3,5.3,convenience_proxy,False
+SC-4700838,Welcome Shepherd's Bush,Southern Co-op,W12 8LP,False,False,False,35.0,36.0,convenience_proxy,False
+SC-4700839,Welcome Ewell,Southern Co-op,KT17 1RE,False,False,False,3.9,3.9,convenience_proxy,False
+SC-4700841,Welcome Central Hill,Southern Co-op,SE19 1BG,False,False,False,,,convenience_proxy,False
+SC-4700842,Welcome Staplegrove,Southern Co-op,TA2 6AN,False,False,False,9.6,9.6,convenience_proxy,False
+SC-4700844,Welcome Abbey Wood,Southern Co-op,SE2 9PS,False,False,False,,,convenience_proxy,False
+SC-4700846,Welcome Culverstone,Southern Co-op,DA13 0RF,False,False,False,,,convenience_proxy,False
+SC-4700847,Welcome Stoke Bishop,Southern Co-op,BS9 1EW,False,False,False,4.7,4.7,convenience_proxy,False
+SC-4700848,Welcome Halterworth,Southern Co-op,SO51 5QY,False,False,False,,,convenience_proxy,False
+SC-4700849,Welcome Selhurst,Southern Co-op,SE25 5QF,False,False,False,29.5,30.0,convenience_proxy,False
+SC-4700850,Welcome Carshalton,Southern Co-op,SM5 1HA,False,False,False,,,convenience_proxy,False
+SC-4700851,Welcome Hayes,Southern Co-op,UB3 1DZ,False,False,False,9.0,10.5,convenience_proxy,False
+SC-4700852,Welcome Crawley,Southern Co-op,RH10 7XR,False,False,False,5.2,5.2,convenience_proxy,False
+SC-4700853,Welcome Cranfield,Southern Co-op,MK43 0ST,False,False,False,2.4,2.4,convenience_proxy,False
+SC-4700854,Welcome Faversham,Southern Co-op,ME13 8BE,False,False,False,4.9,4.9,convenience_proxy,False
+SC-4700857,Welcome Addlestone,Southern Co-op,KT15 2TX,False,False,False,,,convenience_proxy,False
+SC-4700858,Welcome Thames View,Southern Co-op,IG11 0NY,False,False,False,12.3,15.3,convenience_proxy,False
+SC-4700859,Welcome Upminster,Southern Co-op,RM14 2UB,False,False,False,9.6,9.6,convenience_proxy,False
+SC-4700860,Welcome Kents Hill,Southern Co-op,MK7 6HH,False,False,False,4.2,5.0,convenience_proxy,False
+SC-4700861,Welcome Stratford Park,Southern Co-op,MK12 5GH,False,False,False,24.1,25.1,convenience_proxy,False
+SC-4700862,Welcome Wixams,Southern Co-op,MK42 6AE,False,False,False,,,convenience_proxy,False
+SC-4700863,Welcome Sittingbourne,Southern Co-op,ME10 1TH,False,False,False,,,convenience_proxy,False
+SC-4700864,Welcome Downs Barn,Southern Co-op,MK14 7QB,False,False,False,9.8,10.8,convenience_proxy,False
+SC-4700865,Welcome Fairlands,Southern Co-op,GU3 3NB,False,False,False,,,convenience_proxy,False
+SC-4700866,Welcome Beanhill,Southern Co-op,MK6 4LP,False,False,False,7.6,8.4,convenience_proxy,False
+SC-4700867,Welcome Monier Road,Southern Co-op,E3 2PS,False,False,False,,,convenience_proxy,False
+SC-4700868,Welcome Bromham,Southern Co-op,MK43 8PU,False,False,False,,,mss_proxy,False
+SC-4700869,Welcome Houndmills,Southern Co-op,RG21 6BN,False,False,False,,,convenience_proxy,False
+SC-4700870,Welcome Taunton,Southern Co-op,TA1 1NQ,False,False,False,16.1,16.1,convenience_proxy,False
+SC-4700871,Welcome Southsea,Southern Co-op,PO5 4DY,False,False,False,24.9,31.4,convenience_proxy,False
+SC-4700872,Welcome Rainworth,Southern Co-op,NG21 0AA,False,False,False,,,convenience_proxy,False
+SC-4700873,Welcome Sandy,Southern Co-op,SG19 2TG,False,False,False,4.4,5.4,convenience_proxy,False
+SC-4700874,Welcome Wilsley Pound,Southern Co-op,TN17 2HR,False,False,False,1.1,1.1,convenience_proxy,False
+SC-4700895,Welcome Dewsbury,Southern Co-op,WF12 7QE,False,False,False,,,convenience_proxy,False
+SC-4700896,Welcome Boscombe,Southern Co-op,BH8 8BN,False,False,False,35.5,36.5,convenience_proxy,False
+SC-4700897,Welcome Meads,Southern Co-op,BN20 7QY,False,False,False,16.8,16.8,convenience_proxy,False
+SC-4700899,Welcome Westhoughton,Southern Co-op,BL5 3AN,False,False,False,,,convenience_proxy,False
+SC-4700900,Welcome Milford,Southern Co-op,GU8 5JB,False,False,False,,,convenience_proxy,False
+SC-4700902,Welcome Wakefield,Southern Co-op,WF4 3JR,False,False,False,,,convenience_proxy,False
+SC-4700903,Welcome Thamesmead,Southern Co-op,SE2 9FD,False,False,False,,,convenience_proxy,False
+SC-4700904,Welcome Tower Bridge,Southern Co-op,SE1 3LS,False,False,False,27.8,29.3,convenience_proxy,False
+SC-4705178,"The Co-operative Food Newbury, Pound Street",Southern Co-op,RG14 6AE,True,False,False,8.4,8.9,convenience_proxy,False
+SC-4705179,The Co-operative Food Pill,Southern Co-op,BS20 0EJ,True,False,False,5.1,5.1,convenience_proxy,False
+SC-4705180,"The Co-operative Food Bournemouth, Belle Vue Road",Southern Co-op,BH6 3EN,True,False,False,21.1,22.1,convenience_proxy,False
+SC-4705181,"The Co-operative Food Hanham, Memorial Road",Southern Co-op,BS15 3LH,True,False,False,4.1,4.1,convenience_proxy,False
+SC-4705182,"The Co-operative Food Bristol, School Road",Southern Co-op,BS30 8EP,True,False,False,,,convenience_proxy,False
+SC-4705183,"The Co-operative Food Bristol, Two Mile Hill Road",Southern Co-op,BS15 1BS,True,False,False,14.0,14.0,convenience_proxy,False
+SC-4705184,"The Co-operative Food Exeter, Buddle Lane",Southern Co-op,EX4 1QT,True,False,False,11.1,11.1,convenience_proxy,False
+SC-4705185,"The Co-operative Food Exmouth, Exeter Road",Southern Co-op,EX8 3EA,True,False,False,5.4,5.9,convenience_proxy,False
+SC-4705188,"The Co-operative Food Bearwood, King John Avenue",Southern Co-op,BH11 9TN,True,False,False,,,convenience_proxy,False
+SC-4705190,"The Co-operative Food Creekmoor, Northmead Drive",Southern Co-op,BH17 7XZ,True,False,False,3.9,3.9,convenience_proxy,False
+SC-4705191,"The Co-operative Food Poole, Ringwood Road",Southern Co-op,BH14 0RF,True,False,False,8.5,9.0,convenience_proxy,False
+SC-4705192,"The Co-operative Food Rooksdown, Limes Park",Southern Co-op,RG24 9RD,True,False,False,,,convenience_proxy,False
+SC-4705193,"The Co-operative Food Falmer, Bramber House",Southern Co-op,BN1 9BJ,True,False,False,,,convenience_proxy,False
+SC-4705194,"The Co-operative Food Eastbourne, Lindfield Road",Southern Co-op,BN22 0AU,True,False,False,6.4,6.4,convenience_proxy,False
+SC-4705195,"The Co-operative Food Bournemouth, Castle Lane",Southern Co-op,BH9 3LD,True,False,False,8.5,9.0,convenience_proxy,False
+SC-4705196,"The Co-operative Food Hove, Portland Road",Southern Co-op,BN3 5QU,True,False,False,23.4,25.4,convenience_proxy,False
+SC-4705197,"The Co-operative Food Hove, Old Shoreham Road",Southern Co-op,BN3 7EB,True,False,False,23.1,24.1,convenience_proxy,False
+SC-4705199,"The Co-operative Food Aldershot, Lower Farnham Road",Southern Co-op,GU12 4EN,True,False,False,23.3,23.8,convenience_proxy,False
+SC-4705201,The Co-operative Food Overton,Southern Co-op,RG25 3HR,True,False,False,,,convenience_proxy,False
+SC-4705204,"The Co-operative Food Bridgemary, Gregson Avenue",Southern Co-op,PO13 0UP,True,False,False,7.5,7.5,convenience_proxy,False
+SC-4705205,"The Co-operative Food Gosport, Forton Road 268",Southern Co-op,PO12 3HW,True,False,False,9.8,9.8,convenience_proxy,False
+SC-4705206,"The Co-operative Food Portchester, White Hart Lane",Southern Co-op,PO16 9AR,True,False,False,,,convenience_proxy,False
+SC-4705207,"The Co-operative Food Havant, Middle Park Way",Southern Co-op,PO9 4AB,True,False,False,8.6,8.6,convenience_proxy,False
+SC-4705208,"The Co-operative Food St Leonards, Battle Road 290",Southern Co-op,TN37 7BA,True,False,False,7.8,8.8,convenience_proxy,False
+SC-4705210,"The Co-operative Food Basingstoke, Kings Road",Southern Co-op,RG22 6DJ,True,False,False,,,convenience_proxy,False
+SC-4705211,The Co-operative Food Alderholt,Southern Co-op,SP6 3DF,True,False,False,,,convenience_proxy,False
+SC-4705212,"The Co-operative Food Crookhorn, The Precinct",Southern Co-op,PO7 5QH,True,False,False,7.4,7.4,convenience_proxy,False
+SC-4705213,"The Co-operative Food Portsmouth, Copnor Road 331",Southern Co-op,PO3 5EQ,True,False,False,,,convenience_proxy,False
+SC-4705214,"The Co-operative Food Beggarwood, Broadmere Road",Southern Co-op,RG22 4AQ,True,False,False,,,convenience_proxy,False
+SC-4705215,"The Co-operative Food Portsmouth, Tangier Road",Southern Co-op,PO3 6JN,True,False,False,,,convenience_proxy,False
+SC-4705216,"The Co-operative Food Chandlers Ford, Falkland Court",Southern Co-op,SO53 3GA,True,False,False,7.1,7.1,convenience_proxy,False
+SC-4705217,"The Co-operative Food Portsmouth, Northern Parade",Southern Co-op,PO2 9LU,True,False,False,,,convenience_proxy,False
+SC-4705218,The Co-operative Food Bishops Waltham,Southern Co-op,SO32 1AB,False,False,False,,,unknown,False
+SC-4705219,"The Co-operative Food Gosport, Palmyra Road",Southern Co-op,PO12 4EH,True,False,False,,,convenience_proxy,False
+SC-4705220,Co-op Food,Southern Co-op,SO53 2FU,True,False,False,5.6,5.6,convenience_proxy,False
+SC-4705222,"The Co-operative Food Cowplain, London Road",Southern Co-op,PO8 8XB,True,False,False,,,convenience_proxy,False
+SC-4705224,The Co-operative Food Odiham,Southern Co-op,RG29 1LN,True,False,False,,,convenience_proxy,False
+SC-4705227,"The Co-operative Food Fairoak, Sandy Lane",Southern Co-op,SO50 8GB,True,False,False,,,convenience_proxy,False
+SC-4705228,The Co-operative Food Denmead,Southern Co-op,PO7 6NU,True,False,False,,,convenience_proxy,False
+SC-4705230,"The Co-operative Food Southsea, Highland Road",Southern Co-op,PO4 9EZ,True,False,False,16.6,20.1,convenience_proxy,False
+SC-4705231,"The Co-operative Food Nailsea, Hannah More Road",Southern Co-op,BS48 4RZ,True,False,False,,,convenience_proxy,False
+SC-4705232,"The Co-operative Food Havant, St Albans Road",Southern Co-op,PO9 2JR,True,False,False,,,convenience_proxy,False
+SC-4705233,"The Co-operative Food Frome, Nunney Road",Southern Co-op,BA11 4LA,True,False,False,6.0,8.5,convenience_proxy,False
+SC-4705234,"The Co-operative Food Banwell, Knightcott Road",Southern Co-op,BS29 6HF,True,False,False,,,convenience_proxy,False
+SC-4705235,"The Co-operative Food Boyatt Wood, The Parade",Southern Co-op,SO50 4QP,True,False,False,8.7,8.7,convenience_proxy,False
+SC-4705236,The Co-operative Food Westbourne,Southern Co-op,PO10 8UE,True,True,True,1.3,2.8,convenience_proxy,True
+SC-4705237,"The Co-operative Food Wickham, The Square",Southern Co-op,PO17 5JN,True,False,False,,,convenience_proxy,False
+SC-4705239,"The Co-operative Food Lee on Solent, High Street",Southern Co-op,PO13 9BU,False,False,False,5.6,5.6,mss_proxy,False
+SC-4705240,"The Co-operative Food Banstead, Nork Way",Southern Co-op,SM7 1PB,True,False,False,,,convenience_proxy,False
+SC-4705242,"The Co-operative Food Liphook, Headley Road",Southern Co-op,GU30 7NP,True,False,False,,,convenience_proxy,False
+SC-4705243,The Co-operative Food Titchfield,Southern Co-op,PO14 4AF,True,False,False,5.8,6.8,convenience_proxy,False
+SC-4705244,The Co-operative Food Hove,Southern Co-op,BN3 1DA,True,False,False,45.4,46.9,convenience_proxy,False
+SC-4705245,The Co-operative Food Emsworth,Southern Co-op,PO10 7AW,True,False,False,5.2,6.7,convenience_proxy,False
+SC-4705246,"The Co-operative Food Drayton, Havant Road",Southern Co-op,PO6 2EH,True,False,False,,,convenience_proxy,False
+SC-4705247,The Co-operative Food Hawthorn Rd,Southern Co-op,PO21 2UR,True,False,False,13.7,13.7,convenience_proxy,False
+SC-4705248,"The Co-operative Food Carisbrooke, High Street",Southern Co-op,PO30 1NR,True,False,False,,,convenience_proxy,False
+SC-4705249,"The Co-operative Food Bridgwater, Stockmoor Road",Southern Co-op,TA6 6WU,True,False,False,,,convenience_proxy,False
+SC-4705250,"The Co-operative Food Burgess Hill, London Road",Southern Co-op,RH15 9RD,True,False,False,8.2,8.2,convenience_proxy,False
+SC-4705251,The Co-operative Food Milford,Southern Co-op,SO41 0QG,True,False,False,,,convenience_proxy,False
+SC-4705252,"The Co-operative Food Lee on Solent, Twyford Drive",Southern Co-op,PO13 8AT,True,False,False,,,convenience_proxy,False
+SC-4705253,"The Co-operative Food Portsmouth, Twyford Avenue",Southern Co-op,PO2 8NR,True,False,False,,,convenience_proxy,False
+SC-4705254,"The Co-operative Food Keynsham, Queens Road",Southern Co-op,BS31 2NW,True,False,False,,,convenience_proxy,False
+SC-4705255,The Co-operative Food Romsey,Southern Co-op,SO51 8BW,True,False,False,,,convenience_proxy,False
+SC-4705256,"The Co-operative Food Chichester, Stockbridge Road",Southern Co-op,PO19 8QR,True,False,False,5.6,5.6,convenience_proxy,False
+SC-4705257,The Co-operative Food Wrecclesham Wrecclesham Road,Southern Co-op,GU10 4PL,True,False,False,,,convenience_proxy,False
+SC-4705258,"The Co-operative Food Romsey, Botley Road",Southern Co-op,SO51 5AB,True,False,False,10.0,10.0,convenience_proxy,False
+SC-4705260,The Co-operative Food Yapton,Southern Co-op,BN18 0EY,True,False,False,3.3,3.3,convenience_proxy,True
+SC-4705262,"The Co-operative Food Portsmouth, Tregaron Avenue",Southern Co-op,PO6 2NE,True,False,False,,,convenience_proxy,False
+SC-4705263,"The Co-operative Food Chichester, Bognor Road",Southern Co-op,PO19 7TG,True,False,False,11.5,11.5,convenience_proxy,False
+SC-4705265,"The Co-operative Food Portsmouth, Western Road",Southern Co-op,PO6 3FE,True,False,False,,,convenience_proxy,False
+SC-4705266,"The Co-operative Food Colden Common, St Vigor Way",Southern Co-op,SO21 1UU,True,False,False,,,convenience_proxy,False
+SC-4705268,"The Co-operative Food Portsmouth, Eastney Road",Southern Co-op,PO4 8EA,False,False,False,15.6,18.1,mss_proxy,False
+SC-4705270,"The Co-operative Food Chichester, Spitalfield Lane",Southern Co-op,PO19 6SB,True,False,False,11.5,11.5,convenience_proxy,False
+SC-4705271,"The Co-operative Food Holbury, Long Lane",Southern Co-op,SO45 2LG,True,True,True,1.8,1.8,convenience_proxy,True
+SC-4705272,"The Co-operative Food North Baddesley, Seymour Parade",Southern Co-op,SO52 9FN,True,True,True,1.6,1.6,convenience_proxy,True
+SC-4705273,"The Co-operative Food Shanklin, Regent Street",Southern Co-op,PO37 7AA,True,False,False,4.0,4.5,convenience_proxy,False
+SC-4705274,"The Co-operative Food Romsey, Winchester Hill",Southern Co-op,SO51 7YY,True,False,False,,,convenience_proxy,False
+SC-4705275,"The Co-operative Food East Preston, Station Parade",Southern Co-op,BN16 3AE,True,False,False,,,convenience_proxy,False
+SC-4705277,"The Co-operative Food Purbrook, London Road",Southern Co-op,PO7 5LG,True,False,False,,,convenience_proxy,False
+SC-4705278,"The Co-operative Food Norton Fitzwarren, Morse Road",Southern Co-op,TA2 6DG,True,False,False,,,convenience_proxy,False
+SC-4705280,"The Co-operative Food Cowes, Mill Hill Road",Southern Co-op,PO31 7EL,True,False,False,5.7,6.0,convenience_proxy,False
+SC-4705282,"The Co-operative Food Lenham, Faversham Road",Southern Co-op,ME17 2PN,True,False,False,3.8,3.8,convenience_proxy,True
+SC-4705283,"The Co-operative Food Cotford St Luke, Graham Way",Southern Co-op,TA4 1HX,True,False,False,,,convenience_proxy,False
+SC-4705285,"The Co-operative Food Bembridge, Sherbourne Street",Southern Co-op,PO35 5SB,True,False,False,,,convenience_proxy,False
+SC-4705286,"The Co-operative Food Whiteley, Yew Tree Drive",Southern Co-op,PO15 7LB,False,False,False,5.4,5.4,unknown,False
+SC-4705289,"The Co-operative Food West Ewell, Ruxley Lane",Southern Co-op,KT19 9JS,True,False,False,4.6,4.6,convenience_proxy,False
+SC-4705292,"The Co-operative Food Portsmouth, New Road",Southern Co-op,PO2 7RJ,True,False,False,,,convenience_proxy,False
+SC-4705293,"The Co-operative Food Bristol, Ashley Down Road",Southern Co-op,BS7 9BU,True,False,False,35.9,36.9,convenience_proxy,False
+SC-4705294,"The Co-operative Food Haywards Heath, Franklynn Road",Southern Co-op,RH16 4DN,True,False,False,7.9,8.7,convenience_proxy,False
+SC-4705295,The Co-operative Food Lambourn,Southern Co-op,RG17 8XL,True,False,False,,,convenience_proxy,False
+SC-4705296,"The Co-operative Food Southampton, High Street",Southern Co-op,SO14 2EA,True,False,False,22.3,23.8,convenience_proxy,False
+SC-4705297,"The Co-operative Food Bosham, Station Road",Southern Co-op,PO18 8NG,True,False,False,,,convenience_proxy,False
+SC-4705298,"The Co-operative Food Seasalter, Faversham Road",Southern Co-op,CT5 4AX,True,False,False,5.4,5.9,convenience_proxy,False
+SC-4705299,"The Co-operative Food Bognor Regis, Rose Green Road",Southern Co-op,PO21 3EQ,True,False,False,5.2,5.2,convenience_proxy,False
+SC-4705300,Co-op Food,Southern Co-op,BA15 1QT,True,True,True,1.6,2.1,convenience_proxy,True
+SC-4705301,The Co-operative Food Chobham,Southern Co-op,GU24 8BZ,True,False,False,,,convenience_proxy,False
+SC-4705302,"The Co-operative Food Burgess Hill, Junction Road",Southern Co-op,RH15 0JP,True,False,False,8.7,9.2,convenience_proxy,False
+SC-4705303,The Co-operative Food Bosham,Southern Co-op,PO18 8NN,True,False,False,,,convenience_proxy,False
+SC-4705304,"The Co-operative Food Chichester, Oliver Whitby Road",Southern Co-op,PO19 3LB,True,False,False,7.4,7.4,convenience_proxy,False
+SC-4705305,The Co-operative Food Selsey,Southern Co-op,PO20 0QB,True,False,False,4.4,4.4,convenience_proxy,False
+SC-4705306,"The Co-operative Food Gosport, Dartmouth Court",Southern Co-op,PO12 4BQ,True,False,False,,,convenience_proxy,False
+SC-4705307,"The Co-operative Food Portland, Weston Road",Southern Co-op,DT5 2BY,True,True,True,1.0,1.0,convenience_proxy,True
+SC-4705308,"The Co-operative Food Sandown, Avenue Road",Southern Co-op,PO36 9AN,True,False,False,4.2,4.2,convenience_proxy,False
+SC-4705309,"The Co-operative Food Angmering, The Square",Southern Co-op,BN16 4EA,True,False,False,,,convenience_proxy,False
+SC-4705310,"The Co-operative Food Romsey, Warren Gardens",Southern Co-op,SO51 7TR,True,False,False,,,convenience_proxy,False
+SC-4705311,"The Co-operative Food Ferring, Ferring Street",Southern Co-op,BN12 5JP,True,False,False,,,convenience_proxy,False
+SC-4705312,"The Co-operative Food Eastleigh, Leigh Road",Southern Co-op,SO50 5LN,True,False,False,,,convenience_proxy,False
+SC-4705313,"The Co-operative Food Southbourne, Main Road",Southern Co-op,PO10 8JD,True,False,False,,,convenience_proxy,False
+SC-4705314,"The Co-operative Food Cranbrook, Younghayes Road",Southern Co-op,EX5 7EA,True,False,False,,,convenience_proxy,False
+SC-4705315,"The Co-operative Food Corsham, Macie Drive",Southern Co-op,SN13 9EJ,True,True,True,2.8,2.8,convenience_proxy,False
+SC-4705318,"The Co-operative Food Windsor, Arthur Road",Southern Co-op,SL4 1RX,True,False,False,13.2,13.2,convenience_proxy,False
+SC-4705319,The Co-operative Food Wittering,Southern Co-op,PO20 8BL,False,False,False,2.3,2.3,mss_proxy,False
+SC-4705320,"The Co-operative Food Horsham, Guildford Road",Southern Co-op,RH12 1TR,True,False,False,11.5,12.0,convenience_proxy,False
+SC-4705321,"The Co-operative Food Salisbury, Kelsey Road",Southern Co-op,SP1 1JP,True,False,False,15.3,15.8,convenience_proxy,False
+SC-4705323,"The Co-operative Food Bristol, Wells Road",Southern Co-op,BS4 2AL,True,False,False,,,convenience_proxy,False
+SC-4705324,"The Co-operative Food Addlestone, Church Road",Southern Co-op,KT15 1SG,True,False,False,,,convenience_proxy,False
+SC-4705325,"The Co-operative Food Exmouth, Brixington Parade",Southern Co-op,EX8 4JS,True,False,False,3.6,4.1,convenience_proxy,False
+SC-4705327,"The Co-operative Food Bournemouth, Madeira Road",Southern Co-op,BH1 1QQ,True,False,False,26.7,26.7,convenience_proxy,False
+SC-4705328,"The Co-operative Food Shaftesbury, Beaufoy Close",Southern Co-op,SP7 8PT,True,False,False,,,convenience_proxy,False
+SC-4705329,"The Co-operative Food Portishead, Port Marine",Southern Co-op,BS20 7QH,True,False,False,,,convenience_proxy,False
+SC-4705330,"The Co-operative Food Poole, Tatnam Road",Southern Co-op,BH15 2BS,True,False,False,9.7,9.7,convenience_proxy,False
+SC-4705331,"The Co-operative Food Reigate, London Road",Southern Co-op,RH2 9PR,True,False,False,,,convenience_proxy,False
+SC-4705332,"The Co-operative Food Wimborne, Wimborne Rd",Southern Co-op,BH21 1NW,True,False,False,3.6,4.1,convenience_proxy,False
+SC-4705333,"The Co-operative Food Eastbourne, Beatty Road",Southern Co-op,BN23 6DG,True,False,False,,,convenience_proxy,False
+SC-4705334,"The Co-operative Food Verwood, Ringwood Road",Southern Co-op,BH31 7AL,True,False,False,,,convenience_proxy,False
+SC-4705336,"The Co-operative Food Southampton, Archers Road",Southern Co-op,SO15 2LT,True,False,False,29.0,31.0,convenience_proxy,False
+SC-4705337,"The Co-operative Food Bristol, Long Down Avenue",Southern Co-op,BS16 1GU,False,False,False,14.3,16.3,unknown,False
+SC-4705338,"The Co-operative Food Bristol, Redcliffe Street",Southern Co-op,BS1 6LT,True,False,False,26.3,27.8,convenience_proxy,False
+SC-4705339,The Co-operative Food Sturminster Newton,Southern Co-op,DT10 1BB,False,False,False,,,mss_proxy,False
+SC-4705340,The Co-operative Food Minster,Southern Co-op,CT12 4EA,True,False,False,,,convenience_proxy,False
+SC-4705341,"The Co-operative Food Staines, Laleham Road",Southern Co-op,TW18 2PA,True,False,False,11.2,12.7,convenience_proxy,False
+SC-4705342,"The Co-operative Food Bath, Widcombe Hill",Southern Co-op,BA2 6AA,True,False,False,10.7,10.7,convenience_proxy,False
+SC-4705344,"The Co-operative Food Portslade, Abinger Road",Southern Co-op,BN41 1SD,True,False,False,13.3,14.8,convenience_proxy,False
+SC-4705345,The Co-operative Food Hayling Island,Southern Co-op,PO11 9EH,False,False,False,6.4,6.4,mss_proxy,False
+SC-4705347,"The Co-operative Food Ryde, West Street",Southern Co-op,PO33 2UH,True,False,False,5.9,5.9,convenience_proxy,False
+SC-4705348,"The Co-operative Food Addlestone, New Haw Road",Southern Co-op,KT15 2DS,True,False,False,6.7,7.2,convenience_proxy,False
+SC-4705349,"The Co-operative Food Rookley, Main Road",Southern Co-op,PO38 3NY,True,False,False,,,convenience_proxy,False
+SC-4705351,"The Co-operative Food Old Sarum, Crosier Close",Southern Co-op,SP4 6GX,True,True,True,0.8,1.8,convenience_proxy,True
+SC-4705354,"The Co-operative Food Binfield, Forest Road",Southern Co-op,RG42 4HP,True,False,False,,,convenience_proxy,False
+SC-4705355,"The Co-operative Food West End, High Street",Southern Co-op,SO30 3AA,True,False,False,,,convenience_proxy,False
+SC-4705356,The Co-operative Food Abbotswood,Southern Co-op,SO51 0BX,True,False,False,,,convenience_proxy,False
+SC-4705357,"The Co-operative Food Sidcup, The Oval",Southern Co-op,DA15 9ER,True,False,False,7.9,7.9,convenience_proxy,False
+SC-4705358,"The Co-operative Food Newbury, Brummell Road",Southern Co-op,RG14 1SG,True,False,False,,,convenience_proxy,False
+SC-4705359,"The Co-operative Food Weymouth, Chickerell Road",Southern Co-op,DT4 0RA,True,False,False,5.4,5.4,convenience_proxy,False
+SC-4705361,"The Co-operative Food Ashford, Loudon Way",Southern Co-op,TN23 3JJ,True,False,False,5.9,5.9,convenience_proxy,False
+SC-4705362,"The Co-operative Food Whitstable, Cromwell Road",Southern Co-op,CT5 2AA,True,False,False,4.8,5.3,convenience_proxy,False
+SC-4705365,The Co-operative Food Mere,Southern Co-op,BA12 6DJ,True,False,False,,,convenience_proxy,False
+SC-4705367,"The Co-operative Food Wimbledon, Ridgway",Southern Co-op,SW19 4ST,True,False,False,13.7,14.2,convenience_proxy,False
+SC-4705368,"The Co-operative Food Basingstoke, Wallingford Road",Southern Co-op,RG24 9QD,True,False,False,,,convenience_proxy,False
+SC-4705369,"The Co-operative Food Chichester, Lavant Road",Southern Co-op,PO19 5RD,True,False,False,,,convenience_proxy,False
+SC-4705370,The Co-operative Food Wickhurst Square,Southern Co-op,RH12 3XS,True,False,False,7.4,7.4,convenience_proxy,False
+SC-4705371,The Co-operative Food Picket Twenty,Southern Co-op,SP11 6TY,True,True,True,0.8,0.8,convenience_proxy,False
+SC-4705372,"The Co-operative Food Andover, East Anton Farm Road",Southern Co-op,SP11 6RD,True,False,False,,,convenience_proxy,False
+SC-4819776,Welcome Leighton Buzzard,Southern Co-op,LU7 3EL,False,False,False,9.0,14.0,convenience_proxy,False
+SC-4969604,The Co-operative Woodbridge Road,Southern Co-op,GU1 4RN,True,False,False,11.5,12.0,convenience_proxy,False
+SC-5029687,Welcome The Hard,Southern Co-op,PO1 3DT,False,False,False,12.3,14.3,convenience_proxy,False
+SC-5199578,Co-op Food,Southern Co-op,BN18 0UF,True,False,False,7.9,7.9,convenience_proxy,False
+SC-5199855,Welcome Newham,Southern Co-op,E16 2BF,False,False,False,7.2,9.2,convenience_proxy,False
+SC-5792588,Welcome Cuffley,Southern Co-op,EN6 4HX,False,False,False,1.6,1.6,convenience_proxy,False
+SC-5891476,Welcome Croydon,Southern Co-op,CR0 1LL,False,False,False,35.9,36.4,convenience_proxy,False
+SC-5895829,Welcome Aberfeldy Square,Southern Co-op,E14 0XA,False,False,False,21.8,22.8,convenience_proxy,False
+SC-5896716,Welcome Brentford,Southern Co-op,TW8 0RZ,False,False,False,17.0,18.0,convenience_proxy,False
+SC-5902041,Welcome Canada Water,Southern Co-op,SE16 6BH,False,False,False,14.9,16.4,unknown,False
+SC-5902616,Welcome Blackwell,Southern Co-op,BS48 3LH,False,False,False,,,convenience_proxy,False
+SC-5932864,Welcome St Leonards,Southern Co-op,TN37 7AG,False,False,False,9.9,10.9,convenience_proxy,False
+SC-5936135,Welcome Castleford,Southern Co-op,WF10 2HE,False,False,False,4.4,5.2,convenience_proxy,False
+SC-6149043,Welcome Windsor,Southern Co-op,SL4 1LD,False,False,False,16.7,16.7,convenience_proxy,False
+SC-6409828,Welcome Llangollen,Southern Co-op,LL20 8ND,False,False,False,2.7,2.7,unknown,False

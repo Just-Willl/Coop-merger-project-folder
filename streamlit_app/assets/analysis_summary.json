@@ -1,0 +1,16 @@
+{
+  "source_observations": 6164,
+  "entities": 4842,
+  "party_stores": 2651,
+  "assessed_candidate_stores": 861,
+  "catchments": 1722,
+  "flagged_stores_core": 15,
+  "flagged_stores_inclusive": 15,
+  "cma_concern_locations": 19,
+  "cma_locations_flagged_core": 11,
+  "additional_model_flags": 4,
+  "benchmark_comparison": {
+    "flag_both_data_treatments": 11,
+    "not_flagged": 8
+  }
+}

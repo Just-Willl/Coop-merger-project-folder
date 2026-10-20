@@ -1,0 +1,16 @@
+# Local runtimes, secrets and recovery history are never repository content.
+.venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+**/.env
+**/secrets.toml
+.archive/
+
+# Local source snapshots and generated analysis; the app release is versioned.
+data/*
+!data/README.md
+analysis/outputs/
+analysis/test_output/
+.runtime_tmp/

@@ -1,0 +1,2 @@
+# Hosting: the app serves prepared assets and does not need geospatial libraries.
+streamlit==1.66.0

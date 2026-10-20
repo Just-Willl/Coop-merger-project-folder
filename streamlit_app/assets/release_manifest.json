@@ -1,0 +1,15 @@
+{
+  "validation": "Exact reference parity on all catchment and store scores/flags; source identity and canonical anchors verified",
+  "observations": 6164,
+  "entities": 4842,
+  "primary_anchors": 1752,
+  "files": {
+    "analysis_summary.json": "b53d6e9114e518506646819b947837d805a87222f3d9a0ce14b178e93a97e9f1",
+    "benchmark_comparison.csv": "9d7d14103cc3cdc9470c74e54c7427bd855b334417f05b3da637eb1afdd3b8ed",
+    "catchment_results.csv": "0ab40c0ab8736df239d8896972409c479f45d8e36e0e69fa920889c8714c439d",
+    "competition_map.html": "3b7302168ff34a5fc46826fff135003811560e9ac524449972530e3d59540e86",
+    "map_validation.json": "8999f84a4305efa80658bd93d9fc019d255fc4a8de231ff1e3823d2e29f8d542",
+    "rival_contributions.csv": "46aa8007899f2bdd26006611f88b0a2f5404a40185437457560457622ed1f4a5",
+    "store_results.csv": "df2efe16d1f02cde1907a65a4e3c8973c5da45eef9fd5eff032836f29feeb4f9"
+  }
+}

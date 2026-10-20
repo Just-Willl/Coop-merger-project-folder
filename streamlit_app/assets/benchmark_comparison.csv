@@ -1,0 +1,20 @@
+annex_row,store_id,store_name_source,postcode_cma,party_code,centroid_store_id,store_name,party,postcode,eligible,flag_core,flag_inclusive,min_score_core,min_score_inclusive,format_proxy,listed_in_annex1,comparison
+1,CG-106121-0000,East Wittering - Bracklesham Lane,PO20 8JA,CG,CG-106121-0000,East Wittering - Bracklesham Lane,Co-operative Group,PO20 8JA,True,True,True,2.3,2.3,convenience_proxy,True,flag_both_data_treatments
+2,CG-104135-0000,Pagham - The Parade,PO21 4TW,CG,CG-104135-0000,Pagham - The Parade,Co-operative Group,PO21 4TW,True,False,False,,,convenience_proxy,True,not_flagged
+3,CG-105306-0000,Bradford On Avon - Bridge Yard,BA15 1EJ,CG,CG-105306-0000,Bradford On Avon - Bridge Yard,Co-operative Group,BA15 1EJ,True,True,True,2.6,2.6,convenience_proxy,True,flag_both_data_treatments
+4,CG-106568-0000,West Byfleet - The Broadway,KT15 3HA,CG,CG-106568-0000,West Byfleet - The Broadway,Co-operative Group,KT15 3HA,True,False,False,4.3,4.3,convenience_proxy,True,not_flagged
+5,CG-103698-0000,Guildford - High Street,GU1 3BS,CG,CG-103698-0000,Guildford - High Street,Co-operative Group,GU1 3BS,True,False,False,9.4,9.9,convenience_proxy,True,not_flagged
+6,CG-104900-0000,Portland - Easton Square,DT5 1BY,CG,CG-104900-0000,Portland - Easton Square,Co-operative Group,DT5 1BY,True,True,True,1.0,1.0,convenience_proxy,True,flag_both_data_treatments
+7,CG-106587-0000,North Baddesley - Botley Road,SO52 9DW,CG,CG-106587-0000,North Baddesley - Botley Road,Co-operative Group,SO52 9DW,True,True,True,1.6,1.6,convenience_proxy,True,flag_both_data_treatments
+8,CG-105584-0000,Harrietsham - Ashford Road,ME17 1GF,CG,CG-105584-0000,Harrietsham - Ashford Road,Co-operative Group,ME17 1GF,True,False,False,3.3,3.3,convenience_proxy,True,not_flagged
+9,CG-107995-0000,Whitstable - Oxford Street,CT5 1DG,CG,CG-107995-0000,Whitstable - Oxford Street,Co-operative Group,CT5 1DG,True,False,False,4.3,4.8,convenience_proxy,True,not_flagged
+10,SC-4705272,"The Co-operative Food North Baddesley, Seymour Parade",SO52 9FN,SC,SC-4705272,"The Co-operative Food North Baddesley, Seymour Parade",Southern Co-op,SO52 9FN,True,True,True,1.6,1.6,convenience_proxy,True,flag_both_data_treatments
+11,SC-4705282,"The Co-operative Food Lenham, Faversham Road",ME17 2PN,SC,SC-4705282,"The Co-operative Food Lenham, Faversham Road",Southern Co-op,ME17 2PN,True,False,False,3.8,3.8,convenience_proxy,True,not_flagged
+12,SC-4705271,"The Co-operative Food Holbury, Long Lane",SO45 2LG,SC,SC-4705271,"The Co-operative Food Holbury, Long Lane",Southern Co-op,SO45 2LG,True,True,True,1.8,1.8,convenience_proxy,True,flag_both_data_treatments
+13,SC-4705300,Co-op Food,BA15 1QT,SC,SC-4705300,Co-op Food,Southern Co-op,BA15 1QT,True,True,True,1.6,2.1,convenience_proxy,True,flag_both_data_treatments
+14,SC-4705260,The Co-operative Food Yapton,BN18 0EY,SC,SC-4705260,The Co-operative Food Yapton,Southern Co-op,BN18 0EY,True,False,False,3.3,3.3,convenience_proxy,True,not_flagged
+15,SC-4705236,The Co-operative Food Westbourne,PO10 8UE,SC,SC-4705236,The Co-operative Food Westbourne,Southern Co-op,PO10 8UE,True,True,True,1.3,2.8,convenience_proxy,True,flag_both_data_treatments
+16,SC-4705307,"The Co-operative Food Portland, Weston Road",DT5 2BY,SC,SC-4705307,"The Co-operative Food Portland, Weston Road",Southern Co-op,DT5 2BY,True,True,True,1.0,1.0,convenience_proxy,True,flag_both_data_treatments
+17,SC-4705351,"The Co-operative Food Old Sarum, Crosier Close",SP4 6GX,SC,SC-4705351,"The Co-operative Food Old Sarum, Crosier Close",Southern Co-op,SP4 6GX,True,True,True,0.8,1.8,convenience_proxy,True,flag_both_data_treatments
+18,SC-4700827,Welcome Denvilles,PO9 2FE,SC,SC-4700827,Welcome Denvilles,Southern Co-op,PO9 2FE,True,False,False,10.4,11.9,convenience_proxy,True,not_flagged
+19,SC-4700832,Welcome Stubbington,PO14 3LJ,SC,SC-4700832,Welcome Stubbington,Southern Co-op,PO14 3LJ,True,True,True,2.8,2.8,convenience_proxy,True,flag_both_data_treatments

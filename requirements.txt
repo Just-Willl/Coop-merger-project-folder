@@ -1,0 +1,3 @@
+# Entire project: analysis tools plus the separately hosted Streamlit app.
+# Hosting only needs streamlit_app/requirements.txt.
+-r analysis/requirements.txt

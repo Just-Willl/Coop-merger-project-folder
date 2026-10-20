@@ -1,0 +1,4 @@
+left_id,right_id,decision,evidence_url,reason
+GEO-1010007092,OSM-way-134550487,same_premises,https://www.lidl.co.uk/s/en-GB/store-finder/exmouth/dinan-way/,Official Lidl listing confirms Dinan Way EX8 4RZ; OSM links to this exact store page; points are 2.38m apart despite conflicting postcodes
+GEO-1010001716,OSM-way-1177610964,same_premises,https://www.marksandspencer.com/stores/ewell-bp-5791,Official M&S listing confirms Ewell BP London Road KT17 2PT; same M&S fascia and mapped location 1.10m apart
+GEO-1010014360,OSM-way-28036898,same_premises,https://www.budgens.co.uk/our-stores/epsom-service-station,Official Budgens listing confirms 274-276 Kingston Road KT19 0SH; OSM links to this exact store page and points are 3.77m apart
